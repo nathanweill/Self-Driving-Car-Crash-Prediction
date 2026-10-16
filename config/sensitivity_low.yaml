@@ -1,0 +1,110 @@
+# Sensitivity run for the limitations of the N_A estimate discussed in the paper.
+# Every number used by the pipeline is set here; the code has no hidden defaults
+# that change results.
+
+data:
+  dir: data
+  taz_shapefile: TAZ981.shp                     # SF County Transportation Authority TAZ polygons
+  land_use_csv: land_use.csv.gz                 # SF parcel land use (building square footage by use)
+  segments_csv: consensus_segments_wkt.csv.gz   # road segments with Street View (VLM) consensus labels
+  uber_csv: Uber_pickup_dropoff.csv             # mean ride-hailing pickups/dropoffs per TAZ, day and hour
+  hv_crashes_csv: sf_hv_14_25.csv               # human-driven crashes (TIMS/SWITRS), 2014-2025
+  av_crashes_csv: sf_av_combined_2025.csv       # AV collision reports (CA DMV OL 316)
+  city: SAN FRANCISCO
+  av_mode: AM                                   # keep crashes that occurred in autonomous mode
+
+crs: EPSG:26910                                 # NAD83 / UTM zone 10N (meters)
+
+# Spatial units: contiguous Ward agglomeration of the TAZs, then removal of
+# the small components disconnected from the mainland.
+zones:
+  n_clusters: 70
+  # Static TAZ descriptors used by the Ward merge cost (standardized), plus
+  # the TAZ representative-point coordinates.
+  ward_features: [res_share, intersection_density_mean, bus_lane_share]
+  include_coordinates: true
+  adjacency_buffer_m: 5.0
+  island_buffer_m: 1.0           # zones within 1 m of each other are connected
+
+# SENSITIVITY: as config/paper.yaml, but none of Waymo's driverless testing miles are
+# attributed to San Francisco (mileage/sf_testing_miles.py, case "low").
+# Million vehicle miles traveled per year (N_H: human-driven vehicles in SF;
+# N_A: autonomous vehicles in autonomous testing; DMV report years, December to November).
+exposure:
+  2021: {N_H: 3158.9, N_A: 3.34}
+  2022: {N_H: 3487.5, N_A: 4.81}
+  2023: {N_H: 3425.5, N_A: 5.81}
+  2024: {N_H: 3307.7, N_A: 2.55}
+  2025: {N_H: 3465.8, N_A: 2.24}
+
+# Year windows. `selection_years` are used for candidate screening (step 1-5),
+# `train_years` for forward selection and the final fit, `test_year` for evaluation.
+windows:
+  test_2023: {years: [2021, 2022, 2023], selection_years: [2021], train_years: [2021, 2022], test_year: 2023}
+  test_2024: {years: [2021, 2022, 2023, 2024], selection_years: [2021, 2022], train_years: [2021, 2022, 2023], test_year: 2024}
+  test_2025: {years: [2021, 2022, 2023, 2024, 2025], selection_years: [2021, 2022, 2023], train_years: [2021, 2022, 2023, 2024], test_year: 2025}
+
+# Spatial holdout: line through `center` whose normal makes `angle_deg` with
+# the easting axis; the side with the larger median easting is "east".
+geosplit:
+  center: [549099.47, 4178890.90]
+  angle_deg: 135.0
+
+# Evaluation configurations. train_region: null = citywide temporal holdout.
+setups:
+  citywide_2024: {window: test_2024, train_region: null}
+  citywide_2025: {window: test_2025, train_region: null}
+  geo_w2e_2024: {window: test_2024, train_region: west}
+  geo_w2e_2025: {window: test_2025, train_region: west}
+  geo_e2w_2024: {window: test_2024, train_region: east}
+  geo_e2w_2025: {window: test_2025, train_region: east}
+
+# Additional evaluations used only for the Street View comparison.
+extra_setups:
+  citywide_2023: {window: test_2023, train_region: null}
+  geo_w2e_2023: {window: test_2023, train_region: west}
+  geo_e2w_2023: {window: test_2023, train_region: east}
+
+# Candidate pool (computed on the selection years and the training region only).
+screening:
+  min_nonzero_zones: 8           # zone means must be nonzero in at least this many zones
+  min_nonzero_share: 0.10        # ... and in at least this share of the zones
+  max_binary_dominance: 0.90     # 0/1 features: drop if one value covers > 90% of zones
+  drop_uber_total: true          # total = pickups + dropoffs exactly
+  log1p_if_max_above: 1.0        # nonnegative features with max > 1 enter as log(1 + x)
+  corr_threshold: 0.9            # pairwise |Pearson r| pruning (caret-style)
+
+# Forward selection with BIC on the training window.
+selection:
+  tol: 1.0e-9                    # minimum BIC decrease to add a feature
+  # Interaction terms enter only after both parents are selected (strong heredity).
+  interaction_parents:
+    hv_x_intersection_share: [n_hv, at_intersection_share]
+    night_x_dark_streetlights: [night_share, lighting_dark_street_lights_share]
+    night_x_dark_no_lights: [night_share, lighting_dark_no_street_lights_share]
+    bus_len_x_intersection_share: [bus_lane_len_share, at_intersection_share]
+    ped_x_crosswalk_len_share: [ped_accident_share, crosswalk_len_share]
+    bike_x_bikelane_len_share: [bike_accident_share, bike_lane_len_share]
+
+# Profiled Poisson fit (L-BFGS-B on standardized features).
+fit:
+  maxiter: 2000
+  tol: 1.0e-9
+  ftol: 1.0e-14
+  gtol: 1.0e-6
+  eta_clip: 30.0
+
+# Uncertainty quantification (scaled Dirichlet(4) random weighting).
+uncertainty:
+  n_draws: 200
+  seeds:
+    p1: 7          # TrainZone-Mean: zone weights shared by the full and null refits
+    p2_full: 8     # Poisson count simulation, full model
+    p2_null: 12    # Poisson count simulation, intercept-only model
+    p4_full: 14    # TestZone-Metric, full model
+    p4_null: 15    # TestZone-Metric, intercept-only model
+  selection_frequency: {n_draws: 200, seed: 7}
+  residual_permutations: {n_perm: 2000, seed: 0}
+
+figures:
+  heatmap_vmax: 10.0             # common color scale of the four prediction maps

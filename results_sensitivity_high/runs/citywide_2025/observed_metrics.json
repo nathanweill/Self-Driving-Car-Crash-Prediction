@@ -1,0 +1,44 @@
+{
+  "setup": "citywide_2025",
+  "test_year": 2025,
+  "train_years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "train_region": null,
+  "n_train_rows": 260,
+  "selected_features": [
+    "uber_dropoffs_mean_per_km2__lg",
+    "collision_severity_fatal_share",
+    "total_killed__lg"
+  ],
+  "beta": {
+    "intercept": 1.4412618204911904,
+    "uber_dropoffs_mean_per_km2__lg": 0.28827647425215613,
+    "collision_severity_fatal_share": -40.886035964643206,
+    "total_killed__lg": 0.36281164227010737
+  },
+  "null_beta": 2.620467112254025,
+  "full": {
+    "r2": 0.6888786208305828,
+    "mae": 0.8182045627012812,
+    "kendall_tau_b": 0.5063097037354601,
+    "deviance": 74.58182157855076,
+    "total_true": 46.0,
+    "total_pred": 86.55142588687316
+  },
+  "null": {
+    "r2": 0.48600310127754276,
+    "mae": 0.9482852316524419,
+    "kendall_tau_b": 0.46174354537672746,
+    "deviance": 87.71756548482965,
+    "total_true": 46.0,
+    "total_pred": 80.0785630589515
+  },
+  "max_abs_grad": 2.9002853125348338e-05,
+  "null_max_abs_grad": 2.6198598845894594e-11,
+  "full_p1_nonconverged_refits": 0,
+  "null_p1_nonconverged_refits": 5
+}

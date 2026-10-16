@@ -1,0 +1,2 @@
+pipeline,metric,observed,Mean,STD,MAD (scaled),within_95,P2.5,P5,P25,P50,P75,P95,P97.5
+P2,total_count,46.0,59.9,7.729081023468229,8.1543,True,46.0,49.0,54.0,59.0,65.25,73.0,75.0

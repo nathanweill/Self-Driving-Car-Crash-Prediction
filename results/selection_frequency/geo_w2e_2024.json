@@ -1,0 +1,75 @@
+{
+ "setup": "geo_w2e_2024",
+ "B": 200,
+ "seed": 7,
+ "pipeline_selected": [
+  "fatal_crash_share",
+  "collision_severity_severe_injury_share",
+  "med_share"
+ ],
+ "replicated_selected": [
+  "fatal_crash_share",
+  "collision_severity_severe_injury_share",
+  "med_share"
+ ],
+ "freq": {
+  "fatal_crash_share": 0.73,
+  "collision_severity_severe_injury_share": 0.57,
+  "med_share": 0.39,
+  "dawn_dusk_share": 0.27,
+  "uber_pickups_mean_per_km2__lg": 0.195,
+  "pdr_share": 0.155,
+  "retail_share": 0.135,
+  "n_fatal_crashes__lg": 0.105,
+  "weather1_cloudy_share": 0.105,
+  "ped_accident_share": 0.065,
+  "weather1_other_share": 0.065,
+  "road_surface_wet_share": 0.055,
+  "weather1_raining_share": 0.055,
+  "day_share": 0.055,
+  "mips_share": 0.05,
+  "bike_accident_share": 0.045,
+  "at_intersection_share": 0.035,
+  "weekend_share": 0.03,
+  "hv_x_intersection_share__lg": 0.03,
+  "res_share": 0.025,
+  "lighting_dusk_dawn_share": 0.02,
+  "cie_share": 0.02,
+  "collision_severity_other_injury_share": 0.015,
+  "intersection_density_mean__lg": 0.015,
+  "weather1_clear_share": 0.01,
+  "lighting_dark_street_lights_share": 0.005
+ },
+ "size_dist": {
+  "0": 3,
+  "1": 6,
+  "2": 42,
+  "3": 77,
+  "4": 41,
+  "5": 22,
+  "6": 8,
+  "7": 1
+ },
+ "top_sets": [
+  [
+   "collision_severity_severe_injury_share|fatal_crash_share|med_share",
+   11
+  ],
+  [
+   "collision_severity_severe_injury_share|fatal_crash_share",
+   7
+  ],
+  [
+   "collision_severity_severe_injury_share|fatal_crash_share|road_surface_wet_share",
+   6
+  ],
+  [
+   "dawn_dusk_share|fatal_crash_share|med_share",
+   6
+  ],
+  [
+   "fatal_crash_share|pdr_share",
+   5
+  ]
+ ]
+}

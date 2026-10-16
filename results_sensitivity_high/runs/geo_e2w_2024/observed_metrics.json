@@ -1,0 +1,43 @@
+{
+  "setup": "geo_e2w_2024",
+  "test_year": 2024,
+  "train_years": [
+    2021,
+    2022,
+    2023
+  ],
+  "train_region": "east",
+  "n_train_rows": 87,
+  "selected_features": [
+    "uber_dropoffs_mean_per_km2__lg",
+    "road_surface_wet_share",
+    "total_killed__lg"
+  ],
+  "beta": {
+    "intercept": 1.3932798831114084,
+    "uber_dropoffs_mean_per_km2__lg": 0.2840374909267368,
+    "road_surface_wet_share": -9.01898654308678,
+    "total_killed__lg": 0.41047928835159986
+  },
+  "null_beta": 2.3542440960656528,
+  "full": {
+    "r2": 0.3452994888014521,
+    "mae": 0.3111575676814937,
+    "kendall_tau_b": 0.5081063304179083,
+    "deviance": 18.53766457967903,
+    "total_true": 12.0,
+    "total_pred": 11.290675078267013
+  },
+  "null": {
+    "r2": 0.273358725621745,
+    "mae": 0.34241587431870846,
+    "kendall_tau_b": 0.43657722781988,
+    "deviance": 22.128528792579473,
+    "total_true": 12.0,
+    "total_pred": 15.383395660088375
+  },
+  "max_abs_grad": 1.5923571887732635e-06,
+  "null_max_abs_grad": 1.6686884558719806e-06,
+  "full_p1_nonconverged_refits": 2,
+  "null_p1_nonconverged_refits": 4
+}

@@ -1,0 +1,77 @@
+{
+ "setup": "citywide_2025",
+ "B": 200,
+ "seed": 7,
+ "pipeline_selected": [
+  "uber_dropoffs_mean_per_km2__lg",
+  "collision_severity_fatal_share",
+  "total_killed__lg"
+ ],
+ "replicated_selected": [
+  "uber_dropoffs_mean_per_km2__lg",
+  "collision_severity_fatal_share",
+  "total_killed__lg"
+ ],
+ "freq": {
+  "uber_dropoffs_mean_per_km2__lg": 0.765,
+  "collision_severity_fatal_share": 0.74,
+  "hv_x_intersection_share__lg": 0.31,
+  "collision_severity_severe_injury_share": 0.28,
+  "weather1_fog_visibility_share": 0.26,
+  "med_share": 0.255,
+  "weather1_raining_share": 0.225,
+  "dawn_dusk_share": 0.2,
+  "at_intersection_share": 0.16,
+  "bike_accident_share": 0.13,
+  "road_surface_wet_share": 0.125,
+  "mips_share": 0.12,
+  "retail_share": 0.11,
+  "total_killed__lg": 0.1,
+  "lighting_dark_street_lights_share": 0.08,
+  "pdr_share": 0.075,
+  "ped_accident_share": 0.06,
+  "road_surface_slippery_share": 0.05,
+  "weather1_clear_share": 0.045,
+  "lighting_dusk_dawn_share": 0.04,
+  "res_share": 0.04,
+  "intersection_density_mean__lg": 0.025,
+  "weather1_other_share": 0.025,
+  "cie_share": 0.025,
+  "lighting_daylight_share": 0.02,
+  "weather1_cloudy_share": 0.01,
+  "collision_severity_pain_share": 0.005
+ },
+ "size_dist": {
+  "0": 1,
+  "1": 2,
+  "2": 16,
+  "3": 39,
+  "4": 64,
+  "5": 41,
+  "6": 19,
+  "7": 14,
+  "8": 4
+ },
+ "top_sets": [
+  [
+   "collision_severity_fatal_share|med_share|uber_dropoffs_mean_per_km2__lg|weather1_fog_visibility_share",
+   4
+  ],
+  [
+   "collision_severity_fatal_share|med_share|uber_dropoffs_mean_per_km2__lg",
+   4
+  ],
+  [
+   "collision_severity_fatal_share|hv_x_intersection_share__lg|uber_dropoffs_mean_per_km2__lg",
+   3
+  ],
+  [
+   "collision_severity_fatal_share|collision_severity_severe_injury_share|weather1_raining_share",
+   3
+  ],
+  [
+   "collision_severity_fatal_share|hv_x_intersection_share__lg|uber_dropoffs_mean_per_km2__lg|weather1_raining_share",
+   3
+  ]
+ ]
+}

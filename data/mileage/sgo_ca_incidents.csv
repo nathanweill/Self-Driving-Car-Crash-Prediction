@@ -1,0 +1,1756 @@
+Report ID,Same Incident ID,src,Reporting Entity,Operating Entity,Incident Date,City,State,Driver / Operator Type,op,year,sf,onboard
+30270-10919,9ed92f4565a42d7,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-15507,fa5f1c553df1af6,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15584,e3d40a36f727b1e,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15812,4b366cb7dffe394,SGO,Waymo LLC,Waymo LLC,JUL-2026,Sunnyvale,CA,,WAYMO,2026,False,False
+30270-15818,23e5092fb203585,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,In-Vehicle (Commercial / Test),WAYMO,2026,True,True
+30610-15826,755bbd9bfeb9e1a,SGO,"Zoox, Inc.",Zoox,JUN-2026,San Francisco,CA,,ZOOX,2026,True,False
+30270-15788,38eca3b94fe533c,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15831,b9b769d0743c592,SGO,Waymo LLC,Waymo LLC,JUL-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15889,949157d817cf093,SGO,Waymo LLC,Waymo LLC,JUL-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15899,110b5992610ba09,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15925,1c47c1a630c8942,SGO,Waymo LLC,Waymo LLC,JUL-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15895,13cbdf59b0b754c,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15931,4e7333a927567a5,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15927,b9666839a689d51,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15985,4bf66bb3a8f2c04,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15986,62c29a4ff523e85,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15992,4555d0a5062ef12,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16021,8df2402ebdd460f,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Diego,CA,In-Vehicle (Commercial / Test),WAYMO,2026,False,True
+30270-16028,e1bccc94686b59d,SGO,Waymo LLC,Waymo LLC,JUL-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16001,f0d6da4927b1ac1,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16024,4ee911a729687c4,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16020,821101a5f0eddfc,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16023,bc62ea83356d5fd,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16035,97fe20b144e8c53,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Mateo,CA,,WAYMO,2026,False,False
+30270-16080,4f210463b6dbf56,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16034,11a1a3543a7bff5,SGO,Waymo LLC,Waymo LLC,JUL-2026,Culver City,CA,,WAYMO,2026,False,False
+30270-16039,26950c4c180c27b,SGO,Waymo LLC,Waymo LLC,JUL-2026,Beverly Hills,CA,,WAYMO,2026,False,False
+30270-16081,716fbf742f27a58,SGO,Waymo LLC,Waymo LLC,JUL-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16083,196dc696dcf04ac,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16032,c1f1ddfe9f834d5,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15403,09b5a4e89f27448,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15663,7f831d730349c04,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15673,7372116fd2a26e6,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15674,6dd5489a060aecd,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15636,9fc806cd1d491d5,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30610-15707,4366476607eca89,SGO,"Zoox, Inc.",Zoox,JUN-2026,San Francisco,CA,,ZOOX,2026,True,False
+30270-15718,c7d141d1faa4536,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15720,6921816d4ea4ecc,SGO,Waymo LLC,Waymo LLC,JUL-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15669,eeafa92b2068aa7,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15709,6bdc7cb4799729b,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15729,6030e429f5dee26,SGO,Waymo LLC,Waymo LLC,JUL-2026,West Hollywood,CA,,WAYMO,2026,False,False
+30270-15723,339bff8c25c90c8,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15728,06912cee723697b,SGO,Waymo LLC,Waymo LLC,JUL-2026,Palo Alto,CA,,WAYMO,2026,False,False
+30270-15786,da46ed3a1124c94,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15397,cf3296ffcc7bdf9,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15401,0407051edee148a,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15396,2bd875cf276dd75,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15365,fa6740d83180bda,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16082,2ca40dc3f6ff2d2,SGO,Waymo LLC,Waymo LLC,AUG-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15536,aa1eefdd3021328,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15393,025397c44a5648d,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15511,45640610b43a542,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15535,2ff0376b50ebae5,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15642,e18652b03d3c35c,SGO,Waymo LLC,Waymo LLC,JUN-2026,Beverly Hills,CA,,WAYMO,2026,False,False
+30270-15635,69a76d4ab4c428a,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15508,8b578b5c3be9177,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15744,00b490148a8132f,SGO,Waymo LLC,Waymo LLC,JUN-2026,Beverly Hills,CA,,WAYMO,2026,False,False
+30270-15659,f16394ad5598be9,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15583,7dd2f1111b60db0,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15585,cf887eff11bfdc9,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15664,375730eabf1796c,SGO,Waymo LLC,Waymo LLC,JUN-2026,Beverly Hills,CA,,WAYMO,2026,False,False
+30270-15665,5c60ca37c26b42c,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15661,45c43ec2a3f4270,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15782,bb192e5187082b6,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15500,5af7f197a2189c1,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15641,136c91e7f6d7ad8,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16093,571711cd8769c72,SGO,Waymo LLC,Waymo LLC,AUG-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16166,c4ff07cf6c66df2,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16360,b45f2867e8b9806,SGO,Waymo LLC,Waymo LLC,AUG-2026,Inglewood,CA,,WAYMO,2026,False,False
+30270-16404,f7c5e6652c57af2,SGO,Waymo LLC,Waymo LLC,AUG-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16199,e7f85686105b628,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16410,c9e5d27d65dc564,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16396,dc02c204228b8da,SGO,Waymo LLC,Waymo LLC,AUG-2026,Mountain View,CA,,WAYMO,2026,False,False
+30270-16399,5ef96b4948629c7,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16398,db0bf45ccb8b461,SGO,Waymo LLC,Waymo LLC,AUG-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16454,c0df4bba9558f42,SGO,Waymo LLC,Waymo LLC,AUG-2026,Santa Monica,CA,,WAYMO,2026,False,False
+30270-16458,11bd8f24c3d7821,SGO,Waymo LLC,Waymo LLC,AUG-2026,Mountain View,CA,,WAYMO,2026,False,False
+30270-16456,b942e39637f6890,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16497,8193badb5cdde43,SGO,Waymo LLC,Waymo LLC,SEP-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16500,174128888b47cb3,SGO,Waymo LLC,Waymo LLC,SEP-2026,San Francisco,CA,In-Vehicle (Commercial / Test),WAYMO,2026,True,True
+30270-16551,056481205af3d6b,SGO,Waymo LLC,Waymo LLC,SEP-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16577,2f06bba81e69b71,SGO,Waymo LLC,Waymo LLC,SEP-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16579,b0c360ec4bb0a4c,SGO,Waymo LLC,Waymo LLC,SEP-2026,Los Angeles,CA,In-Vehicle (Commercial / Test),WAYMO,2026,False,True
+30270-16663,1a4f5006befd668,SGO,Waymo LLC,Waymo LLC,SEP-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16271,361327250df29db,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16645,b1454dd83a31653,SGO,Waymo LLC,Waymo LLC,AUG-2026,Marina del Rey,CA,,WAYMO,2026,False,False
+30270-16300,ca4d16604b348d6,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Francisco,CA,,WAYMO,2026,True,False
+35021-16694,2f8cf3e40f971bd,SGO,MOIA America LLC,MOIA America LLC,AUG-2026,Beverly Hills,CA,In-Vehicle (Commercial / Test),MOIA AMERICA LL,2026,False,True
+30270-16464,586f6be37a24642,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16489,f11ca3663ae1660,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Mateo,CA,,WAYMO,2026,False,False
+30270-16493,8045a25eedb5404,SGO,Waymo LLC,Waymo LLC,AUG-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16556,a1f66012798119c,SGO,Waymo LLC,Waymo LLC,AUG-2026,Los Angeles,CA,In-Vehicle (Commercial / Test),WAYMO,2026,False,True
+30270-16124,51139e83fbc986a,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16117,a1bd6e40890d3ab,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16132,e0ceb4387af2af6,SGO,Waymo LLC,Waymo LLC,AUG-2026,Redwood City,CA,,WAYMO,2026,False,False
+30270-16133,fcea4f53a914c75,SGO,Waymo LLC,Waymo LLC,AUG-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16374,15c8fe5bfe0fc65,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16291,6d4c2eeadb7f064,SGO,Waymo LLC,Waymo LLC,AUG-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16286,888a7d234f6b3f9,SGO,Waymo LLC,Waymo LLC,AUG-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16258,22cdfc6478274b8,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16278,8c1e4cd053942b8,SGO,Waymo LLC,Waymo LLC,AUG-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15930,0a9a1b52889f5f9,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15984,93d0bca88ebaf07,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16210,cee4c694ffc6293,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15836,7dbf6a4d096c5f6,SGO,Waymo LLC,Waymo LLC,JUL-2026,Redwood City,CA,,WAYMO,2026,False,False
+30270-15828,280d46d0692575e,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16110,71cf32745142916,SGO,Waymo LLC,Waymo LLC,JUL-2026,Redwood City,CA,,WAYMO,2026,False,False
+30270-16168,b153840e2689853,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15810,6fbd453146dc2d4,SGO,Waymo LLC,Waymo LLC,JUL-2026,South San Francisco,CA,In-Vehicle (Commercial / Test),WAYMO,2026,False,True
+30270-16205,2313e0a5276fa7c,SGO,Waymo LLC,Waymo LLC,JUL-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16201,45c84ee98d206a8,SGO,Waymo LLC,Waymo LLC,JUL-2026,Harbor City,CA,In-Vehicle (Commercial / Test),WAYMO,2026,False,True
+30270-15892,9a66ef3e7c03c51,SGO,Waymo LLC,Waymo LLC,JUL-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16111,1cac591a8072dbf,SGO,Waymo LLC,Waymo LLC,JUL-2026,Carson,CA,In-Vehicle (Commercial / Test),WAYMO,2026,False,True
+30270-15893,7b6cae38fea58d6,SGO,Waymo LLC,Waymo LLC,JUL-2026,West Hollywood,CA,,WAYMO,2026,False,False
+30270-15994,76bca586de9a547,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16123,c0adb95d5980d1e,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16114,2234a28c4e8fb96,SGO,Waymo LLC,Waymo LLC,JUL-2026,Los Angeles,CA,In-Vehicle (Commercial / Test),WAYMO,2026,False,True
+30270-16000,79da0353c9601f3,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16022,bff8b6bf656d374,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16033,d1e0d1bca3cb28a,SGO,Waymo LLC,Waymo LLC,JUL-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16036,951720855af03c3,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16050,2bb222591cc8318,SGO,Waymo LLC,Waymo LLC,JUL-2026,Palo Alto,CA,,WAYMO,2026,False,False
+30270-16038,be6ed683f1837df,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16084,0802ab119abd037,SGO,Waymo LLC,Waymo LLC,JUL-2026,Los Angeles,CA,,WAYMO,2026,False,False
+35021-16268,867e7e8f2b81486,SGO,MOIA America LLC,MOIA America LLC,JUL-2026,Beverly Hills,CA,In-Vehicle (Commercial / Test),MOIA AMERICA LL,2026,False,True
+30610-16272,af4708207361ebb,SGO,"Zoox, Inc.",Zoox,JUL-2026,San Mateo,CA,In-Vehicle (Commercial / Test),ZOOX,2026,False,True
+30610-16273,318b53adc81e7b7,SGO,"Zoox, Inc.",Zoox,JUL-2026,San Francisco,CA,,ZOOX,2026,True,False
+30610-16274,a7c35b88282e335,SGO,"Zoox, Inc.",Zoox,JUL-2026,Culver City,CA,In-Vehicle (Commercial / Test),ZOOX,2026,False,True
+30270-16202,b14b5b65c6b7b55,SGO,Waymo LLC,Waymo LLC,AUG-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-16203,eee5b3b428eab9b,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-16209,bb2acce5fe307c5,SGO,Waymo LLC,Waymo LLC,AUG-2026,San Mateo,CA,,WAYMO,2026,False,False
+30270-15938,304a39ba3f7d0e4,SGO,Waymo LLC,Waymo LLC,JUL-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15633,f157ffe36415dcc,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15639,8ff98a0b5787033,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15629,242bac300a49be8,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14715,e739bf5b0d4e4e2,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14931,2977844890af9a7,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14889,39d2636ec10e813,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14849,a6ede4eb521e9a6,SGO,Waymo LLC,Waymo LLC,APR-2026,South San Francisco,CA,,WAYMO,2026,False,False
+30270-14903,ed5b9f20e21dd22,SGO,Waymo LLC,Waymo LLC,APR-2026,Venice,CA,,WAYMO,2026,False,False
+30270-14714,9b4ca07f87a2d06,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14980,9041a50955c6506,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15011,ff549e7641cb967,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15020,d689d09746da864,SGO,Waymo LLC,Waymo LLC,MAY-2026,Redwood City,CA,,WAYMO,2026,False,False
+30270-14986,d9ab087a84f0cd4,SGO,Waymo LLC,Waymo LLC,MAY-2026,Santa Monica,CA,,WAYMO,2026,False,False
+30610-15062,f1b3d813ec0e522,SGO,"Zoox, Inc.",Zoox,APR-2026,San Francisco,CA,,ZOOX,2026,True,False
+30610-15063,3cab2dc34503b45,SGO,"Zoox, Inc.",Zoox,APR-2026,San Francisco,CA,In-Vehicle (Commercial / Test),ZOOX,2026,True,True
+30270-15024,991c8e09082b56f,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15023,ef7b401fdbadc47,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15025,16052bf593662d8,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15021,736fb36f9e489e1,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15075,a8f5d9f02f27967,SGO,Waymo LLC,Waymo LLC,MAY-2026,Menlo Park,CA,,WAYMO,2026,False,False
+30270-15071,fb27be646522e31,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15096,c02f6672ec1a420,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15101,0c49fb4d0ffa565,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15104,35b5ed8b3ad4843,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15105,8c47e2c871cfdd5,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15102,8212332da3212c5,SGO,Waymo LLC,Waymo LLC,MAY-2026,Culver City,CA,,WAYMO,2026,False,False
+30270-15070,3d8644dfd8c835e,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,In-Vehicle and Remote (Commercial / Test),WAYMO,2026,False,True
+30270-15158,3ef344e926bf933,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15159,59a2273fb5694d1,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15160,8bd7b17fadf6f82,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15172,876f3b0429a5e17,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15192,c0746bba88135cc,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14667,8b3ce2dedbec440,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14936,c57f081c3de37e1,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14645,e76a6ccf14c0f2f,SGO,Waymo LLC,Waymo LLC,APR-2026,Redwood City,CA,,WAYMO,2026,False,False
+30270-14711,ae87c732ad0ea3c,SGO,Waymo LLC,Waymo LLC,APR-2026,Beverly Hills,CA,,WAYMO,2026,False,False
+30270-14806,1e00cff247e0087,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14809,319eb0dc9f09a4d,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14828,7c3c57cd270297f,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14831,a026953be239155,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14846,8d097df63e2554f,SGO,Waymo LLC,Waymo LLC,APR-2026,Daly City,CA,,WAYMO,2026,False,False
+30270-14847,c22e207e0cf06b3,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14848,291725a17aa4030,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14888,1f4a8ee6abacd25,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14850,a67935c163b04b7,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14894,6c562c5ecd705a5,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14927,cab44a303787960,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14976,b94eef835627fe8,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14939,56ac17ee8f3d57b,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15175,3f95cea5fcf8776,SGO,Waymo LLC,Waymo LLC,MAY-2026,West Hollywood,CA,,WAYMO,2026,False,False
+30270-15009,1f49cee006a3ed0,SGO,Waymo LLC,Waymo LLC,MAY-2026,South San Francisco,CA,,WAYMO,2026,False,False
+30270-14710,91a170b2eebc71e,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14579,ecdd616fa14eec7,SGO,Waymo LLC,Waymo LLC,APR-2026,Mountain View,CA,,WAYMO,2026,False,False
+30270-14580,91cfb958f2b3cfb,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14582,44b0158626395a9,SGO,Waymo LLC,Waymo LLC,APR-2026,Santa Clara,CA,,WAYMO,2026,False,False
+30270-14811,0d97ebf41e4d993,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14844,206217a4cc1cfa4,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14832,c2e8747368f98df,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14845,4833ce94c159460,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14937,efe397e7cb77f46,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14905,31b153f9cce89b8,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14887,2723c102bcae75c,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14907,24c659c273dda76,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14882,ee7e8b35b4c6eda,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30610-15018,ed9fe1a7cb56205,SGO,"Zoox, Inc.",Zoox,MAY-2026,San Francisco,CA,,ZOOX,2026,True,False
+30270-15193,6fae4f5dac9537c,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15194,c5f49850f96e468,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15244,d1a5d22fd4b06f6,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15289,588c6d255f424b8,SGO,Waymo LLC,Waymo LLC,MAY-2026,Culver City,CA,,WAYMO,2026,False,False
+30270-15299,e532f51ac1aa8aa,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15291,62662c13b50031b,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15298,0ffe81feb04236f,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15261,ac5b68479162724,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15287,bc19b427e3a246f,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15177,36d96f9b2661bd3,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15030,0714d81c98729b4,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15069,11ee822371429c8,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14989,96b7cee8621bc70,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15029,78d4173a18eaa52,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30610-15481,1549113738cf5fd,SGO,"Zoox, Inc.",Zoox,MAY-2026,San Francisco,CA,In-Vehicle (Commercial / Test),ZOOX,2026,True,True
+30270-15425,4a4070e3cadc67a,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15472,7f3905efe57d2a6,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15255,d29f5a4b9ddf9ef,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15482,61eac6ee6bd0367,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15483,d379326751d30fa,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15484,0979687e38f8f78,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Bruno,CA,,WAYMO,2026,False,False
+30270-15502,8f666d5db1507b9,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15503,a1777d40f83a37a,SGO,Waymo LLC,Waymo LLC,JUN-2026,Mountain View,CA,,WAYMO,2026,False,False
+30270-15504,c75f8248f8d2dce,SGO,Waymo LLC,Waymo LLC,JUN-2026,Emeryville,CA,In-Vehicle (Commercial / Test),WAYMO,2026,False,True
+30270-15559,8da785eec3187c9,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15546,ed7a29287f4cbc0,SGO,Waymo LLC,Waymo LLC,JUN-2026,Culver City,CA,,WAYMO,2026,False,False
+30270-15551,eab08d64f46b023,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15549,2e533ecc396fce2,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15586,a2dd94ce934265a,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15558,41ba6e02ad144d9,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15590,b83282f32aa9b0c,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15593,4a126f360629b70,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15510,aedcdbfcb94c218,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30610-16700,1af5ac5e4b10f14,SGO,"Zoox, Inc.",Zoox,AUG-2026,San Francisco,CA,,ZOOX,2026,True,False
+30270-15195,3882252d5641b7a,SGO,Waymo LLC,Waymo LLC,MAY-2026,Redwood City,CA,,WAYMO,2026,False,False
+30270-15290,eabf7708a56cc45,SGO,Waymo LLC,Waymo LLC,MAY-2026,Sunnyvale,CA,,WAYMO,2026,False,False
+30270-15246,fc8edb9a7204402,SGO,Waymo LLC,Waymo LLC,MAY-2026,Inglewood,CA,,WAYMO,2026,False,False
+30270-15249,df4f2168746b1c0,SGO,Waymo LLC,Waymo LLC,MAY-2026,Burlingame,CA,,WAYMO,2026,False,False
+30270-15250,438363c55b5eb24,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15245,ac76f9ac339d71d,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15252,523216e6e8979bf,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15254,501f3b7ddfa7aa6,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15301,04975f9cbbbb0e2,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15344,6eb0013826abd0b,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15350,6f1e53fb8c87cd4,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15347,47b2c684d32f1af,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15348,a5c97133cf2d665,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15349,7cf407372ae7b93,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15374,1358e3b8e968ed0,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15346,06da8374e99eb68,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15285,d1da10f4bebadec,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15353,221c35a064eb9f9,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15360,960f84364036c6d,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14908,ef6425970681a10,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14981,a4855381bcacb33,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14984,45ed3d57421171c,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14992,1124d490953b219,SGO,Waymo LLC,Waymo LLC,MAY-2026,Santa Monica,CA,,WAYMO,2026,False,False
+30270-14987,6c59fc757b5cd6f,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15002,4a6b7e3f7b3d162,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14945,ddb8d6f6705d53f,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15014,53742358e772844,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Jose,CA,,WAYMO,2026,False,False
+30270-15106,7d6d4942edb67c8,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15190,9e6517cb4be86b4,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15178,1130e10f709f619,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15179,8457fb412081c72,SGO,Waymo LLC,Waymo LLC,MAY-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-15191,a4b1d8f5658680c,SGO,Waymo LLC,Waymo LLC,MAY-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-15352,6a20d07f9bbfd90,SGO,Waymo LLC,Waymo LLC,JUN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14804,bae2cf6c304a1ed,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30610-16696,127342ffb2f400a,SGO,"Zoox, Inc.",Zoox,AUG-2026,San Francisco,CA,In-Vehicle (Commercial / Test),ZOOX,2026,True,True
+30270-16348,906b574995746f0,SGO,Waymo LLC,Waymo LLC,AUG-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30590-3431,3c16270cbee19db,pre,Apple Inc.,Apple Inc.,JUN-2022,Mountain View,CA ,In-Vehicle (Commercial / Test),APPLE,2022,False,True
+30531-3445,9c542b98eb35e88,pre,Transdev Alternative Services,Waymo LLC,JUN-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30531-3446,e6e94b9e10d5c39,pre,Transdev Alternative Services,Waymo LLC,JUN-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+540-3647,840c1edd23883ed,pre,"General Motors, LLC",Cruise LLC,JUL-2022,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2022,True,False
+540-3643,0585384b4e974df,pre,"General Motors, LLC",Cruise LLC,JUL-2022,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2022,True,False
+540-3645,de1e4b6864f40ef,pre,"General Motors, LLC",Cruise LLC,JUL-2022,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2022,True,False
+540-3644,80f5e3334587177,pre,"General Motors, LLC",Cruise LLC,JUL-2022,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2022,True,False
+30531-3660,8c56b788577d262,pre,Transdev Alternative Services,Waymo LLC,JUN-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30531-3662,192521d01c49ce2,pre,Transdev Alternative Services,Waymo LLC,JUL-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30531-3663,7f5142da0d24ab5,pre,Transdev Alternative Services,Waymo LLC,JUL-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30531-3664,77b0e0470ca0a8a,pre,Transdev Alternative Services,Waymo LLC,JUL-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30531-3665,f9f2c224be8a261,pre,Transdev Alternative Services,Waymo LLC,JUL-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30610-3320,898ecff58636c86,pre,"Zoox, Inc.",Zoox Inc.,JUN-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+540-2928,2d91b0082b762ab,pre,"General Motors, LLC",Cruise LLC,APR-2022,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2022,True,False
+540-2927,7b3835d9afdf5e9,pre,"General Motors, LLC",Cruise LLC,APR-2022,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2022,True,True
+30711-2862,e02ac2db7471ebc,pre,Pony.ai,Pony.ai,APR-2022,Miliptas,CA ,In-Vehicle (Commercial / Test),PONY,2022,False,True
+30610-2913,96436de08bdb31e,pre,"Zoox, Inc.",Zoox,APR-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+30270-3009,fd2808a42e30ceb,pre,Waymo LLC,Waymo LLC,APR-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-3011,0154ad8a3896f31,pre,Waymo LLC,Waymo LLC,APR-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+540-3123,6b298fec78911d4,pre,"General Motors, LLC",Cruise LLC,MAY-2022,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2022,True,True
+30711-3157,ae16b7a8038ba70,pre,Pony.ai,Pony.ai,MAY-2022,Irvine,CA ,In-Vehicle (Commercial / Test),PONY,2022,False,True
+30531-3225,d91c576aa55da63,pre,Transdev Alternative Services,Waymo LLC,MAY-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30531-3226,d3012e172ec954c,pre,Transdev Alternative Services,Waymo LLC,MAY-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30531-3227,922887c7b03509c,pre,Transdev Alternative Services,Waymo LLC,MAY-2022,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),WAYMO,2022,True,True
+30412-2886,bfe1f6e953a7063,pre,Cruise LLC,Cruise LLC,APR-2022,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2022,True,False
+540-4670,c65deb7d73ffd40,pre,"General Motors, LLC",Cruise LLC,DEC-2022,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2022,True,False
+540-4671,8bfa1a0f855252b,pre,"General Motors, LLC",Cruise LLC,DEC-2022,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2022,True,False
+30610-4815,e3735a4436407e9,pre,"Zoox, Inc.",Zoox,JAN-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2023,True,True
+855-5055,387fb65aeb5202f,pre,"Mercedes-Benz USA, LLC",Mercedes-Benz Research and Development North America,FEB-2023,Downey,CA ,In-Vehicle (Commercial / Test),MERCEDES,2023,False,True
+540-5060,1554418482f70b1,pre,"General Motors, LLC",Cruise LLC,FEB-2023,San Fancisco,CA ,Remote (Commercial / Test),CRUISE,2023,False,False
+30270-11205,dadd18ab4cc4fcb,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30610-3751,a3037ba8b0702a4,pre,"Zoox, Inc.",Zoox Inc.,AUG-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+540-3820,d827a618d04f24a,pre,"General Motors, LLC",Cruise LLC,AUG-2022,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2022,True,True
+30270-3842,72c8ad256e6283a,pre,Waymo LLC,Waymo LLC,AUG-2022,San Francisco,CA ,,WAYMO,2022,True,False
+30531-3880,e0563b63e1a8347,pre,Transdev Alternative Services,Waymo LLC,AUG-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30531-3881,ca8c63af9d4185b,pre,Transdev Alternative Services,Waymo LLC,AUG-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30531-3884,f4d487ba374fe26,pre,Transdev Alternative Services,Waymo LLC,AUG-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30412-3801,35e10a085af7d4b,pre,Cruise LLC,Cruise LLC,AUG-2022,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2022,True,True
+30531-4079,ef640dbe91eb562,pre,Transdev Alternative Services,Waymo LLC,SEP-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30531-4081,608483a735c3efb,pre,Transdev Alternative Services,Waymo LLC,SEP-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30610-4215,ee7410fb0a17f2e,pre,"Zoox, Inc.",Zoox,OCT-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+30610-4217,ff1fb0799a4f9e8,pre,"Zoox, Inc.",Zoox,OCT-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+30531-4278,27528ff2c99e583,pre,Transdev Alternative Services,Waymo LLC,OCT-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30610-4385,3af30c276bb69b3,pre,"Zoox, Inc.",Zoox Inc.,NOV-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+30610-4383,7f8f08e31baa51a,pre,"Zoox, Inc.",Zoox Inc.,NOV-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+30610-4362,cd46839f7e32cc9,pre,"Zoox, Inc.",Zoox Inc.,NOV-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+30270-4485,5628c7d47cd45e9,pre,Waymo LLC,Waymo LLC,NOV-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-4072,fa194d70fbd9972,pre,Waymo LLC,Waymo LLC,SEP-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30412-2885,059363eb92eeb8d,pre,Cruise LLC,Cruise LLC,APR-2022,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2022,True,False
+30412-2884,a773c7629437fd1,pre,Cruise LLC,Cruise LLC,APR-2022,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2022,True,False
+30792-1699,2926e5994b7c3a5,pre,WeRide Corp,Weride Corp,NOV-2021,San Jose,CA ,In-Vehicle (Commercial / Test),WERIDE,2021,False,True
+30412-1389,69902b4f9484463,pre,Cruise LLC,Cruise,OCT-2021,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2021,True,True
+30610-1732,3f31d9494b5ff0b,pre,"Zoox, Inc.",Zoox,OCT-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2021,True,True
+30531-1742,488a8ae4eedfb82,pre,Transdev Alternative Services,Waymo LLC,OCT-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30531-1743,765d2c91289bd7f,pre,Transdev Alternative Services,Waymo LLC,OCT-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30531-1744,31698dec0f30d7d,pre,Transdev Alternative Services,Waymo LLC,OCT-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30531-1745,9988693979353b9,pre,Transdev Alternative Services,Waymo LLC,OCT-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30270-1824,e6fdd97cb301d10,pre,Waymo LLC,Waymo LLC,NOV-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30792-1031,7e6339198926ba7,pre,WeRide Corp,Weride Corp,JUL-2021,San Jose,CA ,In-Vehicle (Commercial / Test),WERIDE,2021,False,True
+30412-1089,dfa7cebb30de052,pre,Cruise LLC,CRUISE,JUL-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),CRUISE,2021,True,True
+30610-1281,19817d09a00fa8f,pre,"Zoox, Inc.",Zoox,SEP-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2021,True,True
+30531-1326,c882936e5c7827a,pre,Transdev Alternative Services,"Waymo, LLC.",AUG-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30531-1328,d5901cab90a4303,pre,Transdev Alternative Services,"Waymo, LLC.",AUG-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30610-1441,0d793f16e8354d9,pre,"Zoox, Inc.",Zoox Inc.,SEP-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2021,True,True
+30590-1482,9b9e8318ed96db6,pre,Apple Inc.,Apple Inc.,SEP-2021,Sunnyvale,CA ,In-Vehicle (Commercial / Test),APPLE,2021,False,True
+30270-1494,1dacdcc3d3d698e,pre,Waymo LLC,Waymo LLC,SEP-2021,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),WAYMO,2021,True,True
+30270-1495,a2f72a0435b1c3e,pre,Waymo LLC,Waymo LLC,SEP-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30270-1500,0d0ae62c0bf671d,pre,Waymo LLC,Waymo LLC,SEP-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30270-1311,93ff2213b39d943,pre,Waymo LLC,Waymo LLC,AUG-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30412-1870,f569d4f9a3d9b18,pre,Cruise LLC,Cruise,NOV-2021,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2021,True,True
+30610-2482,2aa124cfd4ca325,pre,"Zoox, Inc.",Zoox,FEB-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+30270-2551,a85a7c4da377987,pre,Waymo LLC,Waymo LLC,FEB-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-2552,6760a5723220425,pre,Waymo LLC,Waymo LLC,FEB-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-2553,82533cc71dbe287,pre,Waymo LLC,Waymo LLC,FEB-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-2554,330b02ca7bf113d,pre,Waymo LLC,Waymo LLC,FEB-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-2555,5c272086feb4f9f,pre,Waymo LLC,Waymo LLC,FEB-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-2556,4aa11f8103e3b99,pre,Waymo LLC,Waymo LLC,FEB-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30711-2666,4b9badd8c2314e0,pre,Pony.ai,Pony.ai,MAR-2022,Tustin,CA ,In-Vehicle (Commercial / Test),PONY,2022,False,True
+30610-2651,803ff4d1cb60b2e,pre,"Zoox, Inc.",Zoox,MAR-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+30270-2773,8e5bfe2fb940434,pre,Waymo LLC,Waymo LLC,MAR-2022,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),WAYMO,2022,True,True
+30270-2775,59e45d877dc8e66,pre,Waymo LLC,Waymo LLC,MAR-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30610-16701,acdefdc31f28d73,SGO,"Zoox, Inc.",Zoox,AUG-2026,San Francisco,CA,,ZOOX,2026,True,False
+30270-2329,fb21c8dbc9a660d,pre,Waymo LLC,Waymo LLC,JAN-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30531-1941,45f715e92eb4757,pre,Transdev Alternative Services,Waymo LLC.,NOV-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30531-1942,837ba2955e69b46,pre,Transdev Alternative Services,Waymo LLC.,NOV-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30531-1943,03d5dd9340f2d40,pre,Transdev Alternative Services,Waymo LLC.,NOV-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30270-1983,59513ab6ced8ed3,pre,Waymo LLC,Waymo LLC,DEC-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+540-2078,c7b2b7547ace394,pre,"General Motors, LLC",Cruise LLC,DEC-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),CRUISE,2021,True,True
+540-2101,0785569a15960a6,pre,"General Motors, LLC",Cruise LLC,DEC-2021,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2021,True,True
+540-2103,bcd5c7d623b0294,pre,"General Motors, LLC",Cruise LLC,NOV-2021,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2021,True,True
+30270-2323,c1366ff879b2e05,pre,Waymo LLC,Waymo LLC,JAN-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+540-2100,7f147216f2506e2,pre,"General Motors, LLC",Cruise LLC,DEC-2021,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2021,True,True
+30270-2150,01a0825772194e1,pre,Waymo LLC,Waymo LLC,DEC-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30270-2197,7e9b9cd2a74e8fc,pre,Waymo LLC,Waymo LLC,JAN-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-2206,803359be848aa10,pre,Waymo LLC,Waymo LLC,JAN-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-2226,0348df51e94570a,pre,Waymo LLC,Waymo LLC,JAN-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30610-2245,7caf349415e0dd6,pre,"Zoox, Inc.",Zoox Inc.,JAN-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+30270-2327,c961e0fa66063ae,pre,Waymo LLC,Waymo LLC,JAN-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-2328,2bbc30ea7de3b1b,pre,Waymo LLC,Waymo LLC,JAN-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-2149,a0c5ba77c698760,pre,Waymo LLC,Waymo LLC,DEC-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+540-5061,e67b7f9cd19c53f,pre,"General Motors, LLC",Cruise LLC,FEB-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-14803,9ac03615081c068,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14737,e57194c05a5f9d1,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-11997,9dd54dcd7afd557,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11998,b33311e46ea3535,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-12007,45e88d54187c94f,SGO,Waymo LLC,Waymo LLC,OCT-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-12011,1db3847d4bf1127,SGO,Waymo LLC,Waymo LLC,OCT-2025,Mountain View,CA,,WAYMO,2025,False,False
+30270-12013,aae416a964f693a,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-12050,ef0962cc3b93fcf,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-12018,dc57e0dc1c2928f,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-12045,5a3c442be71fcfe,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-12059,81936f2041c0cfa,SGO,Waymo LLC,Waymo LLC,OCT-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-12049,32c00f0d6c5ba03,SGO,Waymo LLC,Waymo LLC,NOV-2025,South San Francisco,CA,,WAYMO,2025,False,False
+30270-12047,39921144de0d421,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-12060,0368ea25cf26444,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-12056,bde66b9c66c03b6,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-12061,9272efdb850fed3,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13023,5a2e2ce28378bff,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-12055,3cae49a5f1c9b2a,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-12054,4a4270ce39bd820,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13054,ce7cc3f092cf1bf,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13055,cb29a083da839a5,SGO,Waymo LLC,Waymo LLC,NOV-2025,South San Francisco,CA,,WAYMO,2025,False,False
+30270-13080,2a1910c31a9964b,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13062,1dfe493f4f85e40,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13063,f5ef8226f63632b,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13064,39e914432c9731f,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13068,534cbfd41219280,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13079,015a78523465889,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13065,3868794c4d4b3e8,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13067,e7860f4e249fa50,SGO,Waymo LLC,Waymo LLC,NOV-2025,Culver City,CA,,WAYMO,2025,False,False
+30270-13089,331e58653eefc19,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30610-13121,a8b9b6b3fc669de,SGO,"Zoox, Inc.",Zoox,OCT-2025,San Francisco,CA,In-Vehicle (Commercial / Test),ZOOX,2025,True,True
+30270-11995,5dd7038d2ace4ed,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11962,ebfb454aa0fde34,SGO,Waymo LLC,Waymo LLC,OCT-2025,Mountain View,CA,,WAYMO,2025,False,False
+30270-11936,4dba4909c267c16,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Mateo,CA,,WAYMO,2025,False,False
+30270-11951,0b9e6fdfdb3821e,SGO,Waymo LLC,Waymo LLC,OCT-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11883,3f169a09f1a1430,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11874,7ed218ffbe82b26,SGO,Waymo LLC,Waymo LLC,OCT-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11884,c5d0bde1a4f83ed,SGO,Waymo LLC,Waymo LLC,OCT-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11839,d8b6f7f5b4b77bf,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11695,fafbadbfaa69a69,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11701,6cf741e9149e67a,SGO,Waymo LLC,Waymo LLC,SEP-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11702,bf0af7f5d4c8d2a,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11716,d03b66d1142a2bf,SGO,Waymo LLC,Waymo LLC,SEP-2025,Santa Monica,CA,,WAYMO,2025,False,False
+30270-11763,3382458076101ad,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11852,b005e037a7920b1,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11851,5f7ba65a97e90d7,SGO,Waymo LLC,Waymo LLC,SEP-2025,South San Francisco,CA,,WAYMO,2025,False,False
+30270-11768,9d9ea44aee989b1,SGO,Waymo LLC,Waymo LLC,SEP-2025,Santa Monica,CA,,WAYMO,2025,False,False
+30270-11790,ab730b8852be08c,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11795,b34a36ed3a89a10,SGO,Waymo LLC,Waymo LLC,SEP-2025,Daly City,CA,,WAYMO,2025,False,False
+30610-13122,2c4ef061d231dcf,SGO,"Zoox, Inc.",Zoox,OCT-2025,San Francisco,CA,In-Vehicle (Commercial / Test),ZOOX,2025,True,True
+30270-11769,39c3b2df5355da8,SGO,Waymo LLC,Waymo LLC,SEP-2025,West Hollywood,CA,,WAYMO,2025,False,False
+30270-11717,0d7985898055083,SGO,Waymo LLC,Waymo LLC,SEP-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11718,327e47a53931e77,SGO,Waymo LLC,Waymo LLC,SEP-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11761,69851629c401c31,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11853,7d9661d6d9464e2,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11765,f6de4eae2f1319d,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30610-11902,ffa7fe31f8c8d1a,SGO,"Zoox, Inc.",Zoox,SEP-2025,San Francisco,CA,,ZOOX,2025,True,False
+30270-11888,fd409bce4522b88,SGO,Waymo LLC,Waymo LLC,OCT-2025,Redwood City,CA,,WAYMO,2025,False,False
+30270-11904,f52b37f18c501f5,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11924,e546747f8848f04,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11925,52b720a94612208,SGO,Waymo LLC,Waymo LLC,OCT-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11926,d467f1a99590b12,SGO,Waymo LLC,Waymo LLC,OCT-2025,South San Francisco,CA,,WAYMO,2025,False,False
+30270-11952,aab26e79fd9b574,SGO,Waymo LLC,Waymo LLC,OCT-2025,Los Angeles,CA,In-Vehicle (Commercial / Test),WAYMO,2025,False,True
+30270-11931,7aa05063c1e8fab,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11940,16bc5d008489b40,SGO,Waymo LLC,Waymo LLC,OCT-2025,Burlingame,CA,,WAYMO,2025,False,False
+30270-11724,cecddedec7fe69a,SGO,Waymo LLC,Waymo LLC,SEP-2025,Inglewood,CA,,WAYMO,2025,False,False
+30270-11868,30d0a676f0644a8,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,In-Vehicle (Commercial / Test),WAYMO,2025,True,True
+30270-11882,8323c3f4e4a2b38,SGO,Waymo LLC,Waymo LLC,OCT-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13025,2d38ff113274d20,SGO,Waymo LLC,Waymo LLC,OCT-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13302,f91f501cceb2bff,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13301,edcc53966f2dc75,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13320,d5ace6c48f831a4,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13324,2234317073e09fd,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13325,b1206b74c116caf,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13099,d9550aa70b90958,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13082,403c5fc83552c95,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13066,9f0d1fe0d47387b,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13238,ea62cd0a21f6a7a,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13102,091301476ab8ada,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13201,f6c34d57b306684,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13311,6bfeaaceecba2e3,SGO,Waymo LLC,Waymo LLC,NOV-2025,Marina del Rey,CA,,WAYMO,2025,False,False
+30270-13312,edec9e54071c6ad,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13199,cf7fad3cdabde9d,SGO,Waymo LLC,Waymo LLC,NOV-2025,West Hollywood,CA,,WAYMO,2025,False,False
+30270-13204,78c1cd4769f96d4,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13205,a30779c2f50647e,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13274,260ce8366bd8421,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13206,6c0b324ca409978,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13235,d0fc94d6374ada4,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13236,15cb5b781820fcc,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13250,7de80c3d901a4ae,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13251,4854612b6fd614b,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13254,3dec32a59a22b69,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13328,5c20154740676df,SGO,Waymo LLC,Waymo LLC,DEC-2025,Venice,CA,,WAYMO,2025,False,False
+30270-13129,b1e228f313db6c5,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13155,26de6e7410cd8c2,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13189,600e5d97e4280fc,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13195,5e05dd39035930e,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13196,ea640166d0e943a,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13300,fe2407fd3ee875d,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13244,be7eac3aa1b0084,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13243,34255619c1b3a52,SGO,Waymo LLC,Waymo LLC,NOV-2025,West Hollywood,CA,,WAYMO,2025,False,False
+30270-13242,85b8b6408eea2a0,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11999,f41f1630738f1f1,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11988,8b66840412da94b,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-12046,21069cdd3025f5a,SGO,Waymo LLC,Waymo LLC,OCT-2025,Daly City,CA,,WAYMO,2025,False,False
+30270-11953,11a005287474baf,SGO,Waymo LLC,Waymo LLC,OCT-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11956,707d7e7f6f3224f,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13053,0af5ed944abe6b7,SGO,Waymo LLC,Waymo LLC,OCT-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11928,8c2cc8c1d4b3c72,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11907,305dbd71a578ade,SGO,Waymo LLC,Waymo LLC,OCT-2025,Santa Monica,CA,,WAYMO,2025,False,False
+30270-11955,32f2ada59815439,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11949,76e2cf9103d86dc,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-12008,dd60301d1790d57,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-12042,af51331ccae3fad,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-12062,b25a04701162c4a,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-12063,958f8512e398c60,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11906,a26386f6cfbf517,SGO,Waymo LLC,Waymo LLC,OCT-2025,Mountain View,CA,,WAYMO,2025,False,False
+30270-12070,bab70714966d661,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11865,c7e36d5fe485dd7,SGO,Waymo LLC,Waymo LLC,OCT-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13100,d67766755374650,SGO,Waymo LLC,Waymo LLC,NOV-2025,Mountain View,CA,,WAYMO,2025,False,False
+30270-13126,0de678124c2f3b5,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13128,50423c969f57fbe,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13130,d7d97ff4b2b411a,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13133,88a86c91ffa1cc2,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13137,76d67222293b2a7,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13159,3e398b2b7ba7092,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13167,bb1ec8d2c85745a,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13198,2908275d904dec6,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13193,3eca389fa864457,SGO,Waymo LLC,Waymo LLC,NOV-2025,Culver City,CA,,WAYMO,2025,False,False
+30270-13197,fd92b0f3985c4b4,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13239,139935829f21dda,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13240,741c5bf006b3e9d,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13096,7454cf9f599bad4,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11864,f2e0606b20a817f,SGO,Waymo LLC,Waymo LLC,OCT-2025,Santa Monica,CA,,WAYMO,2025,False,False
+30270-11861,b51c9610ccc8b05,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11858,c6b8e69937446c8,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11372,c80d863997ae201,SGO,Waymo LLC,Waymo LLC,JUL-2025,Inglewood,CA,,WAYMO,2025,False,False
+30270-11373,84821e0a3d13b1d,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11378,dc282220b0999f2,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11384,82084d87a4c6155,SGO,Waymo LLC,Waymo LLC,JUL-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11400,465231c70c23f76,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11403,90b259cb9879f1a,SGO,Waymo LLC,Waymo LLC,JUL-2025,Santa Clara,CA,In-Vehicle (Commercial / Test),WAYMO,2025,False,True
+30270-11420,5ae11ed429c3054,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11413,c56a405e1e55dd9,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11430,69aa25a07f80696,SGO,Waymo LLC,Waymo LLC,JUL-2025,Inglewood,CA,,WAYMO,2025,False,False
+30270-11450,95004cd5904030e,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11433,966cc9f416e8092,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11456,c8fc5852e372cc1,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11469,e50c2bf2e2ca222,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11476,866839b247a16d6,SGO,Waymo LLC,Waymo LLC,AUG-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11474,44a3e9735d95629,SGO,Waymo LLC,Waymo LLC,AUG-2025,West Hollywood,CA,,WAYMO,2025,False,False
+30270-11490,f954a67865eecaa,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30610-11497,27f5ade8b2a100c,SGO,"Zoox, Inc.",Zoox,AUG-2025,San Francisco,CA,,ZOOX,2025,True,False
+30270-11475,95250f9715252ce,SGO,Waymo LLC,Waymo LLC,AUG-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11495,d977b50f4d37e80,SGO,Waymo LLC,Waymo LLC,AUG-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11344,771247c1ce646c6,SGO,Waymo LLC,Waymo LLC,JUL-2025,West Hollywood,CA,,WAYMO,2025,False,False
+30270-11333,2f75c49fec63a68,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11360,d00b320794bb6ab,SGO,Waymo LLC,Waymo LLC,JUL-2025,West Hollywood,CA,,WAYMO,2025,False,False
+30270-11362,18072fb0213f2ae,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11401,3104047ca823dd2,SGO,Waymo LLC,Waymo LLlC,JUL-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11358,f58d325bece78b3,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11365,6b59e700b92699f,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11374,5ea054a03072b23,SGO,Waymo LLC,Waymo LLC,JUL-2025,Inglewood,CA,,WAYMO,2025,False,False
+30270-11402,e45068dd539185e,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11329,0f920297cd173cf,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11295,7412ebe4198c6d2,SGO,Waymo LLC,Waymo LLC,JUN-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11213,d6a987c7a05b960,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11192,92df21aac24163e,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11218,d255c89929a41d5,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11244,c5dde17f2aed8f4,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11245,8756a4e64fc7a92,SGO,Waymo LLC,Waymo LLC,JUN-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11249,4304f70c342cd2e,SGO,Waymo LLC,Waymo LLC,JUN-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11273,3551e837b0c6d97,SGO,Waymo LLC,Waymo LLC,JUL-2025,Inglewood,CA,,WAYMO,2025,False,False
+30270-11279,227230f1de818d3,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11280,b073d9500f2a829,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11282,ee2c2f62011d1fd,SGO,Waymo LLC,Waymo LLC,JUL-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11281,9d871ee2ff7dfbb,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11284,2b65fb57cedb2be,SGO,Waymo LLC,Waymo LLC,JUL-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30610-11331,47713b36db6b69b,SGO,"Zoox, Inc.",Zoox,JUN-2025,San Francisco,CA,In-Vehicle (Commercial / Test),ZOOX,2025,True,True
+30270-11171,8ba574a9859120e,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11207,56830e4872a9456,SGO,Waymo LLC,Waymo LLC,JUN-2025,Santa Monica,CA,,WAYMO,2025,False,False
+30270-11418,790af34ef6ca18a,SGO,Waymo LLC,Waymo LLC,JUL-2025,Santa Monica,CA,,WAYMO,2025,False,False
+30270-11162,1ebe907985a68ed,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11210,7bbd2078dd35271,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11170,e00539d9dd3e204,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11193,75cce9e520f8dfa,SGO,Waymo LLC,Waymo LLC,JUN-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11196,d470944e83ae37e,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11175,fe63eedaba9ae4b,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11194,828969da7ea904a,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11225,e6591dfdcc2f4ce,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11195,8d5cc926e03a30b,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Bruno,CA,,WAYMO,2025,False,False
+30270-11221,1436cd07e601213,SGO,Waymo LLC,Waymo LLC,JUN-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11239,62c8177e09ec066,SGO,Waymo LLC,Waymo LLC,JUN-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11250,4104ed1258e00d3,SGO,Waymo LLC,Waymo LLC,JUN-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11298,27c3c22629eaab4,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30291-11324,5f13ffff6407733,SGO,Nuro,Nuro,JUN-2025,Santa Clara,CA,In-Vehicle (Commercial / Test),NURO,2025,False,True
+30270-11163,4092827daacbd54,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11172,8f74f933df02374,SGO,Waymo LLC,Waymo LLC,JUN-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11404,878454aa879cc48,SGO,Waymo LLC,Waymo LLC,JUL-2025,Beverly Hills,CA,,WAYMO,2025,False,False
+30270-11467,e1e1bd78dd82e10,SGO,Waymo LLC,Waymo LLC,JUL-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11415,3035734d10bd2c9,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Mateo,CA,,WAYMO,2025,False,False
+30270-11561,7c2d69cdefccc23,SGO,Waymo LLC,Waymo LLC,AUG-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11550,0a13e468fe82e15,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,In-Vehicle and Remote (Commercial / Test),WAYMO,2025,True,True
+30270-11548,01fcea472941290,SGO,Waymo LLC,Waymo LLC,AUG-2025,Inglewood,CA,,WAYMO,2025,False,False
+30270-11564,075ba3c0b6ebb2a,SGO,Waymo LLC,Waymo LLC,AUG-2025,Santa Monica,CA,,WAYMO,2025,False,False
+30270-11573,7c278f76569dcff,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11590,79e867ebe3bea1c,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11671,955f70191f829db,SGO,Waymo LLC,Waymo LLC,AUG-2025,Culver City,CA,,WAYMO,2025,False,False
+30270-11622,b8b298169bdd694,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11607,4bab2ed9f78c99e,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30610-11696,03781d2c09e781b,SGO,"Zoox, Inc.",Zoox,AUG-2025,Santa Monica,CA,In-Vehicle (Commercial / Test),ZOOX,2025,False,True
+30270-11689,388c947105d0bb7,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,In-Vehicle and Remote (Commercial / Test),WAYMO,2025,True,True
+30270-11738,cce97df1005f101,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11755,1f5485dfe2b8f8a,SGO,Waymo LLC,Waymo LLC,SEP-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11753,daa0c6e71de2c87,SGO,Waymo LLC,Waymo LLC,SEP-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11567,6ae265d3178bbd8,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11758,2c10d9b1d71541e,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11742,53b2c239e2ff616,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11756,7b542085705b355,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11760,e65e983024a6b24,SGO,Waymo LLC,Waymo LLC,SEP-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11762,9d0e4e083bc2745,SGO,Waymo LLC,Waymo LLC,SEP-2025,Inglewood,CA,,WAYMO,2025,False,False
+30270-11771,91301375cf54a0a,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11789,fe0fd9933f671b3,SGO,Waymo LLC,Waymo LLC,SEP-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11821,d23ce59f22e299f,SGO,Waymo LLC,Waymo LLC,SEP-2025,Los Angeles,CA,,WAYMO,2025,False,False
+34970-11835,2c3503d25df6e2d,SGO,"Ohmio, Inc.",Ohmio,AUG-2025,Riverside,CA,In-Vehicle (Commercial / Test),OHMIO,2025,False,True
+30270-11842,ef50e523c1ceea9,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11837,58879cba1755aad,SGO,Waymo LLC,Waymo LLC,OCT-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11855,78662ee4e9dd46b,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11860,2c3148db1b0381d,SGO,Waymo LLC,Waymo LLC,OCT-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11739,492b74881a12e6e,SGO,Waymo LLC,Waymo LLC,SEP-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13056,7ef0a8cc1427085,SGO,Waymo LLC,Waymo LLC,OCT-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11542,90ec722a319e433,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11522,18e86baf086661c,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11422,8f705450b9147b1,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11414,c6e76cfadfdf63a,SGO,Waymo LLC,Waymo LLC,JUL-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11421,8ffca881a715613,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11428,0bdabfb53025c8a,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11468,d5b83b180b8e66e,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11455,264c703043ce526,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11452,4efbce3f9aada78,SGO,Waymo LLC,Waymo LLC,JUL-2025,San Francisco,CA,,WAYMO,2025,True,False
+30610-11514,62cf95bc8586ee7,SGO,"Zoox, Inc.",Zoox,JUL-2025,San Francisco,CA,In-Vehicle (Commercial / Test),ZOOX,2025,True,True
+30291-11458,5ace8e70579d484,SGO,Nuro,Nuro,JUL-2025,Mountain View,CA,In-Vehicle (Commercial / Test),NURO,2025,False,True
+30270-11501,738d6f870cfbec8,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11508,09531ba31a1bd07,SGO,Waymo LLC,Waymo LLC,AUG-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11516,dffa2f99e3df433,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30610-11563,2cbb435ba089c85,SGO,"Zoox, Inc.",Zoox,AUG-2025,San Francisco,CA,,ZOOX,2025,True,False
+30270-11547,648613db05d6eb9,SGO,Waymo LLC,Waymo LLC,AUG-2025,Culver City,CA,,WAYMO,2025,False,False
+30270-11523,0f07710b9ce3333,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11544,1cf4d28bc876306,SGO,Waymo LLC,Waymo LLC,AUG-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11591,748efca603e1263,SGO,Waymo LLC,Waymo LLC,AUG-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11588,59c8f0ea2de9faa,SGO,Waymo LLC,Waymo LLC,AUG-2025,Palo Alto,CA,,WAYMO,2025,False,False
+30270-11596,550378e84cbe32d,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11589,6c35c4687ba2a7e,SGO,Waymo LLC,Waymo LLC,AUG-2025,Daly City,CA,,WAYMO,2025,False,False
+30270-11605,642b9d8879d269b,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11608,a2882bceb064a6a,SGO,Waymo LLC,Waymo LLC,SEP-2025,Culver City,CA,,WAYMO,2025,False,False
+30270-11609,4b5b13895842c1b,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11618,27673b8954d27c0,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11625,6586da4de372b9e,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11629,b0245a0ab94b3b5,SGO,Waymo LLC,Waymo LLC,SEP-2025,Santa Monica,CA,,WAYMO,2025,False,False
+30270-11627,4d83937ba1de317,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11637,2f735ba978a44ff,SGO,Waymo LLC,Waymo LLC,SEP-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11664,d6ba83005d45c1c,SGO,Waymo LLC,Waymo LLC,SEP-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11496,e5ece9ed52c6255,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-11543,6fef0bd4d38ff9c,SGO,Waymo LLC,Waymo LLC,AUG-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-14707,f6968aed4573613,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,In-Vehicle (Commercial / Test),WAYMO,2026,False,True
+30270-13091,78395c1007ca02d,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13255,08f2facfc20c80b,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-14269,a8e1fc4f8d1fff9,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14304,ef7dd4a8ba75112,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14006,5064731c129ab49,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14047,9b830b9ca982f32,SGO,Waymo LLC,Waymo LLC,FEB-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14044,07ee2d3563b1c77,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14008,3c33745e4e0fa8b,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14027,4db3ce10be8a21f,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14029,41d9f5254cb7890,SGO,Waymo LLC,Waymo LLC,FEB-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14077,9bffa21b6fcc8be,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14091,794cf07eb37b090,SGO,Waymo LLC,Waymo LLC,FEB-2026,Palo Alto,CA,,WAYMO,2026,False,False
+30270-14080,233e9f2817ad109,SGO,Waymo LLC,Waymo LLC,FEB-2026,Santa Monica,CA,,WAYMO,2026,False,False
+30270-14081,ecdeda3fec4d35b,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14143,f0e6d8e682e6d81,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14199,2934264745d4e3e,SGO,Waymo LLC,Waymo LLC,FEB-2026,Mountain View,CA,,WAYMO,2026,False,False
+30270-14290,0dcc52388be3efc,SGO,Waymo LLC,Waymo LLC,MAR-2026,Inglewood,CA,,WAYMO,2026,False,False
+30610-14339,d14518a784ebf3b,SGO,"Zoox, Inc.",Zoox,FEB-2026,San Francisco,CA,,ZOOX,2026,True,False
+30270-14336,d44acdf6402e21d,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14332,9f0e10836b54876,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14331,2cd11c2a1a8f63a,SGO,Waymo LLC,Waymo LLC,MAR-2026,Mountain View,CA,,WAYMO,2026,False,False
+30610-14388,b0bc9730ab173f2,SGO,"Zoox, Inc.",Zoox,MAR-2026,San Francisco,CA,,ZOOX,2026,True,False
+30270-14343,fec61c976d97548,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14348,0525c4ea802d184,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14387,03f4b228d05cc74,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30610-14419,1431aa571fee5ff,SGO,"Zoox, Inc.",Zoox,MAR-2026,San Francisco,CA,,ZOOX,2026,True,False
+30270-14383,3dadbcf335da06a,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14389,f69ed49b28c17bb,SGO,Waymo LLC,Waymo LLC,MAR-2026,Inglewood,CA,,WAYMO,2026,False,False
+30270-14390,6a475a025f227de,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14425,eb09283750d5156,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14438,045dd4daaa9782d,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14287,22fc01d8faaa62a,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14174,602dfa7c61d8f2a,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14168,fb7b212688f57ff,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14172,fd77b30ef5484f6,SGO,Waymo LLC,Waymo LLC,FEB-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30610-14090,aa14e3edde73fa3,SGO,"Zoox, Inc.",Zoox,JAN-2026,San Francisco,CA,In-Vehicle (Commercial / Test),ZOOX,2026,True,True
+30270-14073,d3c12c475dbb4ef,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14075,2e9b6b2e5c02442,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14079,513eed66dc3a1bd,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Jose,CA,,WAYMO,2026,False,False
+30270-14093,4edf286c1255600,SGO,Waymo LLC,Waymo LLC,FEB-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14099,1246893c05db32a,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30610-14152,13048a864ddb23a,SGO,"Zoox, Inc.",Zoox,FEB-2026,San Francisco,CA,In-Vehicle (Commercial / Test),ZOOX,2026,True,True
+30270-14118,ab19d2204a652cf,SGO,Waymo LLC,Waymo LLC,FEB-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30610-14167,0a59dd6aec30ad4,SGO,"Zoox, Inc.",Zoox,FEB-2026,Santa Monica,CA,In-Vehicle (Commercial / Test),ZOOX,2026,False,True
+30270-14146,a5e4933ee6cd45c,SGO,Waymo LLC,Waymo LLC,FEB-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14140,7bb5e5a6b3d3dec,SGO,Waymo LLC,Waymo LLC,FEB-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14169,6469108b0336c82,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14195,8ff1bf6ed911ce0,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14198,5e7b56c7be423bf,SGO,Waymo LLC,Waymo LLC,FEB-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14439,41f71a7d791c68d,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14204,df33185c7d52cc3,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14227,716b42c49e42c6c,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14234,6c68da9f1c8feb9,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14239,2a666c3f264006f,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14240,1a4869776079d82,SGO,Waymo LLC,Waymo LLC,MAR-2026,Santa Monica,CA,,WAYMO,2026,False,False
+30270-14246,716b5a05aea85f9,SGO,Waymo LLC,Waymo LLC,MAR-2026,Inglewood,CA,,WAYMO,2026,False,False
+30270-14265,ff7cbbd8a71abe7,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14266,06f409a5bdd2761,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14267,47a130cc4054fac,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13981,a22e09a9f4e16a3,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13998,3db73b95cac1387,SGO,Waymo LLC,Waymo LLC,FEB-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13978,e8284826ea8862f,SGO,Waymo LLC,Waymo LLC,FEB-2026,Lennox,CA,,WAYMO,2026,False,False
+30270-13977,2da625af19199e1,SGO,Waymo LLC,Waymo LLC,FEB-2026,Mountain View,CA,,WAYMO,2026,False,False
+30270-13980,2d117cb5cb544ec,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14153,26389caa3154007,SGO,Waymo LLC,Waymo LLC,FEB-2026,Culver City,CA,In-Vehicle (Commercial / Test),WAYMO,2026,False,True
+30270-14220,96b9196e81e8723,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14045,d060d42675f80b0,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14455,8d2c164d501a618,SGO,Waymo LLC,Waymo LLC,MAR-2026,Daly City,CA,,WAYMO,2026,False,False
+30270-14482,2c89a2beb96ae22,SGO,Waymo LLC,Waymo LLC,MAR-2026,Inglewood,CA,,WAYMO,2026,False,False
+30270-14440,84ac5e05729c795,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14456,6fd35369a882182,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14491,b22b8f0e957a702,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14476,541b9c26a9582a4,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14498,41bfa537013a245,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14477,cc94e3a9ea66857,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14478,593d316a6ee0028,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14493,a1b9ed8b645badb,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14511,3e593a600cd68be,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14512,1f2c52e71168712,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14558,5b538a74d6bc359,SGO,Waymo LLC,Waymo LLC,MAR-2026,Santa Monica,CA,,WAYMO,2026,False,False
+30270-14577,5a81f380d8c927a,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14566,b4116e8774b7cd6,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30792-14655,05c97f6f106059b,SGO,WeRide Corp,WeRide,MAR-2026,San Jose,CA,In-Vehicle and Remote (Commercial / Test),WERIDE,2026,False,True
+30270-14618,ce4ef1372ceba46,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30610-14663,7d97266737502d0,SGO,"Zoox, Inc.",Zoox,MAR-2026,San Francisco,CA,In-Vehicle (Commercial / Test),ZOOX,2026,True,True
+30610-14664,7555ea7eda604d3,SGO,"Zoox, Inc.",Zoox,MAR-2026,San Francisco,CA,,ZOOX,2026,True,False
+30610-14665,fa4569805b2287b,SGO,"Zoox, Inc.",Zoox,MAR-2026,San Francisco,CA,In-Vehicle (Commercial / Test),ZOOX,2026,True,True
+30270-14620,a845f2ff7589f36,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14621,e5dfd665c6253d5,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14626,833e94560071794,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14627,f54d2ae1d1e57a8,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14628,04b1b064a76b942,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14629,6cb0adf6053cd04,SGO,Waymo LLC,Waymo LLC,APR-2026,San Mateo,CA,,WAYMO,2026,False,False
+30270-14660,1b3259ff41bd2dd,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14661,84e5e644c0c0f93,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14708,1024682219a18ca,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14705,d99fc76c8221de7,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14704,d2e15ec06f0ec14,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14426,0798cc6ce386b44,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14422,57525ca8a3e832e,SGO,Waymo LLC,Waymo LLC,MAR-2026,Santa Monica,CA,,WAYMO,2026,False,False
+30270-14354,46ade3c0cd750e5,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14391,0a5ce28ee3fb168,SGO,Waymo LLC,Waymo LLC,MAR-2026,Palo Alto,CA,,WAYMO,2026,False,False
+30270-14488,29eb306cac5f2b8,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14492,784609f1c56edfe,SGO,Waymo LLC,Waymo LLC,MAR-2026,Daly City,CA,,WAYMO,2026,False,False
+30270-14496,983ed57bc7bc7ca,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14497,a63d950dcfd350d,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,In-Vehicle (Commercial / Test),WAYMO,2026,False,True
+30291-14538,ceb46ee4e182cc4,SGO,Nuro,Nuro,APR-2026,Santa Clara,CA,In-Vehicle (Commercial / Test),NURO,2026,False,True
+30270-14516,8b8f359781d6cb7,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14520,3bf481890ce907d,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14578,7fa85ef74cc5f6d,SGO,Waymo LLC,Waymo LLC,APR-2026,Venice,CA,,WAYMO,2026,False,False
+30270-14556,367269c0661b161,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14560,5949ade35ee4e36,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14563,e3fe2a3ce31a3bb,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14586,f714f368c260da3,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14623,c754f3128a47aab,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14232,fac34b3e0ebdc34,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14481,87959e4d5093ad9,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14294,82f590ee86b84c1,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14301,7205b1213fa15ab,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14289,67660d0d14c6f18,SGO,Waymo LLC,Waymo LLC,MAR-2026,Redwood City,CA,,WAYMO,2026,False,False
+30270-14300,7ccb13efbc3c748,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14494,89012b214b0da06,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14305,bb70f7d3f326666,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14313,03744d24bf2c357,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14329,49af5b61c59f419,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14297,3588be168736e9b,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14334,daef551f11f4d4c,SGO,Waymo LLC,Waymo LLC,MAR-2026,Mountain View,CA,,WAYMO,2026,False,False
+30270-14351,a2976c17a7afbf0,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14349,16ba7a94a6ac210,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14352,94f95095ba15e48,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14355,3ef810aa0805c42,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14424,204441c4917fed1,SGO,Waymo LLC,Waymo LLC,MAR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14299,df499995c587bfd,SGO,Waymo LLC,Waymo LLC,MAR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13664,6b975e2168f2bbd,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13606,61c7dd865006246,SGO,Waymo LLC,Waymo LLC,JAN-2026,Santa Monica,CA,,WAYMO,2026,False,False
+30270-13587,e832a18db99662e,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13550,63c4aa594622616,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13556,455ee6bfa539476,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13560,1c7233a19c90db9,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13571,7f8898a91bd9394,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13575,f5fd54d443a806a,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13582,df8b95ac4152a51,SGO,Waymo LLC,Waymo LLC,JAN-2026,Venice,CA,,WAYMO,2026,False,False
+30270-13583,dfc3628b216077c,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13585,8304b13e00692a8,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13586,a9b16cb791cd38b,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13607,bd14d8f56591057,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13445,a21125c585cc188,SGO,Waymo LLC,Waymo LLC,DEC-2025,Palo Alto,CA,,WAYMO,2025,False,False
+30270-13321,6f28fc409d36924,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13322,361d6211870d1b9,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13361,e62997987f4883e,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13331,62a7c3abeceb5f3,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13416,e551068a5df5221,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13400,c6ae52e1a1ebf88,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13401,5a2acaec2656834,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13340,2fc73932cae4c23,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13454,51551c86ba6b923,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13395,b0a00c95c064158,SGO,Waymo LLC,Waymo LLC,DEC-2025,Beverly Hills,CA,,WAYMO,2025,False,False
+30270-13405,70d9fab5c60551f,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13448,603fb5140a1d8dd,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13420,58c9b97e060f21a,SGO,Waymo LLC,Waymo LLC,DEC-2025,Palo Alto,CA,,WAYMO,2025,False,False
+30270-13451,80e05db036d7ddb,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13450,53ed516aacbba68,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13453,114be9ea321662b,SGO,Waymo LLC,Waymo LLC,DEC-2025,Palo Alto,CA,,WAYMO,2025,False,False
+30270-13510,12bf01da57630d0,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13564,b455899947f4ff9,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13558,b8354b89bc8ed96,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13547,cb12e77624194b9,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13543,74e9c9d57cd24ea,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13541,76a67f30bc7dbec,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13268,ec68eb1eab1b37e,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13270,d60f282760e4cfc,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13310,ffd4525ad4b2419,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13373,4e7a4a189feb7da,SGO,Waymo LLC,Waymo LLC,NOV-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13365,09904a03b2631e9,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13378,f8b63962464df67,SGO,Waymo LLC,Waymo LLC,DEC-2025,Palo Alto,CA,Remote (Commercial / Test),WAYMO,2025,False,False
+30270-13369,0d2954a0b45051c,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13370,5c611728d7fbd04,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13371,ace913e621d7d1a,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13384,4883424a68be80b,SGO,Waymo LLC,Waymo LLC,DEC-2025,South San Francisco,CA,,WAYMO,2025,False,False
+30270-13407,f423f59614d8fee,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13397,ac181687dac1918,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,In-Vehicle (Commercial / Test),WAYMO,2025,False,True
+30270-13402,1b34daff9fc7fdc,SGO,Waymo LLC,Waymo LLC,DEC-2025,Santa Monica,CA,,WAYMO,2025,False,False
+30270-13388,0e0a5572bcb3b2d,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13554,4b18be216990941,SGO,Waymo LLC,Waymo LLC,DEC-2025,South San Francisco,CA,,WAYMO,2025,False,False
+30270-13442,726438b36fdd328,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13443,fc7eec2d8b4d9a8,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13444,572eda94d5649db,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13484,59f1938f3e901e0,SGO,Waymo LLC,Waymo LLC,DEC-2025,Inglewood,CA,,WAYMO,2025,False,False
+30270-13486,8ad2398b05d30a4,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13509,a7d9250aa69b874,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13490,29280726fd13302,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13491,ac64bde20c3ffee,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13495,9e214c49cbfb0e9,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13507,617413a35322fb6,SGO,Waymo LLC,Waymo LLC,DEC-2025,Brisbane,CA,,WAYMO,2025,False,False
+30270-13512,f6223253045ded5,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13514,be040e4724f444b,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13538,ba6ff2626e5b676,SGO,Waymo LLC,Waymo LLC,DEC-2025,West Hollywood,CA,,WAYMO,2025,False,False
+30270-13539,0ab0e26462d346b,SGO,Waymo LLC,Waymo LLC,DEC-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13540,43b2318763bedde,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13447,16727ae80e39d98,SGO,Waymo LLC,Waymo LLC,DEC-2025,Brisbane,CA,,WAYMO,2025,False,False
+30270-13549,e97daa6b4275a56,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-13511,2bfbf573864f0aa,SGO,Waymo LLC,Waymo LLC,DEC-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30610-13660,2b5ac9b27d63da8,SGO,"Zoox, Inc.",Zoox,DEC-2025,San Francisco,CA,,ZOOX,2025,True,False
+30270-13983,19027290a9ece77,SGO,Waymo LLC,Waymo LLC,FEB-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13985,94a54c1adb3bcb1,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13999,6afa6259701a9c9,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30610-14026,a3c629f28118882,SGO,"Zoox, Inc.",Zoox,FEB-2026,San Francisco,CA,,ZOOX,2026,True,False
+30270-14002,c7caa38bc6d090b,SGO,Waymo LLC,Waymo LLC,FEB-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14007,6ce748c3edc18e6,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14003,b5fb8628e71ee33,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14025,5324faae959a1a5,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13642,7822af0f06ebe31,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13623,ab9f3c305e7f11c,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13643,433fe63e6e3e1ed,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,In-Vehicle (Commercial / Test),WAYMO,2026,False,True
+30270-13657,bae33a18d41e9c1,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13766,7b5d8197c4cbce3,SGO,Waymo LLC,Waymo LLC,JAN-2026,Venice,CA,,WAYMO,2026,False,False
+30270-13783,d5040a96ea567bd,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13975,1c26a5864a71ec1,SGO,Waymo LLC,Waymo LLC,FEB-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13794,7af3a25ac7096bd,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13795,db675be419f1759,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13820,1fb450e398d24ed,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13840,9f0396f93efcdbf,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13869,509801eaf63ad3c,SGO,Waymo LLC,Waymo LLC,JAN-2026,Sunnyvale,CA,In-Vehicle (Commercial / Test),WAYMO,2026,False,True
+30270-14005,a30c6d954b234e1,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14011,6a97654b83af506,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-14024,049771a96b8d2b8,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13665,4f385f0d61d0eae,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13561,b2b3e3eca58bddb,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13847,05c222c7ff8c0b6,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13848,227f9f80b0644bd,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13859,4361d68caf6c72a,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Jose,CA,,WAYMO,2026,False,False
+30270-13925,5ac08e3ca8701eb,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13927,4ecbd4fd3ccf5a8,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13811,f61aff9459b4d5a,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13162,d624ad27f53c2c6,SGO,Waymo LLC,Waymo LLC,NOV-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-13957,11917cfd2b3d583,SGO,Waymo LLC,Waymo LLC,FEB-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13949,1fa562685e928aa,SGO,Waymo LLC,Waymo LLC,FEB-2026,Daly City,CA,,WAYMO,2026,False,False
+30610-13661,78df1cae450fa33,SGO,"Zoox, Inc.",Zoox,DEC-2025,San Francisco,CA,,ZOOX,2025,True,False
+30610-13662,fc6ff844b94f122,SGO,"Zoox, Inc.",Zoox,JAN-2026,San Francisco,CA,,ZOOX,2026,True,False
+30270-13604,0fc18218a8e7468,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13605,bdce5fc66f1168e,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13611,c2d81542f33f14e,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13641,8fd89dbe9a81dff,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13654,6148b6bacbe478c,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13650,7c76c5fe1e66f1c,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13656,5f08f808e95827b,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13762,b760e13a26a57ea,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13765,37eec80f6812b0a,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13770,8ec5e956dfe4eeb,SGO,Waymo LLC,Waymo LLC,JAN-2026,Beverly Hills,CA,,WAYMO,2026,False,False
+30610-13818,a15c4298c796428,SGO,"Zoox, Inc.",Zoox,JAN-2026,San Francisco,CA,,ZOOX,2026,True,False
+30270-13810,0603ed25fbb4fd4,SGO,Waymo LLC,Waymo LLC,JAN-2026,Sunnyvale,CA,,WAYMO,2026,False,False
+30270-13956,1f3b28dc7a86591,SGO,Waymo LLC,Waymo LLC,FEB-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13809,6bc1b790d08d5af,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13799,df88a1d1ec5f634,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13764,feeed20edf67b7d,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13785,e2e56321b0ccfb8,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13845,f9f0f4a578f95c0,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13850,e712999db1e85ff,SGO,Waymo LLC,Waymo LLC,JAN-2026,Santa Monica,CA,,WAYMO,2026,False,False
+30270-13852,16cc718ce136328,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13854,5e30feb83bbdbf0,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,In-Vehicle (Commercial / Test),WAYMO,2026,True,True
+30270-13861,8e55636acd93eef,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,In-Vehicle (Commercial / Test),WAYMO,2026,False,True
+30270-13860,320556479411209,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-13905,58f1c98130b4905,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13914,59cab39b06ed883,SGO,Waymo LLC,Waymo LLC,JAN-2026,Sunnyvale,CA,,WAYMO,2026,False,False
+30270-13948,f9ec26af00ffab8,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13947,90d92a2dd51a144,SGO,Waymo LLC,Waymo LLC,JAN-2026,Beverly Hills,CA,,WAYMO,2026,False,False
+30270-13954,6bd8cf12dce1062,SGO,Waymo LLC,Waymo LLC,JAN-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-13807,a2a08006d8a0067,SGO,Waymo LLC,Waymo LLC,JAN-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-5083,444d16299c00b0b,pre,Waymo LLC,Waymo LLC,FEB-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-11189,910fc9a34852241,SGO,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-8618,743a6c677a3a6f2,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8687,ed1e98a150df5af,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10320,77ba86fa433a2c4,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10319,75e7a29d5560dfe,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10363,cd66eb3a1b6a758,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10362,542a8f6e1876cf2,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10360,11e9a791b2b6ea6,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10359,e9322b299bac2dc,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10347,04571dd36a8589e,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10344,513a4876d6f7df2,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10343,e4b3555b35a51cb,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10470,aa6cc345c62be58,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-8781,8cee75711cb9227,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8822,b44d737d8566e73,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8844,67c32c9afb85965,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8856,7d74fdd0779d0af,pre,Waymo LLC,Waymo LLC,SEP-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-8857,1b7cf4c624c3405,pre,Waymo LLC,Waymo LLC,SEP-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-8769,fd33b37b7e1cb0f,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10322,bdc3fa454ba067e,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-8639,b8ecd318f0d79b8,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8541,4a353641b80a151,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8581,3144060ca1e6ad5,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10326,f4c74c5f46b77e2,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-8599,e60b1911a5ec847,pre,Waymo LLC,Waymo LLC,AUG-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-8600,954714c0ef93c9b,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8601,ec16e97ff7ff78c,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8603,0e857f04e0ad004,pre,Waymo LLC,Waymo LLC,AUG-2024,Santa Monica,CA ,,WAYMO,2024,False,False
+30270-8605,b49f2ebdba44267,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8607,d9055ac7ecd8320,pre,Waymo LLC,Waymo LLC,AUG-2024,Daly City,CA ,,WAYMO,2024,False,False
+30270-8610,a95fa4a5e326ae5,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8615,62ef06dc892e5a3,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8616,cf999e76768d191,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8621,33ab63487102c6a,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8622,c82737ce9140d5e,pre,Waymo LLC,Waymo LLC,AUG-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-8623,315d56d8e94a952,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8624,6b6d4cd8eee344d,pre,Waymo LLC,Waymo LLC,AUG-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-8625,ed90a2780572f50,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8626,61933601d199eeb,pre,Waymo LLC,Waymo LLC,AUG-2024,Los Angeles,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,False,True
+30270-8629,2c64f8b5a7ca81d,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8630,a57674ca04113a9,pre,Waymo LLC,Waymo LLC,AUG-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-8633,9dfb44fc01a3f64,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10324,063193d08c16979,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10323,6f8e41395fab5e8,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-8868,18a593a7df9dace,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8875,de321c956ec5a61,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10380,ddfddee93e67fc1,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-9004,0afbe0209c6ceb2,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10367,6749366fff5ee51,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9013,bc48a1958207dc5,pre,Waymo LLC,Waymo LLC,OCT-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-10317,8d93aa03f99ce3a,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9060,b18bcaba77a754d,pre,Waymo LLC,Waymo LLC,NOV-2024,Culver City,CA ,,WAYMO,2024,False,False
+30270-9061,3c898937838a65b,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10292,5cd19a835b8ee72,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9097,1943991c8c4e1e9,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9098,3d916b63bbc2e6d,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9099,c26aa8dbe1df084,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9100,f5e9cbd9caedfc5,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9112,498f8f9667fb6da,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10289,c38a1c64c446c4d,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-9125,d84a74415abe495,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8966,acfaefbc0abe2a9,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8876,2c55dc79d01a218,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8877,15a0aa27e76139f,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8878,3c8331623772513,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8882,0d76f1116bc1065,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8884,365f94d24227920,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8885,e1f17288c6c20ca,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8886,30c2487fa6ae1cb,pre,Waymo LLC,Waymo LLC,SEP-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-8888,f1f769709b16a09,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8891,4690361713b03eb,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8892,68e0af637b798df,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8869,40b38f5b0665ba7,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10419,301c535041d56a9,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10408,9960338dcb57750,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30531-8903,c91c64b514e62f5,pre,Transdev Alternative Services,Waymo LLC,SEP-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,True,True
+30531-8904,d03b4dcbf3cd3bd,pre,Transdev Alternative Services,Waymo LLC,SEP-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,True,True
+30531-8905,1ab108e2dabaab4,pre,Transdev Alternative Services,Waymo LLC,SEP-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,True,True
+30270-8908,f868890e4cda7fe,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8927,f615c017d4c3424,pre,Waymo LLC,Waymo LLC,OCT-2024,South San Francisco,CA ,,WAYMO,2024,False,False
+30270-8933,083988c1ea33958,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8943,144c52c5ef2a2ee,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8947,d985331ad732285,pre,Waymo LLC,Waymo LLC,OCT-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9126,e54992c01abf95d,pre,Waymo LLC,Waymo LLC,OCT-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-10327,7387be18790a2af,pre,Waymo LLC,Waymo LLC,MAR-2025,Beverly Hills,CA ,,WAYMO,2025,False,False
+30270-7953,762f5c8deeb0103,pre,Waymo LLC,Waymo LLC,MAY-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-7950,ccf5df807abe76c,pre,Waymo LLC,Waymo LLC,MAY-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10439,870bb81b8b87f76,pre,Waymo LLC,Waymo LLC,MAR-2025,Venice,CA ,,WAYMO,2025,False,False
+30270-7942,95a8632c506fca0,pre,Waymo LLC,Waymo LLC,MAY-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10444,e8db4ff944a1cc3,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-7940,8b532df27c59137,pre,Waymo LLC,Waymo LLC,MAY-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-7939,0b53c07a7e98af2,pre,Waymo LLC,Waymo LLC,MAY-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7938,67c67c5cdfab8f9,pre,Waymo LLC,Waymo LLC,MAY-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7935,07e810793e23a5b,pre,Waymo LLC,Waymo LLC,MAY-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10443,012fba9b1f4c28c,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30531-7966,b223e677151596a,pre,Transdev Alternative Services,Waymo LLC,MAY-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,True,True
+30270-7998,88ebc78ffa54a7c,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10442,e890366425f92f4,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-8061,e7bd1ea6542b009,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10436,9590144d946c2fa,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10425,5caf4743543d731,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-8121,b0a31cdcac361e5,pre,Waymo LLC,Waymo LLC,JUN-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-7959,4d0e5e2a7e91285,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7934,38814d25460b4e9,pre,Waymo LLC,Waymo LLC,MAY-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30792-7917,b675fcd1cb0dea3,pre,WeRide Corp,WeRide,JUN-2024,San Jose,CA ,In-Vehicle and Remote (Commercial / Test),WERIDE,2024,False,True
+30270-7882,1c677f3bfb5eb28,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10127,f5343b2a2c58c2b,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-7718,8bf3b8dd754b4f8,pre,Waymo LLC,Waymo LLC,MAY-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7722,a673fcc54f6f312,pre,Waymo LLC,Waymo LLC,APR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10487,f285742e6381c0f,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-7724,bbc64d97c10bd0b,pre,Waymo LLC,Waymo LLC,APR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7726,8894cbcbca3e974,pre,Waymo LLC,Waymo LLC,APR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7727,3d0d3a054e0997a,pre,Waymo LLC,Waymo LLC,APR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7728,6e2942581c16d45,pre,Waymo LLC,Waymo LLC,APR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7729,1fd8c583c2ad222,pre,Waymo LLC,Waymo LLC,APR-2024,Santa Monica,CA ,,WAYMO,2024,False,False
+30531-7732,4da91e509f90137,pre,Transdev Alternative Services,Waymo LLC,APR-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,True,True
+30270-10449,915965fdc13a740,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10451,b014b9fd6ea6308,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30291-7765,48d8ef946e000b8,pre,Nuro,"Nuro, Inc.",MAY-2024,Palo Alto,CA ,In-Vehicle (Commercial / Test),NURO,2024,False,True
+30270-10453,2f360dacf644b0d,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-7793,bfa704d30ec76ce,pre,Waymo LLC,Waymo LLC,MAY-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7813,bfdc6bed2775421,pre,Waymo LLC,Waymo LLC,MAY-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10455,7ed1cf3a8400c87,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-7839,856b17069da7478,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8513,23dc208978b7787,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8127,953c721f42601fc,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8131,5371a715b4855ae,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30610-8374,fa872bc0a5be40f,pre,"Zoox, Inc.",Zoox,JUL-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2024,True,True
+30610-8377,e2bc89b5e8b7784,pre,"Zoox, Inc.",Zoox,JUL-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2024,True,True
+30270-8384,53150c4d8157ecd,pre,Waymo LLC,Waymo LLC,JUL-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-8385,31a94fb68dac7e0,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8386,507ca034d6ef5a6,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8387,c1f6f34ad0dfe4b,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8388,569e9de402e0e26,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8389,e6ab23dde26e260,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8390,3f05768790632b1,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8392,83b9060efce12eb,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8393,42fcf7b6efdfcc2,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30610-8373,2290df8540c1deb,pre,"Zoox, Inc.",Zoox,JUL-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2024,True,True
+30270-8394,79f75b387eb2c41,pre,Waymo LLC,Waymo LLC,JUL-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-8402,30cdda3761c6785,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8404,6e41aaf90713a44,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8406,32e6f43c1ede135,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8417,fea7e0ad7519a39,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10334,b839f9b509c626f,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-8471,a6c3d816cc7ab78,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10332,1da574bf86e86e6,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-8512,893ca66fc11a25c,pre,Waymo LLC,Waymo LLC,SEP-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-8401,a8d01f2a05f21f7,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8356,dc54b81a445d6d0,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8278,0d1a06493f0a3fa,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8134,84419d4c22f3fd7,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8139,a44514c80a6c2d2,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8141,a95a53d3d5c107d,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8144,ab92f55b1bd5c9b,pre,Waymo LLC,Waymo LLC,JUN-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-8145,19284fe3327827b,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8150,614b6690f9da766,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8151,ca755a883e7d54b,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8152,395270ce46157ae,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10428,068ce526db856cc,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-8156,ac315e948c2c082,pre,Waymo LLC,Waymo LLC,JUN-2024,Santa Monica,CA ,,WAYMO,2024,False,False
+30270-8158,6631b7a8dd06504,pre,Waymo LLC,Waymo LLC,JUN-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30531-8162,7efef5aa622ea74,pre,Transdev Alternative Services,Waymo LLC,JUN-2024,Marina Del Rey,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,False,True
+30270-10426,d8172af2d0c0f96,pre,Waymo LLC,Waymo LLC,MAR-2025,West Hollywood,CA ,,WAYMO,2025,False,False
+30270-10421,bc3ae4369651c8d,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10420,da8340cc27778be,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30531-8220,036be89379840a4,pre,Transdev Alternative Services,Waymo LLC,JUL-2024,Mountain View,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,False,True
+30270-10335,2b4ae7e6e7a0b7e,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10336,41e60e15cc0ccfa,pre,Waymo LLC,Waymo LLC,MAR-2025,West Hollywood,CA ,,WAYMO,2025,False,False
+30270-10338,b9a25629aeaea8a,pre,Waymo LLC,Waymo LLC,MAR-2025,Mountain View,CA ,,WAYMO,2025,False,False
+30270-8266,5c8348bcf998c8b,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8273,91bbdc8e89308e3,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8130,b212103e6d14d86,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9127,d501e7edc4b411b,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30610-9138,98652889cf9795e,pre,"Zoox, Inc.",Zoox,OCT-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2024,True,True
+30270-9140,98ebb610c5d4696,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9735,75b9ed7c42a9a4c,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10079,c0f34afded1bc4d,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10078,0baa19c3c4de7ed,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9737,d617550cd42287d,pre,Waymo LLC,Waymo LLC,JAN-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-9738,2b2a8d3b3e4fd71,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30610-9759,da3505d533e20a5,pre,"Zoox, Inc.",Zoox,JAN-2025,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2025,True,True
+30270-10067,9612a9723e060e4,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9764,88bf41530cd4895,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9763,4d12ce78f9cceeb,pre,Waymo LLC,Waymo LLC,JAN-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-9721,ce835234a7e3939,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30610-9768,1bfb56a11a24d34,pre,"Zoox, Inc.",Zoox,JAN-2025,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2025,True,True
+30270-9765,cf8abe11383c4be,pre,Waymo LLC,Waymo LLC,JAN-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-9791,daa10713b34a31e,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9806,b80af11c02f6289,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9808,e4b7e3a121c5e7b,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9828,ce972fc6332dca6,pre,Waymo LLC,Waymo LLC,FEB-2025,Brisbane,CA ,,WAYMO,2025,False,False
+30270-10077,49187973fd18d64,pre,Waymo LLC,Waymo LLC,FEB-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-9826,9346e697083ade8,pre,Waymo LLC,Waymo LLC,FEB-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10076,9b6c6e6504c9cd9,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9767,f53d5bab3d70bf4,pre,Waymo LLC,Waymo LLC,JAN-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-9635,4f5c629dd98f12c,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9560,d30b891a050e077,pre,Waymo LLC,Waymo LLC,DEC-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9558,21b81cebac44141,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,True,True
+30270-9557,2e5f85bf9158ce0,pre,Waymo LLC,Waymo LLC,DEC-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9600,3f744fa7d50a96f,pre,Waymo LLC,Waymo LLC,DEC-2024,Beverly Hills,CA ,,WAYMO,2024,False,False
+30270-9601,a14083800a8a655,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9602,44ad2cb21ceeeb6,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9604,8997d2c23b85254,pre,Waymo LLC,Waymo LLC,DEC-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9603,f8e33ead61bd6c0,pre,Waymo LLC,Waymo LLC,DEC-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9595,e5989c0c5a1aece,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9584,48ce017448022c9,pre,Waymo LLC,Waymo LLC,DEC-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9583,5573d5c651733e4,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9582,2e0f431011fd2cd,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9580,191bbc2d74c32d0,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9579,8eab3135244b7da,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9575,2e89fe082d7ab74,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9574,e5598fc11cedbd3,pre,Waymo LLC,Waymo LLC,DEC-2024,Santa Monica,CA ,,WAYMO,2024,False,False
+30270-9572,194ef6a5b3c3a9d,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9553,59d825b3a1c8604,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9546,6dc120e4f68c6d6,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9561,a5e8792bde37720,pre,Waymo LLC,Waymo LLC,DEC-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9564,e2b6c219520915c,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9566,6b2846e5734f96b,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9568,17f7075fd502f19,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9556,ee163e4d9226a93,pre,Waymo LLC,Waymo LLC,DEC-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-10135,4ae0f7763f7a1cb,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9563,55b71dab7ddc4a8,pre,Waymo LLC,Waymo LLC,DEC-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-10083,5665cd0476afae7,pre,Waymo LLC,Waymo LLC,FEB-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-9887,1cd34fac1795878,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9880,78fb68a2eb3b39e,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10047,120162186b3f822,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9897,2c361192b50837f,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9895,3fa95d09e7002f4,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9885,34d9149dca40ce7,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9884,d3b411fa6beef41,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10004,41320a9363bd12f,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10007,198ede2a0f0bc8c,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9854,6ca231027bcb3eb,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10090,6c8a70e4e1a1bc2,pre,Waymo LLC,Waymo LLC,FEB-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10089,aeddf9a5808923f,pre,Waymo LLC,Waymo LLC,JAN-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10060,ec25755718a0c9f,pre,Waymo LLC,Waymo LLC,FEB-2025,Beverly Hills,CA ,,WAYMO,2025,False,False
+30791-10003,ec207689881d11a,pre,AutoX Technologies Inc,"AutoX Technologies, Inc.",FEB-2025,Santa Clara,CA ,In-Vehicle (Commercial / Test),AUTOX,2025,False,True
+30270-10080,9d71e2ee82fc64f,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10086,0189935a3c5671c,pre,Waymo LLC,Waymo LLC,FEB-2025,Inglewood,CA ,,WAYMO,2025,False,False
+30610-10251,b0fe191adb9a766,pre,"Zoox, Inc.",Zoox,FEB-2025,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2025,True,True
+30270-10117,c9071aa23149df4,pre,Waymo LLC,Waymo LLC,FEB-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10118,68fe277ed2ee205,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30610-10246,c68689fc617a685,pre,"Zoox, Inc.",Zoox,FEB-2025,San Francisco,CA ,,ZOOX,2025,True,False
+30270-10046,00cf76dca3bcbce,pre,Waymo LLC,Waymo LLC,FEB-2025,Santa Monica,CA ,,WAYMO,2025,False,False
+30270-9821,f846a6ef8254ef7,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9851,046e04aaeb646d1,pre,Waymo LLC,Waymo LLC,JAN-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-9850,4496e31201f3e12,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9898,e6be4528538ba28,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10050,5da4eca366e56f7,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9912,5a49d5ea4fd4679,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30610-9963,999711d1c739b82,pre,"Zoox, Inc.",Zoox,JAN-2025,San Francisco,CA ,,ZOOX,2025,True,False
+30610-9965,5bc1b9d65a04bdb,pre,"Zoox, Inc.",Zoox,JAN-2025,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2025,True,True
+30270-9872,5aface9ce63be5a,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9873,7039609476ade85,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9874,093aec1cc60c75d,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9875,7080d83da856b8c,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9878,63ce5ba7a04314f,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9906,b9596f2ff2d628c,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9908,197d44fcead254c,pre,Waymo LLC,Waymo LLC,JAN-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-9886,98c716bb1e4b79b,pre,Waymo LLC,Waymo LLC,JAN-2025,Los Angeles,CA ,In-Vehicle (Commercial / Test),WAYMO,2025,False,True
+30270-9900,ef4290890970796,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9907,63022700e5986e3,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9910,f645212ba14f9bf,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9911,a71893002843d10,pre,Waymo LLC,Waymo LLC,JAN-2025,Los Angeles,CA ,In-Vehicle (Commercial / Test),WAYMO,2025,False,True
+30270-9909,b8b9b40e3623ba4,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9853,6038d41a0e9de1c,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9852,af6e18815ae9663,pre,Waymo LLC,Waymo LLC,JAN-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10049,783ffed947694fd,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9824,5850cea579bf584,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9570,3da96f8886d3136,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9586,88117eda2bc6d2d,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9587,4db12d984f0a923,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9330,56694f085766eda,pre,Waymo LLC,Waymo LLC,DEC-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9333,a39c4350c3a87c8,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9341,05eea377fd3577c,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9343,9f977db3b261187,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9347,200749add13473e,pre,Waymo LLC,Waymo LLC,NOV-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9350,af33da497d070af,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9371,b0e34dbc907b2c4,pre,Waymo LLC,Waymo LLC,NOV-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9373,a9a6be32fcd2e72,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9374,88fee3da7cf9b45,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9376,e5a2e417751e7a9,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10130,6e8436d7b93f635,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10274,ede37373b4ba5e5,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9388,bf412edd8c909c1,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9389,964c14e41d84e5a,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30792-9317,0d5ca89e842c2f1,pre,WeRide Corp,WeRide,NOV-2024,San Jose,CA ,In-Vehicle (Commercial / Test),WERIDE,2024,False,True
+30270-9413,3331a0e83bf5d6b,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9363,a2d78cc6aaf202c,pre,Waymo LLC,Waymo LLC,NOV-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9282,593c74a00dde78e,pre,Waymo LLC,Waymo LLC,DEC-2024,Los Angeles,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,False,True
+30270-10276,babc286c22f1f7d,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9156,9d4d9db5fcf01ef,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9167,99b93d3b166fa30,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9170,0cc12230f0d8e74,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9171,b705a460b540023,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9172,c362e6f27301e05,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9173,965e0e83c0b1517,pre,Waymo LLC,Waymo LLC,OCT-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9175,9600255bf152048,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9176,970d86ec5425b21,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9177,240a151c45d4bda,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9178,b4d5ad3588b0d05,pre,Waymo LLC,Waymo LLC,OCT-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9179,c24139a7601a604,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9183,83f223e7f8775af,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9184,7a84cfa4ce4d3a5,pre,Waymo LLC,Waymo LLC,OCT-2024,Culver City,CA ,,WAYMO,2024,False,False
+30270-9186,9c8f0e8f37ada10,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9187,a85bce110d12bb8,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9188,b04a870b2f0c106,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9189,7c2668762eb5efa,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10288,d6961ff52ac2e77,pre,Waymo LLC,Waymo LLC,MAR-2025,San Bernardino,CA ,In-Vehicle (Commercial / Test),WAYMO,2025,False,True
+30270-10221,46521fc040435f1,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-9214,bbb0e2252e1f4dc,pre,Waymo LLC,Waymo LLC,NOV-2024,Daly City,CA ,,WAYMO,2024,False,False
+30270-9229,cab2fa2cbb583cf,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9230,04f0625614ddc1f,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9259,3aa44bb00362edf,pre,Waymo LLC,Waymo LLC,NOV-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9269,98de3a7d413af67,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9414,7b23fd753461e68,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9401,63c7bf55f1e5a60,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9418,ed5d298f9a73ee7,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9402,741b347496c3d7a,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10052,4df5e75df4f4fe9,pre,Waymo LLC,Waymo LLC,FEB-2025,Mountain View,CA ,,WAYMO,2025,False,False
+30270-9486,31ac0a533520455,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10057,fbe6478d5c0c171,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10131,d18a0a297f90dc8,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10129,b69365f21d47b9c,pre,Waymo LLC,Waymo LLC,FEB-2025,Santa Monica,CA ,,WAYMO,2025,False,False
+30270-9517,e3310f3c3380475,pre,Waymo LLC,Waymo LLC,DEC-2024,Culver City,CA ,,WAYMO,2024,False,False
+30270-10081,0dfac0be21c8da4,pre,Waymo LLC,Waymo LLC,FEB-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-9507,b25aab026ca32bd,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9537,c4d5edfdb26fd2a,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30610-9577,0f204a37a664e35,pre,"Zoox, Inc.",Zoox,DEC-2024,Spring Valley,CA ,In-Vehicle (Commercial / Test),ZOOX,2024,False,True
+30610-9578,4ed140efb7c8341,pre,"Zoox, Inc.",Zoox,DEC-2024,San Francisco,CA ,"Other, see Narrative",ZOOX,2024,True,False
+30270-10137,9633af41c73e4ab,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9565,e1522db7f4400ac,pre,Waymo LLC,Waymo LLC,JAN-2025,Culver City,CA ,,WAYMO,2025,False,False
+30270-9606,7c362b5823f86a4,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9539,58c062c6cb6bb5a,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9540,d504caa3104fdd6,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9545,ef022148e6892b5,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9594,a014d99d4ca7397,pre,Waymo LLC,Waymo LLC,DEC-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9592,9c7c76d68622f2c,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9590,62f0dc7503b9379,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9589,8784abc6f18b453,pre,Waymo LLC,Waymo LLC,DEC-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9588,9a8f592adfbc95a,pre,Waymo LLC,Waymo LLC,DEC-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-10058,a23645e9ae97899,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9403,39a93421ace6d3a,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9404,6bb53c674700234,pre,Waymo LLC,Waymo LLC,NOV-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9419,2caa209d0035cbf,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9420,1e65d32d7f5c338,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9405,af07bd240dfd82d,pre,Waymo LLC,Waymo LLC,NOV-2024,West Hollywood,CA ,,WAYMO,2024,False,False
+30270-9407,f53c6133138c165,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10216,17c86d48468d307,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9408,76ce49ec3a7e78b,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10143,7fd090dc5def1cb,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9426,374a5d196baa2b0,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9427,629e0e574d3f7de,pre,Waymo LLC,Waymo LLC,NOV-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9412,42bd8857d12bc86,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9406,dbc8e046f3d8ada,pre,Waymo LLC,Waymo LLC,NOV-2024,Inglewood,CA ,,WAYMO,2024,False,False
+30270-9428,504836ad1f3cbe3,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,True,True
+30270-9429,d5467fe65a028e3,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9431,d52a6807444d3bf,pre,Waymo LLC,Waymo LLC,NOV-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9433,1b0b9c7c0f0fd3e,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9434,4eaed770154b229,pre,Waymo LLC,Waymo LLC,NOV-2024,Culver City,CA ,,WAYMO,2024,False,False
+30270-9435,393c43eeb38e330,pre,Waymo LLC,Waymo LLC,NOV-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9436,9985b6b9b21343b,pre,Waymo LLC,Waymo LLC,NOV-2024,Beverly Hills,CA ,,WAYMO,2024,False,False
+30270-9437,ee7e9be4e651ad9,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30531-9440,71f056b0e3d848a,pre,Transdev Alternative Services,Waymo LLC,NOV-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,True,True
+30270-10053,3d4bf64a0b9921a,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10488,a67d18fe1fddf3d,pre,Waymo LLC,Waymo LLC,MAR-2025,Inglewood,CA ,,WAYMO,2025,False,False
+30270-7647,312e30a55809d67,pre,Waymo LLC,Waymo LLC,MAY-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7598,5bb5073dab94bae,pre,Waymo LLC,Waymo LLC,JAN-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30270-10857,6883b070cc5e15d,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+540-5940,d9ef2eb5a3957bb,pre,"General Motors, LLC",Cruise LLC,JUN-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-5941,e0191bd1f8c9e7e,pre,"General Motors, LLC",Cruise LLC,JUN-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-5942,0b01b063261158e,pre,"General Motors, LLC",Cruise LLC,JUN-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-5948,6640153aa3063d5,pre,"General Motors, LLC",Cruise LLC,JUN-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-5957,e25dd6e0c11c934,pre,Waymo LLC,Waymo LLC,JUN-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-5958,18a2469ec1e6c36,pre,Waymo LLC,Waymo LLC,JUN-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-5959,ed409718b1d4e24,pre,Waymo LLC,Waymo LLC,JUN-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-5960,92014d3d08a5b38,pre,Waymo LLC,Waymo LLC,JUN-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-5961,90198f7d6c26cf7,pre,Waymo LLC,Waymo LLC,JUN-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-10854,54d130a878bc341,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+540-5971,b371438c0da79a5,pre,"General Motors, LLC",Cruise LLC,JUL-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10858,4e15b4d932979b5,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+540-5950,e77696cb7c077c5,pre,"General Motors, LLC",Cruise LLC,JUN-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10838,d79d6f7be18d89f,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10865,3f78497ddd69a49,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30412-5848,c4edae09c5eac62,pre,Cruise LLC,Cruise LLC,JUL-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30610-5716,820ae1b8f89c22d,pre,"Zoox, Inc.","Zoox, Inc",MAY-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2023,True,True
+30711-5675,68f0abf9661245e,pre,Pony.ai,"Pony.ai, Inc",JUN-2023,Fremont,CA ,In-Vehicle (Commercial / Test),PONY,2023,False,True
+30270-10991,2467ac3f476695d,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+540-5726,6da6905b2ae0d06,pre,"General Motors, LLC",Cruise LLC,MAY-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10927,7826d98d4bd1275,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30792-5747,6eeaaac3e6f1d5d,pre,WeRide Corp,WeRide,JUN-2023,san jose,CA ,In-Vehicle and Remote (Commercial / Test),WERIDE,2023,False,True
+30270-10866,a55b19c4d8134d2,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-5758,b4a4e4318698eb8,pre,Waymo LLC,Waymo LLC,MAY-2023,San Francisco,CA ,,WAYMO,2023,True,False
+540-5805,a077d6a8e677ac0,pre,"General Motors, LLC",Cruise LLC,JUN-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10909,aa8cc04d9bd00c9,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10900,29c8ff1d5aa6c30,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10899,4bc8fd3b1c7fa4c,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-5762,e7bf60f9e5a76ca,pre,Waymo LLC,Waymo LLC,MAY-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30270-10837,72018a3ed847e4a,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,In-Vehicle (Commercial / Test),WAYMO,2025,False,True
+30610-10824,c78626dd832e68d,pre,"Zoox, Inc.",Zoox,APR-2025,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2025,True,True
+30270-10678,2b08326e556afc7,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+540-6056,34a2a91e7ebe7b8,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-6057,6518984c44dae43,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-6074,86b4543603ad8af,pre,"General Motors, LLC",Cruise LLC,JUL-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10672,894062e6b5b6b77,pre,Waymo LLC,Waymo LLC,APR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10671,3f3bf8d93dbfe14,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-6132,f9e9b87d440f746,pre,Waymo LLC,Waymo LLC,JUL-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-6133,53f90b378293caf,pre,Waymo LLC,Waymo LLC,JUL-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-7631,8ef453320969f45,pre,Waymo LLC,Waymo LLC,MAY-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30531-6137,9e74529d3141c94,pre,Transdev Alternative Services,Waymo LLC,JUL-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30531-6138,ca841a9f6911534,pre,Transdev Alternative Services,Waymo LLC,JUL-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30270-10668,f83f7c37e14f52b,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+540-6079,11b1d6ea16682dc,pre,"General Motors, LLC",Cruise LLC,JUL-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30412-6041,71e0dfa7bd9967b,pre,Cruise LLC,Cruise LLC,JUL-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30412-6040,38c4b32541f4122,pre,Cruise LLC,Cruise LLC,JUL-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10679,e5968e6ffdbb083,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+540-5990,d882789ee7a4ca1,pre,"General Motors, LLC",Cruise LLC,JUL-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30610-10823,37db47ec7473bdb,pre,"Zoox, Inc.",Zoox,APR-2025,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2025,True,True
+30792-10691,c2cceca3c7e755a,pre,WeRide Corp,WeRide,MAY-2025,Santa Clara,CA ,In-Vehicle and Remote (Commercial / Test),WERIDE,2025,False,True
+30270-10792,2af6f9baf72782b,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30531-5999,112c82a378bbe3f,pre,Transdev Alternative Services,Waymo LLC,JUL-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+540-6003,919102c28fff2ca,pre,"General Motors, LLC",Cruise LLC,JUL-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10793,4c39a0ef2652ee3,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10790,541af028674029f,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10776,dd7979d22b5c160,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+540-6011,8a177e450e8774c,pre,"General Motors, LLC",Cruise LLC,JUL-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10775,a4221254ea9e123,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10680,2793db955371f40,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+540-6036,8769ad7314aa0a5,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30412-6037,2b45b757c05a1e4,pre,Cruise LLC,Cruise LLC,JUL-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10753,9f24abe73cfc948,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10752,aef5f220ddcfff1,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10750,3cb4ac44e082069,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10748,7308e86f6c4f636,pre,Waymo LLC,Waymo LLC,APR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10747,fd63b45b89e60d1,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30412-6038,76e9788e6cbf5dc,pre,Cruise LLC,Cruise LLC,JUL-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10666,e3f948feabc1ec0,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30412-5624,34e9268c40d9f69,pre,Cruise LLC,Cruise LLC,MAY-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-11019,25685a1a4167c35,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10975,350b7ff1d9a3d40,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10928,1b04ac3821b9568,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10974,cc65e1264726157,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10973,c567f6216700e57,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10897,26fc6d4a23d798b,pre,Waymo LLC,Waymo LLC,MAY-2025,Culver City,CA ,,WAYMO,2025,False,False
+30270-10925,837457b0986d726,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+540-5263,5f84ecec46032ea,pre,"General Motors, LLC",Cruise LLC,MAR-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-5261,88ecabe6fd44430,pre,"General Motors, LLC",Cruise LLC,MAR-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-5262,bdb5ec9360c174d,pre,"General Motors, LLC",Cruise LLC,MAR-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-5264,0bdcd0947a69992,pre,"General Motors, LLC",Cruise LLC,MAR-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10972,3865c8210728aa2,pre,Waymo LLC,Waymo LLC,MAY-2025,Culver City,CA ,,WAYMO,2025,False,False
+30270-10894,435d9c04a6a3a39,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-5318,78d780d1f36e0c3,pre,Waymo LLC,Waymo LLC,MAR-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-10969,bd5d57b4a81664d,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30412-5243,ee4ac7ef4aac9d9,pre,Cruise LLC,Cruise LLC,MAR-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10970,d582818dfc3c40d,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-5081,2cf58371e227f1a,pre,Waymo LLC,Waymo LLC,FEB-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-10917,ae53ba9420d628d,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10953,972f0d5649cad92,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10962,f6717c777b1d250,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-11035,02f03480ef1d448,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-11067,0c9a90bc73ade6f,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-11002,a206de7f11fc179,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-11066,d6f40a1ebd09055,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10964,f051ff34dee722a,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10968,125ee94589347cf,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10918,e5297d66f8ee1f3,pre,Waymo LLC,Waymo LLC,MAY-2025,Beverly Hills,CA ,,WAYMO,2025,False,False
+30270-10921,91dc44a6aa3f5e2,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10976,264fa83376a7ecd,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10860,1582044c0ac6e04,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10859,9ecb58bd6ee3519,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10966,ce790f1a393e1af,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30610-11099,f094c379022a57b,pre,"Zoox, Inc.",Zoox,MAY-2025,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2025,True,True
+30270-10885,0a39c04c0350356,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30610-11098,57992d8bb01c719,pre,"Zoox, Inc.",Zoox,MAY-2025,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2025,True,True
+30270-10893,cff0eb3cf70a23a,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10960,bc86c2d88543f19,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-11046,3ef33e040b7b3dc,pre,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-11044,713a6738192af30,pre,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30610-11100,95a921627d947c5,pre,"Zoox, Inc.",Zoox,MAY-2025,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2025,True,True
+540-5489,07bb2ce18fb1861,pre,"General Motors, LLC",Cruise LLC,APR-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-5490,fdf7cea0641af7a,pre,"General Motors, LLC",Cruise LLC,APR-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-5491,5b9c3b0562e5b31,pre,"General Motors, LLC",Cruise LLC,APR-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-5584,16261e64b50feb6,pre,Waymo LLC,Waymo LLC,APR-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30270-5592,fe051bc946e7741,pre,Waymo LLC,Waymo LLC,APR-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-5593,6fdb3294838ba48,pre,Waymo LLC,Waymo LLC,APR-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-10998,d92b1cca4d554fc,pre,Waymo LLC,Waymo LLC,JUN-2025,Venice,CA ,,WAYMO,2025,False,False
+30792-5565,0ea292ae35cf3cd,pre,WeRide Corp,WeRide,MAY-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WERIDE,2023,True,True
+30531-5604,d4c09da0782938d,pre,Transdev Alternative Services,Waymo LLC,APR-2023,Santa Monica,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,False,True
+540-5488,4878736008532f6,pre,"General Motors, LLC",Cruise LLC,APR-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10886,5890c0fce2d43c9,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10961,850eff4a4c154b4,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10890,375e3fe90e57fff,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30531-5335,382e76b026b6400,pre,Transdev Alternative Services,Waymo LLC,MAR-2023,Los Angeles,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,False,True
+30270-10924,9323cdd86d936cc,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10956,5a1bd34a2ad2bc5,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10955,4bcbd23c87c921a,pre,Waymo LLC,Waymo LLC,MAY-2025,Venice,CA ,,WAYMO,2025,False,False
+30270-10888,7f937c99a600db3,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10861,f9aa6814a8a22df,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10660,594c914927316a8,pre,Waymo LLC,Waymo LLC,MAY-2025,Portola Valley,CA ,In-Vehicle (Commercial / Test),WAYMO,2025,False,True
+30270-10952,d8bf17e48204af3,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10958,0004c97b78f8dcb,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10926,b7f23b1bc1fe8e7,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10951,6cc5f0671f888bd,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10963,8b80fcf366fb159,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10898,d62b1a61bfcc776,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10915,d4f95ba33497578,pre,Waymo LLC,Waymo LLC,MAY-2025,Venice,CA ,,WAYMO,2025,False,False
+30270-10887,c13b47e892af43d,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10959,f9ce00c7d13ada9,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30610-11103,535a3d4be962938,pre,"Zoox, Inc.",Zoox,MAY-2025,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2025,True,True
+30270-11005,aa443743268825d,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-6134,811ca85e59b1678,pre,Waymo LLC,Waymo LLC,JUL-2023,Santa Monica,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,False,True
+30270-10563,622ea0e82c437fd,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10560,96656e088802e2e,pre,Waymo LLC,Waymo LLC,APR-2025,Culver City,CA ,,WAYMO,2025,False,False
+30270-10555,d91d586ead95b16,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10528,bd1ce4d304e6e1c,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10438,a2fc403c2ef36ee,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10497,36299db7911dfd0,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+540-6632,03f712880e4d552,pre,"General Motors, LLC",Cruise LLC,OCT-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-6633,7ef3f121cdc8180,pre,"General Motors, LLC",Cruise LLC,OCT-2023,Santa Monica,CA ,In-Vehicle (Commercial / Test),CRUISE,2023,False,True
+30610-6638,6e5f7e8fa9a1fcb,pre,"Zoox, Inc.",Zoox,OCT-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2023,True,True
+540-6645,84adcad61710498,pre,"General Motors, LLC",Cruise LLC,OCT-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-6646,a106bab6fdac541,pre,"General Motors, LLC",Cruise LLC,OCT-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-6661,6c7bc599068a0e0,pre,Waymo LLC,Waymo LLC,OCT-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-6662,f5399b04ffda41f,pre,Waymo LLC,Waymo LLC,OCT-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-6663,394bad4fc5ff01d,pre,Waymo LLC,Waymo LLC,OCT-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-6667,1cfed656d5eee11,pre,Waymo LLC,Waymo LLC,OCT-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-6666,b05fd9ea974ddb2,pre,Waymo LLC,Waymo LLC,OCT-2023,San Francisco,CA ,,WAYMO,2023,True,False
+540-6630,57c001739109f42,pre,"General Motors, LLC",Cruise LLC,OCT-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10573,7d57ae266c261bc,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10599,af131997df17829,pre,Waymo LLC,Waymo LLC,APR-2025,Venice,CA ,,WAYMO,2025,False,False
+30711-6431,7b7bc1d6bb1b4e4,pre,Pony.ai,Pony.ai,SEP-2023,Milpitas,CA ,In-Vehicle (Commercial / Test),PONY,2023,False,True
+30610-6373,c50a0a0ffe92c13,pre,"Zoox, Inc.",Zoox,SEP-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2023,True,True
+540-6472,f64123facf1cd4d,pre,"General Motors, LLC",Cruise LLC,SEP-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10592,9341d4360bf129b,pre,Waymo LLC,Waymo LLC,APR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10576,285179add9a2301,pre,Waymo LLC,Waymo LLC,APR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30792-6492,28a50d58f41e81d,pre,WeRide Corp,WeRide,SEP-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WERIDE,2023,True,True
+30270-6514,c40fe2d89b827ec,pre,Waymo LLC,Waymo LLC,SEP-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-6515,04a87b91cfbf9c0,pre,Waymo LLC,Waymo LLC,SEP-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-6517,e262251c73e8b66,pre,Waymo LLC,Waymo LLC,SEP-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-6518,263ede6c29926f3,pre,Waymo LLC,Waymo LLC,SEP-2023,San Francisco,CA ,,WAYMO,2023,True,False
+540-6531,dc0129a4cfa3733,pre,"General Motors, LLC",Cruise LLC,OCT-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30531-6691,951dadb865d98c2,pre,Transdev Alternative Services,Waymo LLC,OCT-2023,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),WAYMO,2023,True,True
+33495-6720,a497d4cb2c09cee,pre,Apollo Autonomous Driving USA,Apollo Autonomous Driving USA,JUN-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),APOLLO,2023,True,True
+30270-10472,37d2c7db4e66423,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10452,e65533d2253e434,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-7306,10f72ba4931873e,pre,Waymo LLC,Waymo LLC,MAR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30610-7292,89ceac0c6db3833,pre,"Zoox, Inc.",Zoox,FEB-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2024,True,True
+30610-7293,55bb803a6b7193a,pre,"Zoox, Inc.",Zoox,FEB-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2024,True,True
+30270-7308,b25e800c82afada,pre,Waymo LLC,Waymo LLC,FEB-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-7310,7cc5701d8d54ecb,pre,Waymo LLC,Waymo LLC,FEB-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,True,True
+30270-7315,9256227b26b1d3e,pre,Waymo LLC,Waymo LLC,FEB-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30531-7368,0f177736731c7b2,pre,Transdev Alternative Services,Waymo LLC,MAR-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,True,True
+30270-7423,00f3a9cace075f7,pre,Waymo LLC,Waymo LLC,MAR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7425,1bcec164d80d77e,pre,Waymo LLC,Waymo LLC,APR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30291-7361,ca49a6b2d74e2c0,pre,Nuro,Nuro Inc,MAR-2024,Mountain View,CA ,In-Vehicle (Commercial / Test),NURO,2024,False,True
+30270-7529,907bc37d2fe6e31,pre,Waymo LLC,Waymo LLC,MAR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7536,72e764bd20c685a,pre,Waymo LLC,Waymo LLC,MAR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7538,60a42c20ba1d33e,pre,Waymo LLC,Waymo LLC,MAR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7543,92b9116e211750e,pre,Waymo LLC,Waymo LLC,MAR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7542,edd0dfe2ad6011c,pre,Waymo LLC,Waymo LLC,MAR-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-7540,1c44bd01b784a13,pre,Waymo LLC,Waymo LLC,MAR-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-7525,ba294ab6068621d,pre,Waymo LLC,Waymo LLC,MAR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30531-7545,3325b810acc75a3,pre,Transdev Alternative Services,Waymo LLC,MAR-2024,Los Angeles,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,False,True
+30531-7546,6eefb6c4b33df9d,pre,Transdev Alternative Services,Waymo LLC,MAR-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,True,True
+30270-7551,eb41f5ed6435ed8,pre,Waymo LLC,Waymo LLC,APR-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,True,True
+30270-7573,a94ca9b253c5105,pre,Waymo LLC,Waymo LLC,APR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10446,d40963f83336275,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10648,00c66c34c4474a1,pre,Waymo LLC,Waymo LLC,APR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-7162,4433538a5ab5fe9,pre,Waymo LLC,Waymo LLC,JAN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30531-6862,ee3530ef1c1d0eb,pre,Transdev Alternative Services,Waymo LLC,NOV-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30531-6864,72fb4226e3fbbf1,pre,Transdev Alternative Services,Waymo LLC,NOV-2023,Los Angeles,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,False,True
+30270-6855,eecbe9408b95fe9,pre,Waymo LLC,Waymo LLC,NOV-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-6879,a205e2551852d31,pre,Waymo LLC,Waymo LLC,DEC-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30450-6958,4c457674d24ef64,pre,Ghost Autonomy Inc.,Ghost Autonomy Inc.,JAN-2024,San Jose,CA ,In-Vehicle (Commercial / Test),GHOST,2024,False,True
+30270-7006,50317ad9488bb18,pre,Waymo LLC,Waymo LLC,DEC-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-7007,6f39daec78014c8,pre,Waymo LLC,Waymo LLC,DEC-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-7014,54f6fdc5f9697d5,pre,Waymo LLC,Waymo LLC,DEC-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-7015,26fbd8338d4072c,pre,Waymo LLC,Waymo LLC,DEC-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-7019,3f6bf1a67e188d4,pre,Waymo LLC,Waymo LLC,DEC-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-7021,e9fffa5a3e1bdde,pre,Waymo LLC,Waymo LLC,DEC-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-10454,bb7242ab0c21676,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-7054,f4e66fc9d21a5b9,pre,Waymo LLC,Waymo LLC,JAN-2024,Phoenix,CA ,,WAYMO,2024,False,False
+30270-7071,28fac8141e63339,pre,Waymo LLC,Waymo LLC,JAN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30610-6950,f23a6e25a67b19d,pre,"Zoox, Inc.",Zoox,JAN-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2024,True,True
+30610-7110,a0a1657627490ce,pre,"Zoox, Inc.",Zoox,JAN-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2024,True,True
+30291-7107,7135acd28a61330,pre,Nuro,Nuro Inc,JAN-2024,Palo Alto,CA ,In-Vehicle (Commercial / Test),NURO,2024,False,True
+30291-7106,e57b604ec513988,pre,Nuro,Nuro Inc,JAN-2024,Mountain View,CA ,In-Vehicle (Commercial / Test),NURO,2024,False,True
+30792-7147,338d76138bfc037,pre,WeRide Corp,WeRide,JAN-2024,San Jose,CA ,In-Vehicle and Remote (Commercial / Test),WERIDE,2024,False,True
+30270-7161,59079bb2dd3325d,pre,Waymo LLC,Waymo LLC,JAN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-10447,a1a9f216f0b940f,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10649,2ea8a855b7379fa,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30412-6442,c311790f7d74673,pre,Cruise LLC,Cruise LLC,SEP-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10602,3e5d99121245470,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10610,bed27662740a5e4,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10613,de693def5440138,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10615,3250f12d8808f2a,pre,Waymo LLC,Waymo LLC,APR-2025,Venice,CA ,,WAYMO,2025,False,False
+30270-10630,8932666da33677f,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10689,c1c73648661eb2b,pre,Waymo LLC,Waymo LLC,APR-2025,Santa Monica,CA ,,WAYMO,2025,False,False
+30270-10684,66d1c511765f08f,pre,Waymo LLC,Waymo LLC,APR-2025,Beverly Hills,CA ,,WAYMO,2025,False,False
+30270-10683,e9d6934d6023298,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10743,db8a31384ad0ae7,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10742,8f4b14673f656c2,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30412-6446,ad9e847d40148e0,pre,Cruise LLC,Cruise LLC,SEP-2023,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2023,True,True
+855-6288,cf34b270bacafa4,pre,"Mercedes-Benz USA, LLC",Mercedes-Benz RD NA,AUG-2023,Los Angeles,CA ,"Other, see Narrative",MERCEDES,2023,False,False
+30270-10685,056a942c8c8d3c9,pre,Waymo LLC,Waymo LLC,APR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10690,44aa78f82f08885,pre,Waymo LLC,Waymo LLC,APR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10761,8b9ce97c9287d1e,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+540-6152,8e7f82326ba47e0,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10759,c81082eafda6733,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+540-6161,aae6306629016ce,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10600,1f374cfdfc4a97e,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10757,85694e67f3f1083,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10756,9463f912a3b86f9,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10755,0df7386b2e121f4,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+540-6190,a3b36081dcdb405,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10754,09e260ff04fde7e,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10714,5bfa8081ac63312,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10758,6ee77227e1964a8,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10727,d60f0a7874550b0,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10726,e2d92dee1c5155b,pre,Waymo LLC,Waymo LLC,APR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-6346,abaaba07ac5d811,pre,Waymo LLC,Waymo LLC,AUG-2023,San Francisco,CA ,,WAYMO,2023,True,False
+540-6295,dddd801cc7734cb,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10559,4078857f3f1549d,pre,Waymo LLC,Waymo LLC,APR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-6352,67dc226c776f696,pre,Waymo LLC,Waymo LLC,SEP-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30531-6354,bc3cf43a88e0c67,pre,Transdev Alternative Services,Waymo LLC,SEP-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30590-6382,04eeb18cf84cda0,pre,Apple Inc.,Apple Inc.,SEP-2023,Emeryville,CA ,In-Vehicle (Commercial / Test),APPLE,2023,False,True
+30270-6344,1760af8f89bba3e,pre,Waymo LLC,Waymo LLC,AUG-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30270-6405,e002b64f0353456,pre,Waymo LLC,Waymo LLC,SEP-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-10673,ec072be87c1b410,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10664,4468efe647fd81a,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10663,dcdc0f9cfeb8580,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30412-6436,276f98fc839116e,pre,Cruise LLC,Cruise LLC,SEP-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30412-6438,f868e3683212511,pre,Cruise LLC,Cruise LLC,SEP-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10746,912fe10da529c31,pre,Waymo LLC,Waymo LLC,MAY-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-6343,1a3b3cd2f637988,pre,Waymo LLC,Waymo LLC,AUG-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30270-6347,e44896eb7f3d084,pre,Waymo LLC,Waymo LLC,AUG-2023,Santa Monica,CA ,,WAYMO,2023,False,False
+540-6313,47d9acb9a1f666d,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10717,3d1197234733445,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+540-6302,9bbcc8e37f34850,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-6306,36eaf89cd2651b4,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-6307,6fe6f968f40e80b,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-10715,c0ab826dd6f7a39,pre,Waymo LLC,Waymo LLC,APR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+540-6308,4cfdaf92efc44d4,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-6311,5b390c5a66d9694,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-6342,f95b4d1b403e689,pre,Waymo LLC,Waymo LLC,AUG-2023,San Francisco,CA ,,WAYMO,2023,True,False
+540-6315,1e597bea8a8f186,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-6316,d01df3691917979,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-6317,d52496957ff39de,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-6318,f42a0de8300f52e,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-6341,5e644a30ee794ee,pre,Waymo LLC,Waymo LLC,AUG-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-6336,72e0aa76f6bd9ef,pre,Waymo LLC,Waymo LLC,AUG-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-10713,da37ed084b7182d,pre,Waymo LLC,Waymo LLC,APR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-6339,467edb2f2766c58,pre,Waymo LLC,Waymo LLC,AUG-2023,Los Angeles,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,False,True
+30270-6340,3cad4d71a6699b8,pre,Waymo LLC,Waymo LLC,AUG-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30610-10399,ed38cb58ec4a1f5,pre,"Zoox, Inc.",Zoox,APR-2025,San Francisco,CA ,,ZOOX,2025,True,False
+30270-9988,011b230dd3f2ae9,pre,Waymo LLC,Waymo LLC,FEB-2025,Daly City,CA ,,WAYMO,2025,False,False
+30270-10768,3bed82ec870ce9c,pre,Waymo LLC,Waymo LLC,MAY-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30610-10711,b7ad401221e8988,pre,"Zoox, Inc.",Zoox,MAY-2025,San Francisco,CA ,,ZOOX,2025,True,False
+30270-11327,49592ecd1caefcf,SGO,Waymo LLC,Waymo LLC,JUL-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-10364,1938b649ef9a66a,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-10349,3b84b8c3a920423,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10571,df951538661dc8e,pre,Waymo LLC,Waymo LLC,APR-2025,Venice,CA ,,WAYMO,2025,False,False
+30270-10892,a2ed9f0f8198649,pre,Waymo LLC,Waymo LLC,MAY-2025,Santa Monica,CA ,,WAYMO,2025,False,False
+30270-10596,8e7e78cafabfc2e,pre,Waymo LLC,Waymo LLC,APR-2025,Los Angeles,CA ,In-Vehicle (Commercial / Test),WAYMO,2025,False,True
+30270-11791,ceedaf1e659d839,SGO,Waymo LLC,Waymo LLC,SEP-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-11016,35e1d72cfe04d8a,pre,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-11014,7c41add3714a781,pre,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10868,59f13545e1948d1,pre,Waymo LLC,Waymo LLC,MAY-2025,Daly City,CA ,,WAYMO,2025,False,False
+30270-10182,e33f02ba21bbc82,pre,Waymo LLC,Waymo LLC,MAR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10337,52d204b4a4df1c5,pre,Waymo LLC,Waymo LLC,MAR-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30610-10999,c68e8513eb8aa59,pre,"Zoox, Inc.",Zoox,JUN-2025,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2025,True,True
+30270-11849,4ef86957b945a92,SGO,Waymo LLC,Waymo LLC,OCT-2025,Los Angeles,CA,,WAYMO,2025,False,False
+30270-10977,9230a22bfd4a593,pre,Waymo LLC,Waymo LLC,JUN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-11488,88bcb808d90373f,SGO,Waymo LLC,Waymo LLC,AUG-2025,San Francisco,CA,,WAYMO,2025,True,False
+30270-10638,1e50d4eb4d0bbd7,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10396,c167556cb883b32,pre,Waymo LLC,Waymo LLC,APR-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-10054,245fcf475614f10,pre,Waymo LLC,Waymo LLC,FEB-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-2610,a64835cbf9811d8,pre,Waymo LLC,Waymo LLC,APR-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-2609,b87c3d684c9934c,pre,Waymo LLC,Waymo LLC,MAR-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-2646,fe401a0077fd15d,pre,Waymo LLC,Waymo LLC,APR-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30412-5982,0cc9d9a746d8ae5,pre,Cruise LLC,Cruise LLC,JUL-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-2743,de2cefe32ddb0ed,pre,Waymo LLC,Waymo LLC,APR-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+540-2706,3cb771235b0bfdc,pre,"General Motors, LLC",Cruise LLC,MAR-2022,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2022,True,True
+30270-2793,005df94ebd26d4e,pre,Waymo LLC,Waymo LLC,APR-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30531-2822,71ebd2790c0a3b9,pre,Transdev Alternative Services,Waymo LLC,APR-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-2605,ef4200310e24064,pre,Waymo LLC,Waymo LLC,MAR-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-5855,1255ba62145d6e6,pre,Waymo LLC,Waymo LLC,JUL-2023,Los Angeles,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,False,True
+30270-3055,237da70b740eca7,pre,Waymo LLC,Waymo LLC,MAY-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+540-2512,027edaee5964dad,pre,"General Motors, LLC",Cruise LLC,FEB-2022,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2022,True,False
+540-3083,9d481ed6b4babd7,pre,"General Motors, LLC",Cruise LLC,JUN-2022,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2022,True,True
+540-3085,07df46993d3d218,pre,"General Motors, LLC",Cruise LLC,JUN-2022,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2022,True,False
+855-3183,6b64e02431595a7,pre,"Mercedes-Benz USA, LLC",Mercedes-Benz Research and Development NA,MAY-2022,Commerce,CA ,In-Vehicle (Commercial / Test),MERCEDES,2022,False,True
+30270-5817,afac5d277fdfeb9,pre,Waymo LLC,Waymo LLC,JUN-2023,Los Angeles,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,False,True
+540-2827,8776dfb913c3859,pre,"General Motors, LLC",Cruise LLC,APR-2022,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2022,True,True
+30412-5687,dd2b2de3e21074d,pre,Cruise LLC,Cruise LLC,JUN-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30412-2593,b6c5a51fe02a6c7,pre,Cruise LLC,Cruise LLC,MAR-2022,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2022,True,False
+30531-1618,b4618f349040cbb,pre,Transdev Alternative Services,Waymo LLC.,NOV-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30270-10075,7021e4061ead5bc,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30412-1674,62c34a263ca5455,pre,Cruise LLC,Cruise,NOV-2021,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2021,True,True
+30531-1761,b90c9dd7320e24f,pre,Transdev Alternative Services,Waymo LLC,NOV-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30531-1796,462947832bd2caa,pre,Transdev Alternative Services,Waymo LLC.,NOV-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30531-1821,92abe0be65a945a,pre,Transdev Alternative Services,Waymo LLC.,DEC-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30412-6160,350127996a9c99d,pre,Cruise LLC,Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-2590,71233f2d25b765e,pre,"General Motors, LLC",Cruise LLC,MAR-2022,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2022,True,True
+30412-6159,bdbef5fb68c771f,pre,Cruise LLC,Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-6151,4a83312a10c2a30,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Frabcisco,CA ,Remote (Commercial / Test),CRUISE,2023,False,False
+30412-6145,250a095dea0e0fd,pre,Cruise LLC,Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-2220,db822920fda66b7,pre,"General Motors, LLC",Cruise LLC,JAN-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),CRUISE,2022,True,True
+30270-2358,ca46961b61f690a,pre,Waymo LLC,Waymo LLC,FEB-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+855-2464,e0cdab99aaf1a1f,pre,"Mercedes-Benz USA, LLC",Mercedes-Benz,MAR-2022,Los Angeles,CA ,In-Vehicle and Remote (Commercial / Test),MERCEDES,2022,False,True
+30610-2584,50de63f80743bbd,pre,"Zoox, Inc.",Zoox,MAR-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+30412-6175,558b2f6cb423a8b,pre,Cruise LLC,Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-6293,a1a3b76299c95c4,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30531-5328,188a9149e534fe8,pre,Transdev Alternative Services,Waymo LLC,MAR-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30531-5329,a9b321d03f6693c,pre,Transdev Alternative Services,Waymo LLC,MAR-2023,San Bruno,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,False,True
+30531-5330,e994365318af0a9,pre,Transdev Alternative Services,Waymo LLC,MAR-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30571-4399,84d4fa517d86789,pre,NVIDIA CORP,NVIDIA Corporation,NOV-2022,San Jose,CA ,In-Vehicle (Commercial / Test),NVIDIA,2022,False,True
+30270-5208,7855eea3f17e0f0,pre,Waymo LLC,Waymo LLC,APR-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30531-4506,384e51a74ec101e,pre,Transdev Alternative Services,Waymo LLC,DEC-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+540-4524,3b559d83bff3844,pre,"General Motors, LLC",Cruise LLC,DEC-2022,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2022,True,False
+30531-5205,90144b3b43ae60a,pre,Transdev Alternative Services,Waymo LLC,APR-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30531-4726,f055ebc4395a187,pre,Transdev Alternative Services,Waymo LLC,DEC-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30531-4720,9d43f7feeb9350e,pre,Transdev Alternative Services,Waymo LLC,DEC-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30412-5136,4c753d1707263d0,pre,Cruise LLC,Cruise LLC,MAR-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30412-5140,3349adfc6b67eb6,pre,Cruise LLC,Cruise LLC,MAR-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-5114,a1cffff2c58a4a7,pre,Waymo LLC,Waymo LLC,MAR-2023,San Francisco,CA ,,WAYMO,2023,True,False
+540-4832,1348f20bffe6753,pre,"General Motors, LLC",Cruise LLC,FEB-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-5085,0d228d5bcb790d2,pre,Waymo LLC,Waymo LLC,FEB-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30412-4960,623cbe4cd511622,pre,Cruise LLC,Cruise LLC,MAR-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30531-3256,729291cbc185f73,pre,Transdev Alternative Services,Waymo LLC,JUN-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+540-3283,1a8f11b1e58e6e7,pre,"General Motors, LLC",Cruise LLC,JUN-2022,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2022,True,True
+30270-3323,0899b0a38f084ba,pre,Waymo LLC,Waymo LLC,JUL-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-5456,82fb19eb82e5406,pre,Waymo LLC,Waymo LLC,MAY-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-5429,84e175a3c826442,pre,Waymo LLC,Waymo LLC,MAY-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30531-3626,9be5431de5dfbd1,pre,Transdev Alternative Services,Waymo LLC,AUG-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30412-5430,eba897229a84611,pre,Cruise LLC,Cruise LLC,MAY-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-5227,e856cba9a39d8d1,pre,"General Motors, LLC",Cruise LLC,APR-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30610-3719,86aa35bdd11ea77,pre,"Zoox, Inc.",Zoox Inc.,AUG-2022,Las Vegas,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,False,True
+30610-3072,57e9040c5de3c46,pre,"Zoox, Inc.",Zoox,JUN-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+30610-3215,b26a8024c824bb2,pre,"Zoox, Inc.",Zoox,JUN-2022,San Mateo,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,False,True
+30610-3158,33e8d4e5afdbbd8,pre,"Zoox, Inc.",Zoox,MAY-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+30610-3508,6cbdeb64bd4bc64,pre,"Zoox, Inc.",Zoox,JUL-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+30610-4993,756c45604ba8bbd,pre,"Zoox, Inc.",Zoox,FEB-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2023,True,True
+30610-4994,c2fb3fca34e403b,pre,"Zoox, Inc.",Zoox,FEB-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2023,True,True
+502-3914,0bbd9f4a21e80a6,pre,Ford Motor Company,Argo AI,SEP-2022,Palo Alto,CA ,In-Vehicle (Commercial / Test),ARGO AI,2022,False,True
+30610-4995,f3593eb7f389b3f,pre,"Zoox, Inc.",Zoox,FEB-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2023,True,True
+30610-5232,e8e2e51ebce016a,pre,"Zoox, Inc.",Zoox,APR-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2023,True,True
+30610-3752,1e802a0a2cb0266,pre,"Zoox, Inc.",Zoox,SEP-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,True,True
+540-6294,e96092613d9dd35,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30531-4492,439627d9d2569d4,pre,Transdev Alternative Services,Waymo LLC,NOV-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30270-1498,0cb307e3099fa7e,pre,Waymo LLC,Waymo LLC,SEP-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30270-8685,df322c129346f66,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8316,1a4cbd1d95b3d30,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8632,8b14fdebdb542b9,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9459,62f5ffb1da321a9,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9534,7aaa5befcfe5542,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9014,d86b5e4edebab1b,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30412-6039,0c8da6d17337ae5,pre,Cruise LLC,Cruise LLC,JUL-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30412-6180,e55e0dbe712106f,pre,Cruise LLC,Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-8827,bfc20629d54eae2,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9654,be9a4261e1e8663,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-8526,85b2ac7e4bcaa36,pre,Waymo LLC,Waymo LLC,SEP-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-8514,7fc8fab318eae00,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-14829,f9e1502e537f5c0,SGO,Waymo LLC,Waymo LLC,APR-2026,Los Angeles,CA,,WAYMO,2026,False,False
+30270-14583,7378c4912f63d32,SGO,Waymo LLC,Waymo LLC,APR-2026,San Francisco,CA,,WAYMO,2026,True,False
+30270-8469,0c5c84a13b2a281,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9682,631e6e051bb302a,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30610-8201,ad0dcca9b823fd2,pre,"Zoox, Inc.",Zoox,JUL-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2024,True,True
+30270-8200,1c4aa40a2a04b1a,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8182,52013c1519577f5,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+502-1697,15e150e3f8f22d0,pre,Ford Motor Company,Argo AI,OCT-2021,Palo Alto,CA ,In-Vehicle (Commercial / Test),ARGO AI,2021,False,True
+30270-9334,bd466c870547afe,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8828,17a0138cad77b88,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8870,9661d6d11d94734,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9326,fc07e1236c3e5d3,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30610-7819,3979ce2cb9bbf11,pre,"Zoox, Inc.",Zoox,MAY-2024,Foster City,CA ,,ZOOX,2024,False,False
+30270-9295,a4770372ceb27d6,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9287,0fa98029f8f1cef,pre,Waymo LLC,Waymo LLC,DEC-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9285,2480c0e06ee89ea,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9276,c225db226c2ea4a,pre,Waymo LLC,Waymo LLC,NOV-2024,West Hollywood,CA ,,WAYMO,2024,False,False
+30270-9312,902679e9b0927cd,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9234,245053e3a6a403b,pre,Waymo LLC,Waymo LLC,NOV-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9059,cfa9cbb0323fac7,pre,Waymo LLC,Waymo LLC,NOV-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-9039,f54df4d20d34fd6,pre,Waymo LLC,Waymo LLC,NOV-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8842,d81c6a7d3c2f7e9,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9110,12cf8b6660b49bc,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8982,1f2bee64088ae54,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8968,2abc9b4faef00d9,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30610-8956,1e1418541038c4a,pre,"Zoox, Inc.",Zoox,OCT-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2024,True,True
+30531-9456,f3f7d49a496c366,pre,Transdev Alternative Services,Waymo LLC,DEC-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,True,True
+30270-9476,1988e25397f633d,pre,Waymo LLC,Waymo LLC,DEC-2024,Los Angeles,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,False,True
+30270-8873,b9c4ac3757b3fa1,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8871,293ddf14bace8f9,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9015,7ba50d95e189af8,pre,Waymo LLC,Waymo LLC,NOV-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-8039,46313087c8e64f4,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,True,True
+30270-8088,8cafb1314704254,pre,Waymo LLC,Waymo LLC,JUL-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30413-9723,ef4ee437cff079c,pre,May Mobility,May Mobility,JAN-2025,Martinez,CA ,In-Vehicle (Commercial / Test),MAY,2025,False,True
+30270-6522,3ff142802a5fce9,pre,Waymo LLC,Waymo LLC,SEP-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30412-6167,a031f7256578809,pre,Cruise LLC,Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-1,c26d492ac568c12,pre,Waymo LLC,Waymo LLC,JUL-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30270-9807,4ccbd17516d5a82,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30412-16,3759781d335193e,pre,Cruise LLC,Cruise ,JUL-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),CRUISE,2021,True,True
+30270-9860,0dc79525eecc923,pre,Waymo LLC,Waymo LLC,FEB-2025,Los Angeles,CA ,,WAYMO,2025,False,False
+30270-9931,346cd4b6bf87e06,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9926,3b8990bdb26fdf0,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30412-1138,aed9b05ea58c626,pre,Cruise LLC,Cruise,AUG-2021,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2021,True,True
+30270-6385,472852271e2724f,pre,Waymo LLC,Waymo LLC,OCT-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-9978,63cb63ad512c4e3,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9987,45b81f06862d85c,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30531-1382,2be0d6e1e9a8d23,pre,Transdev Alternative Services,Waymo LLC,OCT-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30531-7965,fb946bdabf49687,pre,Transdev Alternative Services,Waymo LLC,MAY-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,True,True
+540-6530,4848631652e9672,pre,"General Motors, LLC",Cruise LLC,OCT-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30412-1293,75b4756180a9b45,pre,Cruise LLC,Cruise,AUG-2021,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2021,True,True
+30270-8021,88cda6faf7e7791,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7855,937b4d4b37c47c1,pre,Waymo LLC,Waymo LLC,JUN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-15594,4ed3828343b5b98,SGO,Waymo LLC,Waymo LLC,JUN-2026,Los Angeles,CA,In-Vehicle (Commercial / Test),WAYMO,2026,False,True
+30270-7949,c92893635f8a32b,pre,Waymo LLC,Waymo LLC,MAY-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-7795,84a566f93ceec88,pre,Waymo LLC,Waymo LLC,MAY-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7681,7b74a49eb5027b6,pre,Waymo LLC,Waymo LLC,MAY-2024,Los Angeles,CA ,In-Vehicle (Commercial / Test),WAYMO,2024,False,True
+30270-7380,3ef8a06dc504e92,pre,Waymo LLC,Waymo LLC,MAR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7639,862890b0bf9fd67,pre,Waymo LLC,Waymo LLC,MAY-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-6529,d088b81d0aea602,pre,Waymo LLC,Waymo LLC,OCT-2023,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2023,True,True
+30270-7719,ea0749fade5c167,pre,Waymo LLC,Waymo LLC,APR-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7190,9efe939f0ad5856,pre,Waymo LLC,Waymo LLC,FEB-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-7075,35b627077003d07,pre,Waymo LLC,Waymo LLC,FEB-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-6981,85bb308f7801ee8,pre,Waymo LLC,Waymo LLC,JAN-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-9724,4409b059e33b146,pre,Waymo LLC,Waymo LLC,JAN-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-8851,dcae9422f8bb3d2,pre,Waymo LLC,Waymo LLC,SEP-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-6579,2c723ba2d4b98e0,pre,Waymo LLC,Waymo LLC,NOV-2023,San Francisco,CA ,,WAYMO,2023,True,False
+30270-9789,ddd7ca810af9fd2,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30270-9876,0854cad253fe51e,pre,Waymo LLC,Waymo LLC,FEB-2025,San Francisco,CA ,,WAYMO,2025,True,False
+30610-7589,82ecf2521cd5c8e,pre,"Zoox, Inc.",Zoox,APR-2024,San Francisco,CA ,In-Vehicle (Commercial / Test),ZOOX,2024,True,True
+30270-9391,51fddeccedd918b,pre,Waymo LLC,Waymo LLC,DEC-2024,San Francisco,CA ,,WAYMO,2024,True,False
+540-5102,ce612b3607697d1,pre,"General Motors, LLC",Cruise LLC,MAR-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+540-4541,99108ea3e1b8746,pre,"General Motors, LLC",Cruise LLC,DEC-2022,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2022,True,True
+30610-3703,e5bfa5112083dd7,pre,"Zoox, Inc.",Zoox Inc.,AUG-2022,Menlo Park,CA ,In-Vehicle (Commercial / Test),ZOOX,2022,False,True
+30531-1191,930d0910bc2916c,pre,Transdev Alternative Services,"Waymo, LLC.",AUG-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30531-33,67a8aed333e7a9d,pre,Transdev Alternative Services,Waymo LLC.,AUG-2021,San Francisco,CA ,"Other, see Narrative",WAYMO,2021,True,False
+30531-6,271d12d94b19ecc,pre,Transdev Alternative Services,"Waymo, LLC",JUL-2021,San Francisco,CA ,"Other, see Narrative",WAYMO,2021,True,False
+30531-2, ,pre,Transdev Alternative Services,Waymo LLC,JUL-2021,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2021,True,True
+30711-1759,aeb0ef282584e35,pre,Pony.ai,Pony.ai,OCT-2021,Fremont,CA ,In-Vehicle and Remote (Commercial / Test),PONY,2021,False,True
+30412-2173,4b0988fa9b7493b,pre,Cruise LLC,Cruise LLC,JAN-2022,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2022,True,True
+540-6148,d8658d11ce22465,pre,"General Motors, LLC",Cruise LLC,AUG-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False
+30270-7157,1856b0e9c61d103,pre,Waymo LLC,Waymo LLC,JAN-2024,Los Angeles,CA ,,WAYMO,2024,False,False
+30270-8444,f0565ea7fcd398a,pre,Waymo LLC,Waymo LLC,AUG-2024,San Francisco,CA ,,WAYMO,2024,True,False
+540-3753,7dc63f84ed3a0fb,pre,"General Motors, LLC",Cruise LLC,SEP-2022,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2022,True,True
+540-4019,62c1ea636449cfd,pre,"General Motors, LLC",Cruise LLC,SEP-2022,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2022,True,False
+30412-5422,20699d65c5c18d0,pre,Cruise LLC,Cruise LLC,MAY-2023,San Francisco,CA ,In-Vehicle and Remote (Commercial / Test),CRUISE,2023,True,True
+30270-8940,5495e0dccac8dca,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30270-8979,312ced3d6dc57f8,pre,Waymo LLC,Waymo LLC,OCT-2024,San Francisco,CA ,,WAYMO,2024,True,False
+30531-4719,bd4f1d59062450f,pre,Transdev Alternative Services,Waymo LLC,DEC-2022,San Francisco,CA ,In-Vehicle (Commercial / Test),WAYMO,2022,True,True
+30412-6395,8cb088f47f347b4,pre,Cruise LLC,Cruise LLC,OCT-2023,San Francisco,CA ,Remote (Commercial / Test),CRUISE,2023,True,False

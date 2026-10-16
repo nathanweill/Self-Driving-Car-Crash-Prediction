@@ -1,0 +1,69 @@
+{
+ "setup": "geo_e2w_2024",
+ "B": 200,
+ "seed": 7,
+ "pipeline_selected": [
+  "uber_dropoffs_mean_per_km2__lg",
+  "road_surface_wet_share",
+  "total_killed__lg"
+ ],
+ "replicated_selected": [
+  "uber_dropoffs_mean_per_km2__lg",
+  "road_surface_wet_share",
+  "total_killed__lg"
+ ],
+ "freq": {
+  "road_surface_wet_share": 0.435,
+  "uber_dropoffs_mean_per_km2__lg": 0.405,
+  "total_killed__lg": 0.37,
+  "intersection_density_mean__lg": 0.185,
+  "retail_share": 0.165,
+  "weather1_raining_share": 0.145,
+  "at_intersection_share": 0.13,
+  "cie_share": 0.115,
+  "pdr_share": 0.105,
+  "hv_x_intersection_share__lg": 0.105,
+  "med_share": 0.075,
+  "weather1_clear_share": 0.05,
+  "dawn_dusk_share": 0.03,
+  "bike_accident_share": 0.02,
+  "collision_severity_other_injury_share": 0.015,
+  "lighting_dusk_dawn_share": 0.01,
+  "weekend_share": 0.01,
+  "mips_share": 0.01,
+  "day_share": 0.005,
+  "weather1_cloudy_share": 0.005,
+  "collision_severity_fatal_share": 0.005,
+  "res_share": 0.005
+ },
+ "size_dist": {
+  "0": 6,
+  "1": 39,
+  "2": 58,
+  "3": 67,
+  "4": 26,
+  "5": 4
+ },
+ "top_sets": [
+  [
+   "road_surface_wet_share|total_killed__lg",
+   15
+  ],
+  [
+   "uber_dropoffs_mean_per_km2__lg",
+   9
+  ],
+  [
+   "road_surface_wet_share",
+   8
+  ],
+  [
+   "uber_dropoffs_mean_per_km2__lg|weather1_raining_share",
+   7
+  ],
+  [
+   "intersection_density_mean__lg|road_surface_wet_share|total_killed__lg",
+   6
+  ]
+ ]
+}

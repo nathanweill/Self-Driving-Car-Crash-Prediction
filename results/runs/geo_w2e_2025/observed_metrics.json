@@ -1,0 +1,44 @@
+{
+  "setup": "geo_w2e_2025",
+  "test_year": 2025,
+  "train_years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "train_region": "west",
+  "n_train_rows": 144,
+  "selected_features": [
+    "avg_killed_per_crash",
+    "med_share",
+    "collision_severity_severe_injury_share"
+  ],
+  "beta": {
+    "intercept": 2.89685447141264,
+    "avg_killed_per_crash": -29.481674372384333,
+    "med_share": -10.479651182799701,
+    "collision_severity_severe_injury_share": 5.4611637997552265
+  },
+  "null_beta": 2.782842587339741,
+  "full": {
+    "r2": 0.5223255950750567,
+    "mae": 1.016425945293651,
+    "kendall_tau_b": 0.5036529419395368,
+    "deviance": 40.940705532042706,
+    "total_true": 32.0,
+    "total_pred": 30.76486038435567
+  },
+  "null": {
+    "r2": 0.5739277243351797,
+    "mae": 1.026103705212348,
+    "kendall_tau_b": 0.5068067169151714,
+    "deviance": 39.533907092046974,
+    "total_true": 32.0,
+    "total_pred": 35.297031350219086
+  },
+  "max_abs_grad": 5.385229524534907e-06,
+  "null_max_abs_grad": 7.654152867075936e-10,
+  "full_p1_nonconverged_refits": 0,
+  "null_p1_nonconverged_refits": 0
+}
