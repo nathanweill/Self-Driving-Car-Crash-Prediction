@@ -56,16 +56,16 @@ results_sensitivity_{low,high}/  outputs of the two sensitivity runs
 |---|---|---|
 | `TAZ981.*` | 981 transportation analysis zones (TAZ) of San Francisco | SFCTA, [TNCs Today](https://www.sfcta.org/projects/tncs-today-2017) |
 | `Uber_pickup_dropoff.csv` | Estimated ride-hailing pickups and dropoffs per TAZ, day of week and hour (2016 sample) | SFCTA, TNCs Today |
-| `land_use.csv.gz` | Parcel land use (floor area by use, intersection density), 155,135 parcels | [DataSF, San Francisco Land Use](https://data.sfgov.org/Geographic-Locations-and-Boundaries/-ARCHIVED-San-Francisco-Land-Use-2023/fdfd-xptc/about_data) |
-| `consensus_segments_wkt.csv.gz` | 16,137 OpenStreetMap road segments with streetscape labels extracted from Google Street View images by Qwen3.5-27B (consensus over samples) | this study |
-| `sf_hv_14_25.csv` | Police-reported HV injury crashes in San Francisco, 2014-2025 | [TIMS, UC Berkeley SafeTREC](https://tims.berkeley.edu/) |
-| `sf_av_combined_2025.csv` | AV collision reports (form OL 316) in San Francisco, 2016-2025; `av_mode` = AM (autonomous) or CM (conventional). Only crashes in autonomous mode are used | [California DMV](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/) |
-| `mileage/dmv_testing_monthly.csv` | Autonomous-mode miles per manufacturer and month, testing with a safety driver and driverless testing, 2020-2025 | [California DMV mileage reports](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/disengagement-reports/) |
-| `mileage/sgo_ca_incidents.csv` | California crashes with the automated driving system engaged, one row per incident (operator, year, San Francisco or not, someone on board or not) | [NHTSA Standing General Order](https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting) |
+| `land_use.csv.gz` | Parcel land use (floor area by use, intersection density), 155,135 parcels | [DataSF, San Francisco Land Use - 2023 (archived)](https://data.sf.gov/Geographic-Locations-and-Boundaries/-ARCHIVED-San-Francisco-Land-Use-2023/fdfd-xptc/about_data) |
+| `consensus_segments_wkt.csv.gz` | 16,137 [OpenStreetMap](https://www.openstreetmap.org/) road segments (extracted April 2026) with streetscape labels extracted from Google Street View images by Qwen3.5-27B (consensus over samples; used only in the Street View comparison) | this study |
+| `sf_hv_14_25.csv` | Police-reported HV injury and fatal crashes in San Francisco, 2014-2025, one row per crash. Crash-level export of the SWITRS Query & Map tool of TIMS (downloaded April 2026), with the columns renamed; crashes without a TIMS geocode are excluded. The 2025 records are provisional | California Highway Patrol ([CCRS](https://data.ca.gov/@california-highway-patrol/ccrs)), geocoded and distributed by [TIMS, UC Berkeley SafeTREC](https://tims.berkeley.edu/) |
+| `sf_av_combined_2025.csv` | AV collision reports (form OL 316) of DMV testing-permit holders in San Francisco, 2016-2025, one row per report: date, time, location and driving mode (`av_mode` = AM autonomous, CM conventional) extracted from the PDF reports, with the reported locations geocoded; reports whose location could not be geocoded are excluded. Only crashes in autonomous mode are used | California DMV collision reports ([archived page, 25 Feb 2026](https://web.archive.org/web/20260225190800/https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/)); the same reports are compiled in the DMV spreadsheet [DMV AV Testing Collisions Data](https://docs.google.com/spreadsheets/d/1Ml2AOMWtRo2E-SrNZjA7JkpHP3-C2kFzgVsiIOF_lkU) |
+| `mileage/dmv_testing_monthly.csv` | Autonomous-mode miles per manufacturer and month, testing with a safety driver and driverless testing, 2020-2025 | California DMV Autonomous Vehicle Mileage and Disengagement Reports, 2015-2025, released 20 February 2026 ([DMV news release](https://www.dmv.ca.gov/portal/news-and-media/autonomous-vehicle-permit-holders-in-california-logged-more-than-9-million-test-miles-between-december-1-2024-and-november-30-2025/)) |
+| `mileage/sgo_ca_incidents.csv` | California crashes with the automated driving system engaged, one row per incident (operator, year, San Francisco or not, someone on board or not) | [NHTSA Standing General Order](https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting), ADS incident reports: [archive file](https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/Archive-2021-2025/SGO-2021-01_Incident_Reports_ADS.csv) and [file under the third amendment](https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv) |
 
 The two large CSV files are gzip-compressed (pandas reads them directly). Fleet
 mileage is in `config/paper.yaml` (`exposure`), in million miles: `N_H` is the annual HV
-vehicle miles traveled in San Francisco ([SFCTA congestion dashboard](https://congestion.sfcta.org/))
+vehicle miles traveled in San Francisco ([SFCTA congestion dashboard](https://congestion.sfcta.org/), accessed April 2026)
 and `N_A` the annual autonomous testing miles in San Francisco (next section).
 
 **Scope.** The AV crashes and `N_A` both cover autonomous *testing* under the DMV
@@ -91,6 +91,8 @@ years (December to November).
 ```
 python mileage/sf_testing_miles.py     # prints N_A for the three cases from data/mileage/
 # rebuild the two input tables from the raw downloads (not included in the repository):
+#   DMV report folder = the 2015-2025 mileage and disengagement release of 20 February 2026
+#   SGO folder = the two NHTSA ADS incident files linked in the Data table
 python mileage/build_dmv_monthly.py <DMV report folder> data/mileage/dmv_testing_monthly.csv
 python mileage/build_sgo_ca.py <SGO folder> sgo_ca_incidents.csv   # see the note in the script
 ```
@@ -195,4 +197,5 @@ Paper tables and figures:
 
 ## Citation
 
-If you use this code or data, please cite the paper (reference to be added on publication).
+If you use this code or data, please cite the paper (reference to be added on publication)
+and the original data sources listed in "Data".
