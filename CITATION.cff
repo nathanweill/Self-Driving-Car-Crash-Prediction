@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below, and cite the original data sources listed in the README."
+title: "Spatiotemporal Crash Prediction for Autonomous Vehicle Deployment: A Case Study in San Francisco (code and data)"
+type: software
+authors:
+  - family-names: Huang
+    given-names: Chengpiao
+    affiliation: "Department of Industrial Engineering and Operations Research, Columbia University"
+  - family-names: Weill
+    given-names: Nathan
+    affiliation: "Department of Industrial Engineering and Operations Research, Columbia University"
+  - family-names: Fang
+    given-names: Bowen
+    affiliation: "Department of Civil Engineering and Engineering Mechanics, Columbia University"
+  - family-names: Wang
+    given-names: Kaizheng
+    affiliation: "Department of Industrial Engineering and Operations Research, Columbia University"
+  - family-names: Di
+    given-names: Xuan
+    affiliation: "Department of Civil Engineering and Engineering Mechanics, Columbia University"
+repository-code: "https://github.com/nathanweill/Self-Driving-Car-Crash-Prediction"
+license: MIT
+version: "1.0"
+date-released: "2026-10-20"
+keywords:
+  - autonomous vehicles
+  - crash prediction
+  - Poisson model
+  - San Francisco
