@@ -82,7 +82,7 @@ def run_uncertainty(cfg, res: SetupResult) -> None:
         res.uq[f"{kind}_p1"] = pd.DataFrame([uq.summarize(d.mu[:, keep].sum(axis=0), float(mu.sum()),
                                                           metric="predicted_total", pipeline="P1")])
         res.uq[f"{kind}_p2"] = pd.DataFrame([uq.poisson_total(mu, y, B, s[f"p2_{kind}"], "P2")])
-        res.uq[f"{kind}_p4"] = uq.test_zone_metrics(y, mu, B, s[f"p4_{kind}"], "P4")
+        res.uq[f"{kind}_p3"] = uq.test_zone_metrics(y, mu, B, s[f"p3_{kind}"], "P3")
 
 
 def save_setup(res: SetupResult, out: Path) -> None:
@@ -113,7 +113,7 @@ def save_setup(res: SetupResult, out: Path) -> None:
     if not res.uq:
         return
     for kind in ("full", "null"):
-        for p in ("p1", "p2", "p4"):
+        for p in ("p1", "p2", "p3"):
             res.uq[f"{kind}_{p}"].to_csv(out / f"{kind}_{p}.csv", index=False)
         d = res.uq[f"{kind}_draws"]
         names = ["intercept"] + (res.selected if kind == "full" else [])

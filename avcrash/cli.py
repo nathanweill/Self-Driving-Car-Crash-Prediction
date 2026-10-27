@@ -5,6 +5,7 @@
   selection-frequency   repeat the forward selection on reweighted training data
   residuals             cross-year dependence of the training residuals (temporal setups)
   streetview            rerun the nine evaluations with the Street View covariates added
+                        (needs the Street View segment file, which is not distributed)
   figures               maps, heatmaps and sparsity figures
   tables                LaTeX table bodies and in-text numbers (optionally fill a paper)
   all                   everything above, in order
@@ -89,6 +90,13 @@ def cmd_residuals(cfg, a):
 
 
 def cmd_streetview(cfg, a):
+    if not cfg.files["segments_csv"].exists():
+        msg = (f"{cfg.files['segments_csv'].name} not found: the Street View labels are not distributed "
+               "(Google Maps Platform terms); the saved comparison is results/streetview_comparison.csv")
+        if a.command == "all":
+            log.info("skipping streetview: %s", msg)
+            return
+        raise SystemExit(msg)
     from .diagnostics import evaluation_summary
     from .pipeline import run_setup
     _, _, panel = _base(cfg, a.results)

@@ -8,7 +8,7 @@ fits a joint Poisson model of autonomous-vehicle (AV) and human-driven-vehicle (
 crash counts with covariates chosen by forward selection with the BIC, evaluates it
 on temporal and spatial holdouts, and quantifies uncertainty with zone-level random
 weighting. Running it regenerates every number, table and figure of the paper that
-comes from the analysis.
+comes from the analysis, except the Street View comparison (see "Data").
 
 ## Quick start
 
@@ -20,8 +20,12 @@ python -m pytest               # about 1 minute; checks a rerun against results/
 ```
 
 `results/` is committed, so the outputs can be inspected without running anything.
-Tested with Python 3.13, numpy 2.5, pandas 3.0, scipy 1.18, geopandas 1.2,
-shapely 2.2 and scikit-learn 1.9.
+`results/` was produced on Linux with Python 3.13, numpy 2.5.3, pandas 3.0.5, scipy 1.18.1,
+shapely 2.2.0, geopandas 1.2.0, pyproj 3.8.0 and scikit-learn 1.9.1, where `pytest` reproduces
+it exactly. On other platforms, floating-point differences of about 1e-8 in the zone areas
+can break exact ties between equivalent HV fatality variables (`fatal_crash_share` and
+`collision_severity_fatal_share` are identical in the data), so a few setups may select a
+different but equivalent variable and a few reproduction tests fail.
 
 ## Repository layout
 
@@ -33,14 +37,14 @@ data/mileage/          tables behind the AV mileage N_A (see "AV mileage")
 mileage/               scripts that compute N_A from the DMV and NHTSA files
 avcrash/
   io.py                readers and parsing of the raw files
-  zones.py             TAZ descriptors, contiguous Ward clustering, island removal
+  zones.py             the zones: saved assignment, or Ward clustering and island removal
   features.py          zone-year panel: crash counts, exposure, covariates
   geosplit.py          east/west split for the spatial holdouts
   pool.py              candidate pool: screening, log(1+x), correlation pruning
   model.py             profiled joint Poisson model
   selection.py         forward selection with the BIC and strong heredity
   metrics.py           R2, MAE, Kendall tau-b, Poisson deviance (and weighted versions)
-  uncertainty.py       zone random weighting (P1), Poisson simulation (P2), test-zone weighting (P4)
+  uncertainty.py       zone random weighting (P1), Poisson simulation (P2), test-zone weighting (P3)
   pipeline.py          one evaluation setup end to end
   diagnostics.py       selection frequency, residual dependence, Street View comparison
   figures.py, tables.py  paper figures and LaTeX table bodies
@@ -55,15 +59,25 @@ results_sensitivity_{low,high}/  outputs of the two sensitivity runs
 | File | Content | Source |
 |---|---|---|
 | `TAZ981.*` | 981 transportation analysis zones (TAZ) of San Francisco | SFCTA, [TNCs Today](https://www.sfcta.org/projects/tncs-today-2017) |
-| `Uber_pickup_dropoff.csv` | Estimated ride-hailing pickups and dropoffs per TAZ, day of week and hour (2016 sample) | SFCTA, TNCs Today |
-| `land_use.csv.gz` | Parcel land use (floor area by use, intersection density), 155,135 parcels | [DataSF, San Francisco Land Use - 2023 (archived)](https://data.sf.gov/Geographic-Locations-and-Boundaries/-ARCHIVED-San-Francisco-Land-Use-2023/fdfd-xptc/about_data) |
-| `consensus_segments_wkt.csv.gz` | 16,137 [OpenStreetMap](https://www.openstreetmap.org/) road segments (extracted April 2026) with streetscape labels extracted from Google Street View images by Qwen3.5-27B (consensus over samples; used only in the Street View comparison) | this study |
+| `Uber_pickup_dropoff.csv` | Estimated pickups and dropoffs of Uber and Lyft (transportation network companies, TNCs) per TAZ, day of week and hour (2016 sample). Despite the file and column names (`uber_*`), the counts cover both companies | SFCTA, TNCs Today |
+| `land_use.csv.gz` | Parcel land use (floor area by use, intersection density), 155,135 parcels | [DataSF, San Francisco Land Use - 2023 (archived)](https://data.sf.gov/Geographic-Locations-and-Boundaries/-ARCHIVED-San-Francisco-Land-Use-2023/fdfd-xptc/about_data), public domain |
+| `taz_to_zone.csv` | Assignment of the 969 mainland TAZs to the 65 zones used in the paper (the output of method step 1) | this study |
 | `sf_hv_14_25.csv` | Police-reported HV injury and fatal crashes in San Francisco, 2014-2025, one row per crash. Crash-level export of the SWITRS Query & Map tool of TIMS (downloaded April 2026), with the columns renamed; crashes without a TIMS geocode are excluded. The 2025 records are provisional | California Highway Patrol ([CCRS](https://data.ca.gov/@california-highway-patrol/ccrs)), geocoded and distributed by [TIMS, UC Berkeley SafeTREC](https://tims.berkeley.edu/) |
 | `sf_av_combined_2025.csv` | AV collision reports (form OL 316) of DMV testing-permit holders in San Francisco, 2016-2025, one row per report: date, time, location and driving mode (`av_mode` = AM autonomous, CM conventional) extracted from the PDF reports, with the reported locations geocoded; reports whose location could not be geocoded are excluded. Only crashes in autonomous mode are used | California DMV collision reports ([archived page, 25 Feb 2026](https://web.archive.org/web/20260225190800/https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/)); the same reports are compiled in the DMV spreadsheet [DMV AV Testing Collisions Data](https://docs.google.com/spreadsheets/d/1Ml2AOMWtRo2E-SrNZjA7JkpHP3-C2kFzgVsiIOF_lkU) |
 | `mileage/dmv_testing_monthly.csv` | Autonomous-mode miles per manufacturer and month, testing with a safety driver and driverless testing, 2020-2025 | California DMV Autonomous Vehicle Mileage and Disengagement Reports, 2015-2025, released 20 February 2026 ([DMV news release](https://www.dmv.ca.gov/portal/news-and-media/autonomous-vehicle-permit-holders-in-california-logged-more-than-9-million-test-miles-between-december-1-2024-and-november-30-2025/)) |
 | `mileage/sgo_ca_incidents.csv` | California crashes with the automated driving system engaged, one row per incident (operator, year, San Francisco or not, someone on board or not) | [NHTSA Standing General Order](https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting), ADS incident reports: [archive file](https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/Archive-2021-2025/SGO-2021-01_Incident_Reports_ADS.csv) and [file under the third amendment](https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/SGO-2021-01_Incident_Reports_ADS.csv) |
 
-The two large CSV files are gzip-compressed (pandas reads them directly). Fleet
+**Street View labels (not included).** The zones and the Street View comparison also use
+`consensus_segments_wkt.csv.gz`: 16,137 OpenStreetMap road segments (extracted April 2026)
+with streetscape labels (lanes, bus and bike lanes, crosswalks, ...) extracted from Google
+Street View images by Qwen3.5-27B. The Google Maps Platform terms do not allow redistributing
+content derived from Street View imagery, so this file is not in the repository. It is needed
+only to rebuild the zones from scratch (its bus-lane share is one of the clustering
+descriptors) and to rerun the Street View comparison. The repository instead ships the
+resulting zone assignment (`data/taz_to_zone.csv`) and the comparison's output
+(`results/streetview_comparison.csv`), so every other result can be reproduced.
+
+The land-use file is gzip-compressed (pandas reads it directly). Fleet
 mileage is in `config/paper.yaml` (`exposure`), in million miles: `N_H` is the annual HV
 vehicle miles traveled in San Francisco ([SFCTA congestion dashboard](https://congestion.sfcta.org/), accessed April 2026)
 and `N_A` the annual autonomous testing miles in San Francisco (next section).
@@ -107,7 +121,11 @@ All settings below are read from `config/paper.yaml`.
    over TAZs and the descriptors are standardized. Starting from one cluster per TAZ,
    the pair of adjacent clusters (polygons within 5 m) with the smallest Ward cost is
    merged until 70 clusters remain. Clusters not connected to the mainland are
-   dropped, which leaves 65 zones.
+   dropped, which leaves 65 zones. The repository ships the result as
+   `data/taz_to_zone.csv` and reads it by default (`zones.from_assignment: true` in the
+   config), because the bus-lane share comes from the Street View labels, which are not
+   included (see "Data"). With `from_assignment: false` and the segment file, the zones
+   are rebuilt; this reproduces `data/taz_to_zone.csv` exactly.
 2. **Panel** (`features.py`). For each zone and year 2021-2025: the AV crashes in
    autonomous mode (`n_av`), the HV crashes (`n_hv`), the fleet mileages `N_A` and
    `N_H`, and the 41 covariates of the paper's feature table (land-use shares,
@@ -119,7 +137,7 @@ All settings below are read from `config/paper.yaml`.
    test on the other side in the test year.
 4. **Candidate pool** (`pool.py`), using only the covariates of the training-region
    zones in the initial training years (2021-2022 for test 2024, 2021-2023 for test
-   2025): removal of the Uber total (it is the sum of pickups and dropoffs); support
+   2025): removal of the TNC total `uber_total` (the sum of pickups and dropoffs); support
    and variance screening of the zone means; `log(1+x)` for nonnegative variables
    with a maximum above 1 (columns ending in `__lg`); pruning of pairs with
    |correlation| > 0.9.
@@ -137,13 +155,16 @@ All settings below are read from `config/paper.yaml`.
      around the unweighted fit (β* = β̂ + 2(β_w − β̂), μ* = μ̂ (μ_w/μ̂)²). Reported:
      the predicted test total and the coefficient intervals. Seed 7, the same
      weights for the full and intercept-only models.
-   * P2: Poisson counts simulated from the fitted test means; reported: the total.
-   * P4, *TestZone-Metric*: R², MAE, Kendall τb and deviance recomputed with
+   * P2, *Poisson-Pred*: Poisson counts simulated from the fitted test means; reported: the total.
+   * P3, *TestZone-Metric*: R², MAE, Kendall τb and deviance recomputed with
      Dirichlet(4) weights over test zones, rescaled as m* = m̂ + 2(m_w − m̂).
 8. **Diagnostics** (`diagnostics.py`): selection frequency of each feature when the
    forward selection is repeated with Exp(1) zone weights; lag-one correlation and
    intra-class correlation of the training Pearson residuals with a permutation test;
-   the nine evaluations rerun with the 18 Street View covariates added to the pool.
+   the six setups plus three 2023 backtests (the same temporal and two spatial designs with
+   training years 2021-2022 and test year 2023; window `test_2023` in `config/paper.yaml`),
+   nine evaluations in all, rerun with the 18 Street View covariates added to the pool
+   (needs the segment file; the saved output is `results/streetview_comparison.csv`).
 
 ## Commands and outputs
 
@@ -152,7 +173,7 @@ python -m avcrash panel                # results/panel.csv, zones.geojson, taz_t
 python -m avcrash run                  # results/runs/<setup>/
 python -m avcrash selection-frequency  # results/selection_frequency/<setup>.json  (~8 min)
 python -m avcrash residuals            # results/residual_dependence.json
-python -m avcrash streetview           # results/streetview_comparison.csv
+python -m avcrash streetview           # results/streetview_comparison.csv (needs the Street View file; skipped by all)
 python -m avcrash figures              # results/figures/
 python -m avcrash tables               # results/tables/*.tex and numbers.json
 python -m avcrash tables --paper PATH  # also writes the table bodies into the LaTeX sources
@@ -176,8 +197,13 @@ Each `results/runs/<setup>/` contains:
 | `candidate_pool.json` | screened variables, log-transformed variables, variables removed by correlation pruning, final pool |
 | `selection_trace.csv` | accepted steps of the forward selection with their BIC |
 | `test_predictions.csv` | observed and predicted AV crashes per test zone |
-| `{full,null}_p1.csv`, `_p2.csv`, `_p4.csv` | interval summaries of P1, P2 and P4 |
+| `{full,null}_p1.csv`, `_p2.csv`, `_p3.csv` | interval summaries of P1, P2 and P3 |
 | `coefficient_draws.csv`, `null_coefficient_draws.csv` | the 200 P1 coefficient draws |
+
+In the interval summaries (`*_p1.csv`, `*_p2.csv`, `*_p3.csv`), `observed` is the value on the
+actual data; `Mean`, `STD` and `MAD (scaled)` (1.4826 times the median absolute deviation)
+summarize the 200 draws; `P2.5`, `P5`, ..., `P97.5` are their 2.5th to 97.5th percentiles (not
+pipeline names); `within_95` says whether `observed` lies between `P2.5` and `P97.5`.
 
 Paper tables and figures:
 
@@ -188,12 +214,20 @@ Paper tables and figures:
 | Predicted totals with P1 intervals | `tables/tab_p1.tex` |
 | Feature pool, BIC path, AV crash sparsity | `tables/tab_preproc.tex`, `tab_bic_trace.tex`, `tab_sparsity.tex` |
 | Coefficients and selection frequencies; intercept-only coefficient | `tables/tab_supp_coef.tex`, `tab_supp_null_coef.tex` |
-| Percentiles of P4 metrics and P1/P2 totals | `tables/tab_supp_q_{r2,tau,mae,dev,p1,p2}.tex` |
+| Percentiles of P3 metrics and P1/P2 totals | `tables/tab_supp_q_{r2,tau,mae,dev,p1,p2}.tex` |
 | Street View comparison | `tables/tab_vlm.tex` |
 | Residual dependence (supplement text) | `residual_dependence.json` |
 | Zone map, spatial split | `figures/superzone_map.png`, `figures/geosplit.png` |
 | Prediction maps | `figures/heatmap24.png`, `heatmap25.png`, `geoheatmap24.png`, `geoheatmap25.png` |
 | Sparsity figures | `figures/sparsity/sparsity_<year>.png` |
+
+## License
+
+The code is released under the MIT License (see `LICENSE`). The files in `data/` come from the
+sources listed in "Data" and remain subject to their terms of use. The DataSF land-use data are in
+the U.S. public domain. The road segments used for the zones and the Street View comparison (not
+included) are derived from OpenStreetMap data, © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright),
+available under the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/).
 
 ## Citation
 

@@ -7,8 +7,8 @@ P1 (TrainZone-Mean): refit the selected model (and the intercept-only model) on
    and mu* = mu0 (mu_w / mu0)^2, so that the draws have the variance of the
    classical bootstrap. Reported: the predicted test total sum(mu*), and the
    coefficient draws beta*.
-P2: Poisson counts simulated from the fitted test means; reported: the total.
-P4 (TestZone-Metric): test metrics recomputed with Dirichlet(4) weights over
+P2 (Poisson-Pred): Poisson counts simulated from the fitted test means; reported: the total.
+P3 (TestZone-Metric): test metrics recomputed with Dirichlet(4) weights over
    test zones at fixed predictions, rescaled as m* = m0 + 2 (m_w - m0).
 """
 from __future__ import annotations
@@ -24,7 +24,7 @@ from .model import PoissonModel
 
 QUANTILES = (0.025, 0.05, 0.25, 0.5, 0.75, 0.95, 0.975)
 QCOLS = ("P2.5", "P5", "P25", "P50", "P75", "P95", "P97.5")
-P4_METRICS = ("r2", "mae", "kendall_tau_b", "deviance")
+P3_METRICS = ("r2", "mae", "kendall_tau_b", "deviance")
 
 
 def summarize(values: np.ndarray, observed: float, *, metric: str, pipeline: str) -> Dict[str, object]:
@@ -96,4 +96,4 @@ def test_zone_metrics(y: np.ndarray, mu: np.ndarray, n_draws: int, seed: int, pi
         draws.append({k: center[k] + 2.0 * (mw[k] - center[k]) for k in mw})
     draws = pd.DataFrame(draws)
     obs = metrics(y, mu)
-    return pd.DataFrame([summarize(draws[m].to_numpy(), obs[m], metric=m, pipeline=pipeline) for m in P4_METRICS])
+    return pd.DataFrame([summarize(draws[m].to_numpy(), obs[m], metric=m, pipeline=pipeline) for m in P3_METRICS])

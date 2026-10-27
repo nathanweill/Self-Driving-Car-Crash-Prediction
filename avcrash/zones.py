@@ -7,6 +7,11 @@
    the smallest Ward cost on the standardized descriptors until 70 remain.
 3. Zones not connected to the mainland (offshore islands) are dropped,
    which leaves 65 zones.
+
+The bus-lane share comes from Street View labels that cannot be redistributed,
+so by default (zones.from_assignment: true) the zones are read from the saved
+assignment data/taz_to_zone.csv, which is the output of steps 1-3. Setting
+from_assignment: false rebuilds them and needs the segment file.
 """
 from __future__ import annotations
 
@@ -161,8 +166,23 @@ def drop_islands(cfg, taz_z: gpd.GeoDataFrame, zones: gpd.GeoDataFrame):
             zones[zones["superzone_id"].isin(keep)].copy())
 
 
+def zones_from_assignment(cfg):
+    """The paper's zones from the saved TAZ -> zone assignment (same output as the Ward build)."""
+    taz = io.read_taz(cfg)
+    a = pd.read_csv(cfg.files["zone_assignment_csv"])
+    taz_z = taz.merge(a, on="taz_id", how="inner")
+    assert len(taz_z) == len(a), "every TAZ of the assignment must exist in the TAZ shapefile"
+    taz_z = taz_z.sort_values("taz_id").reset_index(drop=True)
+    zones = taz_z[["superzone_id", "geometry"]].dissolve(by="superzone_id").reset_index()
+    zones = zones.merge(taz_z.groupby("superzone_id").size().rename("n_taz").reset_index(), on="superzone_id")
+    zones["area_km2"] = zones.geometry.area / 1e6
+    return taz_z, zones.reset_index(drop=True)
+
+
 def build_zones(cfg):
     """Return (taz_with_zone, zones_gdf). zones_gdf has superzone_id, geometry, n_taz, area_km2."""
+    if cfg.zones.get("from_assignment", False):
+        return zones_from_assignment(cfg)
     taz = taz_descriptors(cfg, io.read_taz(cfg))
     taz_z = ward_clusters(cfg, taz)
     zones = taz_z[["superzone_id", "geometry"]].dissolve(by="superzone_id").reset_index()

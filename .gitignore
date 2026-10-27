@@ -4,3 +4,5 @@ __pycache__/
 results*/.cache/
 .DS_Store
 .venv/
+_to_delete/
+data/consensus_segments_wkt.csv.gz

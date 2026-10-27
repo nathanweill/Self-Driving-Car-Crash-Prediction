@@ -6,7 +6,9 @@ data:
   dir: data
   taz_shapefile: TAZ981.shp                     # SF County Transportation Authority TAZ polygons
   land_use_csv: land_use.csv.gz                 # SF parcel land use (building square footage by use)
-  segments_csv: consensus_segments_wkt.csv.gz   # road segments with Street View (VLM) consensus labels
+  zone_assignment_csv: taz_to_zone.csv          # TAZ -> zone assignment used in the paper (see zones:)
+  segments_csv: consensus_segments_wkt.csv.gz   # road segments with Street View (VLM) labels; NOT distributed,
+                                                # needed only to rebuild the zones or for the Street View comparison
   uber_csv: Uber_pickup_dropoff.csv             # mean ride-hailing pickups/dropoffs per TAZ, day and hour
   hv_crashes_csv: sf_hv_14_25.csv               # human-driven crashes (TIMS/SWITRS), 2014-2025
   av_crashes_csv: sf_av_combined_2025.csv       # AV collision reports (CA DMV OL 316)
@@ -18,6 +20,9 @@ crs: EPSG:26910                                 # NAD83 / UTM zone 10N (meters)
 # Spatial units: contiguous Ward agglomeration of the TAZs, then removal of
 # the small components disconnected from the mainland.
 zones:
+  # true: read the zones from data/taz_to_zone.csv (the paper's zones).
+  # false: rebuild them with the Ward procedure below (needs segments_csv).
+  from_assignment: true
   n_clusters: 70
   # Static TAZ descriptors used by the Ward merge cost (standardized), plus
   # the TAZ representative-point coordinates.
@@ -99,10 +104,10 @@ uncertainty:
   n_draws: 200
   seeds:
     p1: 7          # TrainZone-Mean: zone weights shared by the full and null refits
-    p2_full: 8     # Poisson count simulation, full model
-    p2_null: 12    # Poisson count simulation, intercept-only model
-    p4_full: 14    # TestZone-Metric, full model
-    p4_null: 15    # TestZone-Metric, intercept-only model
+    p2_full: 8     # Poisson-Pred: Poisson count simulation, full model
+    p2_null: 12    # Poisson-Pred: Poisson count simulation, intercept-only model
+    p3_full: 14    # TestZone-Metric, full model
+    p3_null: 15    # TestZone-Metric, intercept-only model
   selection_frequency: {n_draws: 200, seed: 7}
   residual_permutations: {n_perm: 2000, seed: 0}
 

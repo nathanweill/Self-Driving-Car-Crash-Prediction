@@ -44,7 +44,7 @@ def test_setup(base, setup):
     for kind in ("full", "null"):
         for k, v in obs[kind].items():
             assert abs(res.observed[kind][k] - v) < 1e-8, (kind, k)
-        for p in ("p1", "p2", "p4"):
+        for p in ("p1", "p2", "p3"):
             saved = pd.read_csv(d / f"{kind}_{p}.csv")
             assert np.allclose(res.uq[f"{kind}_{p}"][NUM].to_numpy(float), saved[NUM].to_numpy(float),
                                rtol=1e-6, atol=1e-6), (kind, p)

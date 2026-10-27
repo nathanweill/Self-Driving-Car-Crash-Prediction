@@ -70,8 +70,8 @@ class Tables:
     def tot(self, s, kind, p):
         return pd.read_csv(self.runs / s / f"{kind}_p{p}.csv").iloc[0]
 
-    def p4(self, s, kind):
-        return pd.read_csv(self.runs / s / f"{kind}_p4.csv").set_index("metric")
+    def p3(self, s, kind):
+        return pd.read_csv(self.runs / s / f"{kind}_p3.csv").set_index("metric")
 
     def selfreq(self, s):
         f = self.R / "selection_frequency" / f"{s}.json"
@@ -88,7 +88,7 @@ class Tables:
         return dict(r2=r2, mae=np.abs(y - p).mean(), tau=kendalltau(p, y).statistic, total=p.sum())
 
     def model_row(self, s, kind, label):
-        o, t = self.obs(s), self.p4(s, kind)
+        o, t = self.obs(s), self.p3(s, kind)
         k = len(o["selected_features"]) if kind == "full" else 0
         c = [cell(o[kind][m], t.loc[m, "P2.5"], t.loc[m, "P97.5"]) for m in ("r2", "mae", "kendall_tau_b")]
         p2 = self.tot(s, kind, 2)
@@ -262,7 +262,7 @@ class Tables:
     def write(self, out: Path):
         out = Path(out)
         out.mkdir(parents=True, exist_ok=True)
-        p4row = lambda m: (lambda s, k: self.p4(s, k).loc[m])
+        p3row = lambda m: (lambda s, k: self.p3(s, k).loc[m])
         totrow = lambda i: (lambda s, k: self.tot(s, k, i))
         frags = {
             "tab_rolling_2024": self.temporal_table(2024),
@@ -270,10 +270,10 @@ class Tables:
             "tab_geo_2024": self.geo_table(2024),
             "tab_geo_2025": self.geo_table(2025),
             "tab_p1": self.p1_table(),
-            "tab_supp_q_r2": self.quant_table(p4row("r2"), 2),
-            "tab_supp_q_tau": self.quant_table(p4row("kendall_tau_b"), 2),
-            "tab_supp_q_mae": self.quant_table(p4row("mae"), 2),
-            "tab_supp_q_dev": self.quant_table(p4row("deviance"), 1),
+            "tab_supp_q_r2": self.quant_table(p3row("r2"), 2),
+            "tab_supp_q_tau": self.quant_table(p3row("kendall_tau_b"), 2),
+            "tab_supp_q_mae": self.quant_table(p3row("mae"), 2),
+            "tab_supp_q_dev": self.quant_table(p3row("deviance"), 1),
             "tab_supp_q_p1": self.quant_table(totrow(1), 1),
             "tab_supp_q_p2": self.quant_table(totrow(2), 1),
             "tab_supp_coef": self.supp_coef(),
@@ -292,7 +292,7 @@ class Tables:
                                                 for k in ("full", "null")}
             self.NUM.setdefault("p2", {})[s] = {k: self.tot(s, k, 2)[["observed", "P50", "P2.5", "P97.5", "within_95"]].to_dict()
                                                 for k in ("full", "null")}
-            self.NUM.setdefault("p4", {})[s] = {k: self.p4(s, k)[["observed", "P50", "P2.5", "P97.5"]].to_dict(orient="index")
+            self.NUM.setdefault("p3", {})[s] = {k: self.p3(s, k)[["observed", "P50", "P2.5", "P97.5"]].to_dict(orient="index")
                                                 for k in ("full", "null")}
             sf = self.selfreq(s)
             if sf:
