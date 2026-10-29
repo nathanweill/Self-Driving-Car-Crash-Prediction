@@ -1,0 +1,308 @@
+[
+  {
+    "archive": "waymo_2025q1.zip",
+    "member": "Waymo Driverless Deployment 2025 Q1/PSG0038152_2025_05_AV_Incidents-Location_Part0-Public.csv",
+    "member_sha256": "cc252bbbecd6976ec2b9c456d8e2f6909ca30954a98f514db75837cf3a883407",
+    "kind": "tract_collision",
+    "total_rows": 1496,
+    "sf_rows": 241,
+    "fields": {
+      "TCPID": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Year": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Quarter": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Tract": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "CollisionsAll": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "CollisionsPUDO": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "PUDOTravelLane": {
+        "redacted": 1496,
+        "blank": 0
+      },
+      "tract_geoid": {
+        "redacted": 0,
+        "blank": 0
+      }
+    },
+    "sf_collision_count_sum": 86.0,
+    "sf_collision_count_non_numeric_rows": 0,
+    "sf_tracts_with_positive_counts": 55
+  },
+  {
+    "archive": "waymo_2025q1.zip",
+    "member": "Waymo Driverless Deployment 2025 Q1/PSG0038152_2025_05_AV_Month-Level_Part0.csv",
+    "member_sha256": "b84e8f578bb216c85fb311c599e792fec6f3266f080cd8a67e7bc765812fb8d9",
+    "kind": "statewide_month",
+    "total_rows": 3,
+    "sf_rows": null,
+    "fields": {
+      "TCPID": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Year": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Month": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalTrips": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalWaiting": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalVMTPeriod1": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalVMTPeriod2": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalVMTPeriod3": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalVMTZEV": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalPassengersCarried": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalPMT": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalWAVsAvail": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalWAVsRequested": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalWAVsDeclinedUnavail": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalWAVsFulfilled": {
+        "redacted": 0,
+        "blank": 0
+      }
+    }
+  },
+  {
+    "archive": "waymo_2025q1.zip",
+    "member": "Waymo Driverless Deployment 2025 Q1/PSG0038152_2025_05_AV_Monthly Tract_Part0-Public.csv",
+    "member_sha256": "b10400ab27704190c2a6d6456e9cd86ca4cdcd2ddd75e639e0dddd755eb84117",
+    "kind": "tract_trips",
+    "total_rows": 4488,
+    "sf_rows": 723,
+    "fields": {
+      "TCPID": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Year": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Month": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Tract": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TripsStart": {
+        "redacted": 4488,
+        "blank": 0
+      },
+      "TripsEnd": {
+        "redacted": 4488,
+        "blank": 0
+      },
+      "tract_geoid": {
+        "redacted": 0,
+        "blank": 0
+      }
+    }
+  },
+  {
+    "archive": "waymo_2026q2.zip",
+    "member": "Waymo Deployment 2026Q2/Driverless Deployment/PSG0038152_2026_08_AV_Incidents_Location_Part0-Deployment-Public.csv",
+    "member_sha256": "a81be3a1d40d29c1df24ca1fdff95af2ae80a4993f6fca28bf1baa65f0f63dab",
+    "kind": "tract_collision",
+    "total_rows": 1796,
+    "sf_rows": 241,
+    "fields": {
+      "TCPID": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Year": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Quarter": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Tract": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "CollisionsAll": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "CollisionsPUDO": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "PUDOTravelLane": {
+        "redacted": 1796,
+        "blank": 0
+      },
+      "tract_geoid": {
+        "redacted": 0,
+        "blank": 0
+      }
+    },
+    "sf_collision_count_sum": 142.0,
+    "sf_collision_count_non_numeric_rows": 0,
+    "sf_tracts_with_positive_counts": 82
+  },
+  {
+    "archive": "waymo_2026q2.zip",
+    "member": "Waymo Deployment 2026Q2/Driverless Deployment/PSG0038152_2026_08_AV_Monthly_Tract_Part0-Deployment-Public.csv",
+    "member_sha256": "8244b1f6991558c026be2fbbec828f914127c3a3d39f290b2bdb0c897bf6ec3e",
+    "kind": "tract_trips",
+    "total_rows": 5388,
+    "sf_rows": 723,
+    "fields": {
+      "TCPID": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Year": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Month": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Tract": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TripsStart": {
+        "redacted": 5388,
+        "blank": 0
+      },
+      "TripsEnd": {
+        "redacted": 5388,
+        "blank": 0
+      },
+      "tract_geoid": {
+        "redacted": 0,
+        "blank": 0
+      }
+    }
+  },
+  {
+    "archive": "waymo_2026q2.zip",
+    "member": "Waymo Deployment 2026Q2/Driverless Deployment/PSG0038152_2026_08_AV_Month_Part0-Deployment.csv",
+    "member_sha256": "644c76649e799509000f53a158a62190cff55ddf53e6cda005b1c277f2759c6f",
+    "kind": "statewide_month",
+    "total_rows": 3,
+    "sf_rows": null,
+    "fields": {
+      "TCPID": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Year": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "Month": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalTrips": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalWaiting": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalVMTPeriod1": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalVMTPeriod2": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalVMTPeriod3": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalVMTZEV": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalPassengersCarried": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalPMT": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalWAVsAvail": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalWAVsRequested": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalWAVsDeclinedUnavail": {
+        "redacted": 0,
+        "blank": 0
+      },
+      "TotalWAVsFulfilled": {
+        "redacted": 0,
+        "blank": 0
+      }
+    }
+  }
+]

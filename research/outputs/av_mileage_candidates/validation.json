@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-29",
+  "status": "complete estimated-data handoff for the paper scope",
+  "source_manifest_sha256": "f53c6cdba0e35e712018e8ff33cb88e15d750b117fcf13028f0e08bac7c87bc5",
+  "main_candidates": [
+    "hybrid_hpms",
+    "hybrid_sfcta"
+  ],
+  "sensitivity_candidates": [
+    "fixed_waymo_footprint",
+    "legacy_geography_sensitivity",
+    "testing_sf_upper"
+  ],
+  "rows_per_candidate_per_scope": 325,
+  "scopes": [
+    "calendar_year",
+    "through_june15_2025"
+  ],
+  "operator_mode_pairs": 46,
+  "operator_rows": 149500,
+  "max_conservation_error_miles": 3.725290298461914e-09,
+  "inputs": {
+    "data/mileage/dmv_testing_monthly.csv": "6a670bd67f7ba0f30812f780e527c26feca4b2f878d93d24b8851fe6b3373244",
+    "data/mileage/sgo_ca_incidents.csv": "4cb81420ce2dbbe70801450c8454dd66ace1acff6ab5e2e236c3e2a523949d2b",
+    "research/inputs/paper_commercial_mileage_anchors.csv": "3df31d56f4197cc2cdfcf8843687cfd41b792beeb61038c1648b61b58fefa586",
+    "research/outputs/human_mileage_candidates/human_mileage_all_candidates.csv": "ee7452b8c7f1e9f70d0cfd16c2fd26e774eec8d5fc686b7d6d7515dec7bacff6",
+    "research/outputs/s2_to_superzone_weights.csv": "84e530c4ee39d03c5a1ea50d28625c6086b7452321ef96a31189a7c48e7e6b32"
+  },
+  "assumptions": [
+    "2021-2024 Waymo totals retain rounded author estimates, not independently reconstructed exact totals",
+    "legacy operational-location cells apportioned to SF using June2026 per-cell SF county mileage fraction",
+    "monotone least-squares fit; missing interior snapshots interpolated, pre-first-observation cells assumed zero",
+    "Dec2025 testing estimated from Sep-Nov2025 mean for each operator/mode",
+    "Cruise fleet mileage assumed SF; pre-service and post-cessation blank/unreported months assumed zero",
+    "all SF component mileage allocated among 65 study zones; Waymo spatial weights regularized with 1% human shares",
+    "other testing and Cruise spatial weights are human-mileage proxies, not observed operator routes",
+    "paper-scope fleets only; zero SGO allocation is an assumption, not proof of no operation; not a census of all California AV activity"
+  ]
+}

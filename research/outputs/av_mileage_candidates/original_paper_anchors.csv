@@ -1,0 +1,6 @@
+year,testing_million,waymo_ro_million,cruise_commercial_million,source_line,source_sha256,status
+2021,3.62,0.0,0.0,2021 & $46$ & $0$ & $0$ & $3.62$ & $0.00$ & $0.00$ & $3.62$ & $12.7$ \\,d00ebff7bb923bae31b6d4274baa683b7e5c1364492f5177cd43834984c2bb5a,rounded_author_estimate; 2025 original row has mixed periods
+2022,4.83,0.06,0.05,2022 & $79$ & $1$ & $2$ & $4.83$ & $0.06$ & $0.05$ & $4.94$ & $16.6$ \\,d00ebff7bb923bae31b6d4274baa683b7e5c1364492f5177cd43834984c2bb5a,rounded_author_estimate; 2025 original row has mixed periods
+2023,5.59,2.28,0.37,2023 & $48$ & $39$ & $23$ & $5.59$ & $2.28$ & $0.37$ & $8.24$ & $13.4$ \\,d00ebff7bb923bae31b6d4274baa683b7e5c1364492f5177cd43834984c2bb5a,rounded_author_estimate; 2025 original row has mixed periods
+2024,2.55,12.94,0.0,2024 & $16$ & $198$ & $0$ & $2.55$ & $12.94$ & $0.00$ & $15.50$ & $13.8$ \\,d00ebff7bb923bae31b6d4274baa683b7e5c1364492f5177cd43834984c2bb5a,rounded_author_estimate; 2025 original row has mixed periods
+2025,2.06,11.81,0.0,2025 & $28$ & $172$ & $0$ & $2.06$ & $11.81$ & $0.00$ & $13.87$ & $14.4$ \\,d00ebff7bb923bae31b6d4274baa683b7e5c1364492f5177cd43834984c2bb5a,rounded_author_estimate; 2025 original row has mixed periods

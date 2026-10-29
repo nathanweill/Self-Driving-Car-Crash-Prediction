@@ -1,0 +1,36 @@
+{
+  "raw_rows": 5094,
+  "distinct_case_ids": 5093,
+  "duplicated_case_ids": 1,
+  "latest_record_date": "2026-08-31",
+  "windows": [
+    {
+      "window": "2025_calendar",
+      "distinct_cases": 2944,
+      "geographic_status_counts": {
+        "unique_zone": 2921,
+        "missing_coordinates": 15,
+        "ambiguous_or_outside_study": 8
+      }
+    },
+    {
+      "window": "2026_h1",
+      "distinct_cases": 1578,
+      "geographic_status_counts": {
+        "unique_zone": 1559,
+        "missing_coordinates": 15,
+        "ambiguous_or_outside_study": 4
+      }
+    },
+    {
+      "window": "2026_published_ytd",
+      "distinct_cases": 2149,
+      "geographic_status_counts": {
+        "unique_zone": 2124,
+        "missing_coordinates": 20,
+        "ambiguous_or_outside_study": 5
+      }
+    }
+  ],
+  "limitations": "Provisional city-street injury/fatality records; highways excluded; no reliable ADS/human distinction in selected fields; missing-coordinate cases retained in audit, not treated as no crashes. Count zeros mean no assigned records, not proven complete surveillance. Source and scope differ from baseline TIMS."
+}

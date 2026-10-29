@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2022-06-02",
+    "operator": "Cruise",
+    "event": "restricted_paid_driverless_authority",
+    "scope": "select SF streets, 10pm-6am; not an observed operating polygon",
+    "source": "https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-issues-first-driverless-autonomous-vehicle-passenger-service-deployment-permit"
+  },
+  {
+    "date": "2023-08-10",
+    "operator": "Waymo",
+    "event": "expanded_paid_driverless_authority",
+    "scope": "SF fared driverless service at any time of day; actual operation not established by permission",
+    "source": "https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-approves-permits-for-cruise-and-waymo-to-charge-fares-for-passenger-service-in-sf-2023"
+  },
+  {
+    "date": "2023-08-10",
+    "operator": "Cruise",
+    "event": "expanded_paid_driverless_authority",
+    "scope": "expanded SF fared driverless authority at any time of day",
+    "source": "https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-approves-permits-for-cruise-and-waymo-to-charge-fares-for-passenger-service-in-sf-2023"
+  },
+  {
+    "date": "2023-10-24",
+    "operator": "Cruise",
+    "event": "deployment_and_driverless_testing_suspended",
+    "scope": "drivered testing permit unaffected; effective immediately",
+    "source": "https://www.dmv.ca.gov/portal/news-and-media/dmv-statement-on-cruise-llc-suspension/"
+  }
+]

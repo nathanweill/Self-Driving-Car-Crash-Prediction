@@ -1,0 +1,90 @@
+{
+  "as_of": "2026-10-29",
+  "totals": [
+    {
+      "operator": "Nuro",
+      "mode": "drivered",
+      "available_period_pilot_miles": 65.66,
+      "quarters_present": [
+        2
+      ]
+    },
+    {
+      "operator": "Tensor",
+      "mode": "drivered",
+      "available_period_pilot_miles": 105.0,
+      "quarters_present": [
+        1,
+        2
+      ]
+    },
+    {
+      "operator": "WeRide",
+      "mode": "drivered",
+      "available_period_pilot_miles": 0.0,
+      "quarters_present": [
+        1,
+        2
+      ]
+    },
+    {
+      "operator": "WeRide",
+      "mode": "driverless",
+      "available_period_pilot_miles": 251.8,
+      "quarters_present": [
+        1,
+        2
+      ]
+    },
+    {
+      "operator": "Zoox",
+      "mode": "drivered",
+      "available_period_pilot_miles": 30498.83,
+      "quarters_present": [
+        1,
+        2
+      ]
+    },
+    {
+      "operator": "Zoox",
+      "mode": "driverless",
+      "available_period_pilot_miles": 302254.9,
+      "quarters_present": [
+        1,
+        2
+      ]
+    }
+  ],
+  "zoox_driverless_sf_sensitivity": [
+    {
+      "assumed_sf_fraction": 0,
+      "zoox_driverless_sf_pilot_miles": 0.0,
+      "interpretation": "scenario only; no preferred estimate; does not include non-passenger testing"
+    },
+    {
+      "assumed_sf_fraction": 0.25,
+      "zoox_driverless_sf_pilot_miles": 75563.72,
+      "interpretation": "scenario only; no preferred estimate; does not include non-passenger testing"
+    },
+    {
+      "assumed_sf_fraction": 0.5,
+      "zoox_driverless_sf_pilot_miles": 151127.45,
+      "interpretation": "scenario only; no preferred estimate; does not include non-passenger testing"
+    },
+    {
+      "assumed_sf_fraction": 0.75,
+      "zoox_driverless_sf_pilot_miles": 226691.17,
+      "interpretation": "scenario only; no preferred estimate; does not include non-passenger testing"
+    },
+    {
+      "assumed_sf_fraction": 1,
+      "zoox_driverless_sf_pilot_miles": 302254.9,
+      "interpretation": "scenario only; no preferred estimate; does not include non-passenger testing"
+    }
+  ],
+  "aurora_q1": "Attests zero passenger trips; no total testing mileage inferred",
+  "aurora_q2": "not in archive; unknown",
+  "nuro_q1": "not in archive; unknown",
+  "collision_use": "Zoox geography redacted, outcome all collisions, and Q2 table labels Q1; do not add to matched injury panel",
+  "coverage": "CPUC passenger pilot program only; not total autonomous testing mileage or deployment mileage"
+}

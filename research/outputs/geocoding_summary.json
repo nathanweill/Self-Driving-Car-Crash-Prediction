@@ -1,0 +1,20 @@
+{
+  "source_rows": 757,
+  "unique_sgo_report_ids": 755,
+  "rows_with_coordinates": 709,
+  "rows_with_point_inside_one_zone": 709,
+  "rows_stable_within_assumed_radius": 133,
+  "method_counts": {
+    "intersection_at": 385,
+    "intersection_near": 308,
+    "unmatched_street": 28,
+    "no_shared_intersection_node": 11,
+    "block_range_approximation": 8,
+    "address_interpolation": 8,
+    "description_needs_review": 5,
+    "multiple_intersections": 3,
+    "address_outside_published_ranges": 1
+  },
+  "review_rows": 624,
+  "note": "Automated matches require review. Near locations and range interpolations are approximate. Assumed 20/100/40m radii are sensitivity assumptions, not calibrated uncertainty. Source rows are vehicle involvements, not necessarily unique collision events."
+}

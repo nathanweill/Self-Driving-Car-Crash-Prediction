@@ -1,0 +1,191 @@
+[
+  {
+    "report_id": "30270-13764",
+    "query": "Geary Boulevard at Collins Street",
+    "kind": "spelling",
+    "rationale": "Greary -> Geary; exact official centerline match",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-13642",
+    "query": "1301 Evans Avenue",
+    "kind": "offstreet_address",
+    "rationale": "Parking lot represented by address frontage; lot position unknown",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-13486",
+    "query": "Bayshore Boulevard at Jerrold Avenue",
+    "kind": "intersection_complex",
+    "rationale": "Use the two named surface streets; include 100m for ramp complex",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-11046",
+    "query": "2500 Mason Street",
+    "kind": "offstreet_address",
+    "rationale": "Alley behind address represented by address frontage with 150m assumption",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-10755",
+    "query": "320 Bowling Green Drive",
+    "kind": "offstreet_address",
+    "rationale": "Parking lot represented by address frontage with 150m assumption",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-10363",
+    "query": "Division Street near Rhode Island Street",
+    "kind": "offstreet_intersection",
+    "rationale": "Parking lot near intersection; point proxy plus 150m assumption",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-10326",
+    "query": "States Street near Castro Street",
+    "kind": "spelling",
+    "rationale": "Steet -> Street",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-10131",
+    "query": "840 Brannan Street",
+    "kind": "offstreet_address",
+    "rationale": "Parking lot near address; frontage proxy plus 150m assumption",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-10067",
+    "query": "Stockton Street near Bay Street",
+    "kind": "spelling",
+    "rationale": "Stret -> Street",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-10053",
+    "query": "Oak Street near Octavia Street",
+    "kind": "street_alias",
+    "rationale": "Boulevard is ST in official centerline; SFMTA identifies Oak/Octavia",
+    "evidence": "raw/sf/streets.geojson; original Waymo description; https://www.sfmta.com/reports/octavia-boulevard-oak-street-laguna-street-oakfell-hayes-valley-daylighting"
+  },
+  {
+    "report_id": "30270-9391",
+    "query": "O'Farrell Street between Larkin Street and Hyde Street",
+    "kind": "between",
+    "rationale": "Midpoint of specified block; radius covers both endpoints",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-8933",
+    "query": "1160 Mission Street",
+    "kind": "offstreet_address",
+    "rationale": "Underground lot represented by address frontage; depth not modeled",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-8875",
+    "query": "Mission Street near South Van Ness Avenue",
+    "kind": "street_alias",
+    "rationale": "Mission intersects South Van Ness; dropped South in source; explicit interpretation",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-8844",
+    "query": "Mission Street at South Van Ness Avenue",
+    "kind": "street_alias",
+    "rationale": "Mission intersects South Van Ness; dropped South in source; explicit interpretation",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-8623",
+    "query": "Jack London Alley near South Park",
+    "kind": "street_alias",
+    "rationale": "South Park has no ST suffix in official centerline",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-8088",
+    "query": "Van Ness Avenue at Clay Street",
+    "kind": "spelling",
+    "rationale": "Str -> Street",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-7998",
+    "query": "Oak Street and Octavia Street",
+    "kind": "street_alias",
+    "rationale": "Boulevard is ST in official centerline; SFMTA identifies Oak/Octavia",
+    "evidence": "raw/sf/streets.geojson; original Waymo description; https://www.sfmta.com/reports/octavia-boulevard-oak-street-laguna-street-oakfell-hayes-valley-daylighting"
+  },
+  {
+    "report_id": "30270-7006",
+    "query": "24th Street at Osage Alley",
+    "kind": "street_alias",
+    "rationale": "Osage is ALY in official centerline",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-5593",
+    "query": "Oak Street at Octavia Street",
+    "kind": "street_alias",
+    "rationale": "Boulevard is ST in official centerline; public point also available",
+    "evidence": "raw/sf/streets.geojson; original Waymo description; https://www.sfmta.com/reports/octavia-boulevard-oak-street-laguna-street-oakfell-hayes-valley-daylighting"
+  },
+  {
+    "report_id": "30270-11378",
+    "query": "Crossover Drive near Transverse Drive",
+    "kind": "street_alias",
+    "rationale": "Transverse is DR in official centerline",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-14905",
+    "query": "Stockton Tunnel near Bush Street",
+    "kind": "street_alias",
+    "rationale": "Official STOCKTON TUNL; drop duplicated Street",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-7162",
+    "query": "Market Street at Hermann Street",
+    "kind": "intersection_complex",
+    "rationale": "Use named Market/Hermann junction; 100m includes Guerrero junction",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-11997",
+    "query": "HWY 101 SOUTHBOUND near Merchant Road",
+    "kind": "route_alias",
+    "rationale": "Route label mapped to official highway segment; on-ramp vicinity proxy",
+    "evidence": "raw/sf/streets.geojson; original Waymo description"
+  },
+  {
+    "report_id": "30270-9545",
+    "query": "Mariposa Street at I 280 S ON RAMP",
+    "kind": "intersection_complex",
+    "rationale": "Named I-280 on-ramp maps to official I 280 S ON RAMP at Mariposa; 100m ramp-complex proxy",
+    "evidence": "raw/sf/streets.geojson; https://sfgov.legistar.com/View.ashx?GUID=6AFA62B9-49C3-4EFF-B819-ABF4E3DD2902&ID=6168035&M=F"
+  },
+  {
+    "report_id": "30270-13056",
+    "query": "Park Presidio Bypass Drive near Crossover Drive",
+    "kind": "route_alias",
+    "rationale": "Interpret SR1 as Park Presidio Bypass at its Crossover junction; explicit route-name interpretation",
+    "evidence": "raw/sf/streets.geojson; https://sfrecpark.org/DocumentCenter/View/11719/M-Special-Area-Plans"
+  },
+  {
+    "report_id": "30270-10528",
+    "query": "The Embarcadero near Market Street",
+    "kind": "offstreet_intersection",
+    "rationale": "Ferry Plaza at foot of Market; representative nearby junction with 150m buffer, not exact plaza lane",
+    "evidence": "raw/sf/streets.geojson; https://foodwise.org/markets/ferry-plaza-farmers-market/visitor-info/"
+  },
+  {
+    "report_id": "30270-6518",
+    "query": "24th Avenue at Ortega Street",
+    "kind": "unconfirmed_street_correction",
+    "rationale": "24th Street does not meet Ortega; 24th Avenue does and agrees with source ZIP 94122. Explicit inferred correction, not verified incident location.",
+    "evidence": "raw/sf/streets.geojson; raw/waymo/202606_csv2.csv"
+  }
+]

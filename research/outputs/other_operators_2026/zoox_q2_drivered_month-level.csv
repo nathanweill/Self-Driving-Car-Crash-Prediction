@@ -1,0 +1,4 @@
+TCPID,Year,Month,TotalTrips,TotalWaiting,TotalVMTPeriod1,TotalVMTPeriod2,TotalVMTPeriod3,TotalVMTZEV,TotalPassengersCarried,TotalPMT,TotalWAVsAvail,TotalWAVsRequested,TotalWAVsDeclinedUnavail,TotalWAVsFulfilled
+0038380-P,2026.0,4.0,287.0,12.58,3415.69,420.53,698.53,0.0,289.0,698.53,0.0,0.0,0.0,0.0
+0038380-P,2026.0,5.0,191.0,43.46,2610.77,306.02,542.13,0.0,191.0,542.13,0.0,0.0,0.0,0.0
+0038380-P,2026.0,6.0,289.0,54.18,7141.79,536.46,819.84,0.0,291.0,819.84,0.0,0.0,0.0,0.0

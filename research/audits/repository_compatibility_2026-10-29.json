@@ -1,0 +1,14 @@
+{
+  "checked_date": "2026-10-29",
+  "tested_baseline": "fed7e5a2daa19cb100154ede57d61c013601e3a3",
+  "inspected_github_head": "2c3ceac3b18388adae4e07484a74512009cba642",
+  "compare_url": "https://github.com/nathanweill/Self-Driving-Car-Crash-Prediction/compare/fed7e5a...2c3ceac3b18388adae4e07484a74512009cba642",
+  "baseline_inputs_unchanged": true,
+  "git_blob_sha": {
+    "data/mileage/dmv_testing_monthly.csv": "ebfd7a591f04f24bc68cacc1ede8ae91eba42637",
+    "data/mileage/sgo_ca_incidents.csv": "a951993f1df821adcb050a4ab8ba95bac4a9146f",
+    "results/panel.csv": "f3630de4de4def0caba783c4489a070491e662ad",
+    "results/zones.geojson": "ce39410ee072c54884ce1c65ea5eb5e15bd715a8"
+  },
+  "scope": "Verified equality of the four repository inputs used by the research pipeline; not a rerun of the current main model."
+}

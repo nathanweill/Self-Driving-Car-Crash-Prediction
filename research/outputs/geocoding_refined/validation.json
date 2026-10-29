@@ -1,0 +1,49 @@
+{
+  "source_rows": 757,
+  "unique_report_ids": 755,
+  "original_coordinate_rows": 709,
+  "refined_coordinate_rows": 749,
+  "rows_with_point_zone": 749,
+  "rows_with_candidate_zones": 750,
+  "original_48_now_with_point": 40,
+  "original_48_multiple_candidates": 1,
+  "original_48_excluded_city_conflict": 1,
+  "unresolved_in_scope": 6,
+  "public_coordinate_conflicts": 15,
+  "public_axis_reversals": 1,
+  "point_zones_changed": 17,
+  "h1_selected_injury_events": 8,
+  "h1_selected_point_zones_changed": 0,
+  "stable_within_assumed_default_support": 146,
+  "methods": {
+    "original_intersection_at": 326,
+    "original_intersection_near": 247,
+    "tims_public_coordinate": 129,
+    "nearest_centerline_connector": 8,
+    "original_block_range_approximation": 8,
+    "intersection_near": 7,
+    "original_address_interpolation": 7,
+    "intersection_at": 7,
+    "offstreet_frontage_proxy": 7,
+    "unmatched_street": 4,
+    "multiple_junction_candidates": 1,
+    "tims_public_coordinate_axis_corrected": 1,
+    "excluded_cross_source_city_conflict": 1,
+    "no_shared_intersection_node": 1,
+    "specified_block_midpoint": 1,
+    "inferred_street_correction": 1,
+    "address_outside_published_ranges": 1
+  },
+  "notes": [
+    "Original source rows and original candidate geocodes preserved.",
+    "Source-match does not guarantee coordinate accuracy; conflicts retain description-based primary.",
+    "No nearest-zone snapping; unresolved rows remain unassigned.",
+    "All buffer and frontage assumptions are sensitivity designs, not calibrated confidence regions."
+  ],
+  "input_sha256": {
+    "inputs/waymo_geocode_interpretations.json": "644a3f3a63a2da79db7cba6434316d59987e7bc92a053ea12e1bd3ebd3c6a75a",
+    "outputs/waymo_sf_geocoding.csv": "e9958769348ad162a41c8b2dc0ec09fbff914a1c954f9ae0019be9a50db81dbc",
+    "raw/sf/streets.geojson": "759b93094273ab653bb6575d5c73b9b918aa3dc37de36e6d57a610f4f8bf391e",
+    "raw/nhtsa/ads_20261029.csv": "1dbc685559c54b63806305bbdf367bb6804697c3029b4b2c2a1d4282b301db6b"
+  }
+}

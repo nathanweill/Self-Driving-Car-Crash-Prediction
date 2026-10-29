@@ -1,0 +1,14 @@
+# Python 3.12.14 used for the validated run
+numpy==2.3.5
+pandas==2.2.3
+geopandas==1.2.0
+shapely==2.2.0
+pyproj==3.8.0
+pyogrio==0.13.0
+s2sphere==0.2.5
+certifi==2026.10.23
+pypdf==6.10.0
+pypdfium2==5.13.0
+matplotlib==3.11.2
+pytest==9.1.1
+openpyxl==3.1.5

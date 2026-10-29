@@ -1,0 +1,23 @@
+{
+  "reports": 17,
+  "unique_incidents": 17,
+  "matched_tims_reports": 17,
+  "coordinate_records": 17,
+  "unique_point_zone_records": 17,
+  "injury_status_counts": {
+    "reported_no_injury": 13,
+    "reported_injury": 2,
+    "unknown": 2
+  },
+  "injury_report_ids": [
+    "30610-14090",
+    "30610-15062"
+  ],
+  "injury_point_zones": [
+    36,
+    36
+  ],
+  "police_report_and_pilot_scope": "not established; no matched injury-rate calculation",
+  "location_sensitivity": "20m buffer is an assumption, not a measured error bound",
+  "source_note": "NHTSA city filter identifies reports, not complete surveillance of every operator"
+}

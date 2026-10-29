@@ -1,0 +1,233 @@
+{
+  "created_date": "2026-10-29",
+  "main_candidates": [
+    "sfcta_expanded",
+    "hpms_2022_static"
+  ],
+  "sensitivity_candidates": [
+    "sfcta_expanded_low",
+    "sfcta_expanded_equal",
+    "hpms_2022_static_area"
+  ],
+  "rows_per_candidate": 325,
+  "zones_per_year": 65,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "shrinkage_length_m": 3672.700829440739,
+  "default_missing_road_density_multiplier": 0.5,
+  "input_sha256": {
+    "results/panel.csv": "2036a5e742205612c5790ab885b6662cdfb35c35f152eeeb4f55bf3527e1da49",
+    "research/outputs/sfcta_zone_year_vmt_proxy.csv": "f37609c94f5cdf00c930bc9ba35dadcacc3415610e1e6dcbf7bf3abe45ebc723",
+    "research/outputs/waymo_human_zone_snapshot_exposure.csv": "b533916acea6d7bfe2ceed427bab0da5410bfd5722206f7839f1ee46e58ab90d"
+  },
+  "conservation_checks": [
+    {
+      "method": "hpms_2022_static",
+      "year": 2021,
+      "zones": 65,
+      "sum_million_miles": 3158.9,
+      "anchor_error_million_miles": 0.0
+    },
+    {
+      "method": "hpms_2022_static",
+      "year": 2022,
+      "zones": 65,
+      "sum_million_miles": 3487.5,
+      "anchor_error_million_miles": 0.0
+    },
+    {
+      "method": "hpms_2022_static",
+      "year": 2023,
+      "zones": 65,
+      "sum_million_miles": 3425.5,
+      "anchor_error_million_miles": 0.0
+    },
+    {
+      "method": "hpms_2022_static",
+      "year": 2024,
+      "zones": 65,
+      "sum_million_miles": 3307.6999999999994,
+      "anchor_error_million_miles": -4.547473508864641e-13
+    },
+    {
+      "method": "hpms_2022_static",
+      "year": 2025,
+      "zones": 65,
+      "sum_million_miles": 3465.8,
+      "anchor_error_million_miles": 0.0
+    },
+    {
+      "method": "hpms_2022_static_area",
+      "year": 2021,
+      "zones": 65,
+      "sum_million_miles": 3158.9000000000005,
+      "anchor_error_million_miles": 4.547473508864641e-13
+    },
+    {
+      "method": "hpms_2022_static_area",
+      "year": 2022,
+      "zones": 65,
+      "sum_million_miles": 3487.5000000000005,
+      "anchor_error_million_miles": 4.547473508864641e-13
+    },
+    {
+      "method": "hpms_2022_static_area",
+      "year": 2023,
+      "zones": 65,
+      "sum_million_miles": 3425.5000000000005,
+      "anchor_error_million_miles": 4.547473508864641e-13
+    },
+    {
+      "method": "hpms_2022_static_area",
+      "year": 2024,
+      "zones": 65,
+      "sum_million_miles": 3307.7000000000003,
+      "anchor_error_million_miles": 4.547473508864641e-13
+    },
+    {
+      "method": "hpms_2022_static_area",
+      "year": 2025,
+      "zones": 65,
+      "sum_million_miles": 3465.800000000001,
+      "anchor_error_million_miles": 9.094947017729282e-13
+    },
+    {
+      "method": "sfcta_expanded",
+      "year": 2021,
+      "zones": 65,
+      "sum_million_miles": 3158.8999999999996,
+      "anchor_error_million_miles": -4.547473508864641e-13
+    },
+    {
+      "method": "sfcta_expanded",
+      "year": 2022,
+      "zones": 65,
+      "sum_million_miles": 3487.5,
+      "anchor_error_million_miles": 0.0
+    },
+    {
+      "method": "sfcta_expanded",
+      "year": 2023,
+      "zones": 65,
+      "sum_million_miles": 3425.4999999999995,
+      "anchor_error_million_miles": -4.547473508864641e-13
+    },
+    {
+      "method": "sfcta_expanded",
+      "year": 2024,
+      "zones": 65,
+      "sum_million_miles": 3307.7,
+      "anchor_error_million_miles": 0.0
+    },
+    {
+      "method": "sfcta_expanded",
+      "year": 2025,
+      "zones": 65,
+      "sum_million_miles": 3465.8,
+      "anchor_error_million_miles": 0.0
+    },
+    {
+      "method": "sfcta_expanded_equal",
+      "year": 2021,
+      "zones": 65,
+      "sum_million_miles": 3158.9,
+      "anchor_error_million_miles": 0.0
+    },
+    {
+      "method": "sfcta_expanded_equal",
+      "year": 2022,
+      "zones": 65,
+      "sum_million_miles": 3487.4999999999995,
+      "anchor_error_million_miles": -4.547473508864641e-13
+    },
+    {
+      "method": "sfcta_expanded_equal",
+      "year": 2023,
+      "zones": 65,
+      "sum_million_miles": 3425.5,
+      "anchor_error_million_miles": 0.0
+    },
+    {
+      "method": "sfcta_expanded_equal",
+      "year": 2024,
+      "zones": 65,
+      "sum_million_miles": 3307.7000000000003,
+      "anchor_error_million_miles": 4.547473508864641e-13
+    },
+    {
+      "method": "sfcta_expanded_equal",
+      "year": 2025,
+      "zones": 65,
+      "sum_million_miles": 3465.800000000001,
+      "anchor_error_million_miles": 9.094947017729282e-13
+    },
+    {
+      "method": "sfcta_expanded_low",
+      "year": 2021,
+      "zones": 65,
+      "sum_million_miles": 3158.9,
+      "anchor_error_million_miles": 0.0
+    },
+    {
+      "method": "sfcta_expanded_low",
+      "year": 2022,
+      "zones": 65,
+      "sum_million_miles": 3487.500000000001,
+      "anchor_error_million_miles": 9.094947017729282e-13
+    },
+    {
+      "method": "sfcta_expanded_low",
+      "year": 2023,
+      "zones": 65,
+      "sum_million_miles": 3425.5,
+      "anchor_error_million_miles": 0.0
+    },
+    {
+      "method": "sfcta_expanded_low",
+      "year": 2024,
+      "zones": 65,
+      "sum_million_miles": 3307.7,
+      "anchor_error_million_miles": 0.0
+    },
+    {
+      "method": "sfcta_expanded_low",
+      "year": 2025,
+      "zones": 65,
+      "sum_million_miles": 3465.8,
+      "anchor_error_million_miles": 0.0
+    }
+  ],
+  "main_candidate_comparison": [
+    {
+      "year": 2021,
+      "pearson_zone_correlation": 0.8412723769349064,
+      "total_variation_of_zone_shares": 0.21567374287010693
+    },
+    {
+      "year": 2022,
+      "pearson_zone_correlation": 0.8368763032380014,
+      "total_variation_of_zone_shares": 0.21860775819687725
+    },
+    {
+      "year": 2023,
+      "pearson_zone_correlation": 0.8268869698261403,
+      "total_variation_of_zone_shares": 0.22662106491679912
+    },
+    {
+      "year": 2024,
+      "pearson_zone_correlation": 0.8197014767791245,
+      "total_variation_of_zone_shares": 0.23163877730645616
+    },
+    {
+      "year": 2025,
+      "pearson_zone_correlation": 0.8211891334824478,
+      "total_variation_of_zone_shares": 0.2294412299405576
+    }
+  ],
+  "status": "Human mileage acquisition/processing deliverable complete for candidate-model testing; estimates are not direct measurements."
+}

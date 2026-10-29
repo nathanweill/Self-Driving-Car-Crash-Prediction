@@ -1,0 +1,13 @@
+{
+  "source_observation_rows": 86805,
+  "unique_segment_months": 43433,
+  "source_geometry_segments": 740,
+  "observed_segments": 739,
+  "months": 60,
+  "zone_year_rows": 325,
+  "zone_years_without_segment_data": 5,
+  "minimum_zone_centerline_coverage": 0.0,
+  "median_zone_centerline_coverage": 0.364619571782016,
+  "maximum_zone_centerline_coverage": 0.8106955411572071,
+  "note": "Volumes are imputed from INRIX speeds/VDFs. Daily estimates multiplied by calendar days are proxies. Coverage is road length, not VMT. Source 'year'=2020 is not observation year. AM/PM daily volumes counted once. No missing road exposure imputed."
+}
