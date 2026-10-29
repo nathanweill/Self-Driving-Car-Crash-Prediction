@@ -1,0 +1,36 @@
+[
+  {
+    "allocation": "centerline",
+    "static_calibration_month": "2024-12",
+    "dec_2024_study_allocated_trip_starts": 400652.0957557319,
+    "dec_2024_ca_total_trips": 541378.0,
+    "dec_2024_study_to_ca_trip_ratio": 0.7400598024960968,
+    "dynamic_calibration_months": [
+      "2024-08",
+      "2024-09",
+      "2024-10",
+      "2024-11",
+      "2024-12"
+    ],
+    "calibration_study_trip_starts": 1728535.036337563,
+    "calibration_sf_reconciled_ro_miles": 8810869.556232993,
+    "study_trips_per_sf_ro_mile": 0.19618211634001112
+  },
+  {
+    "allocation": "area",
+    "static_calibration_month": "2024-12",
+    "dec_2024_study_allocated_trip_starts": 369553.1060105168,
+    "dec_2024_ca_total_trips": 541378.0,
+    "dec_2024_study_to_ca_trip_ratio": 0.682615669662448,
+    "dynamic_calibration_months": [
+      "2024-08",
+      "2024-09",
+      "2024-10",
+      "2024-11",
+      "2024-12"
+    ],
+    "calibration_study_trip_starts": 1583536.2498431155,
+    "calibration_sf_reconciled_ro_miles": 8810869.556232993,
+    "study_trips_per_sf_ro_mile": 0.17972530857898003
+  }
+]

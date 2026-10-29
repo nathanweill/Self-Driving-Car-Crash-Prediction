@@ -1,0 +1,110 @@
+[
+  {
+    "archive": "2026q1.zip",
+    "member": "AV Pilot 2026Q1/Zoox/(PUBLIC) 2026-05-01 Zoox Q1 2026 CPUC Quarterly Report - Data Tables Drivered.xlsx",
+    "member_sha256": "e7691a7cae7f6478ca12750375b89822842c20eba4c8381da84777f3125613e0",
+    "sheet": "Month-Level",
+    "operator": "Zoox",
+    "mode": "drivered",
+    "archive_quarter": 1,
+    "rows": 3
+  },
+  {
+    "archive": "2026q1.zip",
+    "member": "AV Pilot 2026Q1/Zoox/(PUBLIC) 2026-05-01 Zoox Q1 2026 CPUC Quarterly Report - Data Tables Drivered.xlsx",
+    "member_sha256": "e7691a7cae7f6478ca12750375b89822842c20eba4c8381da84777f3125613e0",
+    "sheet": "Incidents-Location",
+    "operator": "Zoox",
+    "mode": "drivered",
+    "archive_quarter": 1,
+    "rows": 127,
+    "reported_quarter_labels": [
+      "Q1"
+    ],
+    "quarter_matches_archive": true,
+    "all_tracts_redacted": true,
+    "disclosed_all_collision_sum": 1.0,
+    "usable_as_sf_injury_count": false
+  },
+  {
+    "archive": "2026q1.zip",
+    "member": "AV Pilot 2026Q1/Zoox/(PUBLIC) 2026-05-01 Zoox Q1 2026 CPUC Quarterly Report - Data Tables Driverless.xlsx",
+    "member_sha256": "e0709c1bc22ecd42d3a25584b6dee36cdea661112522711d6b4e1be3eac638b5",
+    "sheet": "Month-Level",
+    "operator": "Zoox",
+    "mode": "driverless",
+    "archive_quarter": 1,
+    "rows": 3
+  },
+  {
+    "archive": "2026q1.zip",
+    "member": "AV Pilot 2026Q1/Zoox/(PUBLIC) 2026-05-01 Zoox Q1 2026 CPUC Quarterly Report - Data Tables Driverless.xlsx",
+    "member_sha256": "e0709c1bc22ecd42d3a25584b6dee36cdea661112522711d6b4e1be3eac638b5",
+    "sheet": "Incidents-Location",
+    "operator": "Zoox",
+    "mode": "driverless",
+    "archive_quarter": 1,
+    "rows": 30,
+    "reported_quarter_labels": [
+      "Q1"
+    ],
+    "quarter_matches_archive": true,
+    "all_tracts_redacted": true,
+    "disclosed_all_collision_sum": 11.0,
+    "usable_as_sf_injury_count": false
+  },
+  {
+    "archive": "2026q2.zip",
+    "member": "AV Pilot 2026Q2/Zoox/Drivered/Incidents-Location.csv",
+    "member_sha256": "71c144bd8658f262b60696f0c552b1880a6aa550dd214d2df036266e924f3193",
+    "sheet": "Incidents-Location",
+    "operator": "Zoox",
+    "mode": "drivered",
+    "archive_quarter": 2,
+    "rows": 127,
+    "reported_quarter_labels": [
+      "Q1"
+    ],
+    "quarter_matches_archive": false,
+    "all_tracts_redacted": true,
+    "disclosed_all_collision_sum": 1.0,
+    "usable_as_sf_injury_count": false
+  },
+  {
+    "archive": "2026q2.zip",
+    "member": "AV Pilot 2026Q2/Zoox/Drivered/Month-Level.csv",
+    "member_sha256": "7b42a3d6be1fdc9ee0cedf70b61f0599bd909aa8784f57e7c87e4b180816396d",
+    "sheet": "Month-Level",
+    "operator": "Zoox",
+    "mode": "drivered",
+    "archive_quarter": 2,
+    "rows": 3
+  },
+  {
+    "archive": "2026q2.zip",
+    "member": "AV Pilot 2026Q2/Zoox/Driverless/Incidents-Location.csv",
+    "member_sha256": "0dcb7b809e9c105f466629b2900e69b7c84f67046bc61d981181eb7b210e1514",
+    "sheet": "Incidents-Location",
+    "operator": "Zoox",
+    "mode": "driverless",
+    "archive_quarter": 2,
+    "rows": 30,
+    "reported_quarter_labels": [
+      "Q1"
+    ],
+    "quarter_matches_archive": false,
+    "all_tracts_redacted": true,
+    "disclosed_all_collision_sum": 11.0,
+    "usable_as_sf_injury_count": false
+  },
+  {
+    "archive": "2026q2.zip",
+    "member": "AV Pilot 2026Q2/Zoox/Driverless/Month-Level.csv",
+    "member_sha256": "43c1e9841968abe3fe80df4e336a7c8732348aba485e5b61d7814ec6a9e47028",
+    "sheet": "Month-Level",
+    "operator": "Zoox",
+    "mode": "driverless",
+    "archive_quarter": 2,
+    "rows": 3
+  }
+]

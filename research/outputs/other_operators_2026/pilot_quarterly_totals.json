@@ -1,0 +1,126 @@
+[
+  {
+    "operator": "Tensor",
+    "mode": "drivered",
+    "quarter": 1,
+    "reported_pilot_miles": 0.0,
+    "metric": "reported quarterly passenger-service VMT",
+    "source_member": "AV Pilot 2026Q1/Tensor/Tensor Auto Inc CPUC AV TCP Data Report (01012026 - 03312026).xlsx",
+    "source_sheet": "Master",
+    "source_cell": "B2",
+    "sf_geography": "not supplied",
+    "note": ""
+  },
+  {
+    "operator": "WeRide",
+    "mode": "drivered",
+    "quarter": 1,
+    "reported_pilot_miles": 0.0,
+    "metric": "reported quarterly passenger-service VMT",
+    "source_member": "AV Pilot 2026Q1/WeRide/WeRideCorp_ Quarterly_05.1.2026.xlsx",
+    "source_sheet": "DriveredPilotProgramReport",
+    "source_cell": "B2",
+    "sf_geography": "not supplied",
+    "note": ""
+  },
+  {
+    "operator": "WeRide",
+    "mode": "driverless",
+    "quarter": 1,
+    "reported_pilot_miles": 129.9,
+    "metric": "reported quarterly passenger-service VMT",
+    "source_member": "AV Pilot 2026Q1/WeRide/WeRideCorp_ Quarterly_05.1.2026.xlsx",
+    "source_sheet": "DriverlessPilotProgramReport",
+    "source_cell": "B2",
+    "sf_geography": "not supplied",
+    "note": ""
+  },
+  {
+    "operator": "Zoox",
+    "mode": "drivered",
+    "quarter": 1,
+    "reported_pilot_miles": 14007.070000000002,
+    "metric": "sum VMT periods 1+2+3",
+    "source_member": "AV Pilot 2026Q1/Zoox/(PUBLIC) 2026-05-01 Zoox Q1 2026 CPUC Quarterly Report - Data Tables Drivered.xlsx",
+    "source_sheet": "Month-Level",
+    "sf_geography": "redacted"
+  },
+  {
+    "operator": "Zoox",
+    "mode": "driverless",
+    "quarter": 1,
+    "reported_pilot_miles": 121300.86,
+    "metric": "sum VMT periods 1+2+3",
+    "source_member": "AV Pilot 2026Q1/Zoox/(PUBLIC) 2026-05-01 Zoox Q1 2026 CPUC Quarterly Report - Data Tables Driverless.xlsx",
+    "source_sheet": "Month-Level",
+    "sf_geography": "redacted"
+  },
+  {
+    "operator": "Nuro",
+    "mode": "drivered",
+    "quarter": 2,
+    "reported_pilot_miles": 65.66,
+    "metric": "reported quarterly passenger-service VMT",
+    "source_member": "AV Pilot 2026Q2/Nuro/Nuro_CPUC Q2 2026 Drivered Data Report_July 31.xlsx",
+    "source_sheet": "Q2 2026 (April-June)",
+    "source_cell": "B4",
+    "sf_geography": "not supplied",
+    "note": "May 7-June 30 permit period; cover letter corrects workbook June 31 typo"
+  },
+  {
+    "operator": "Tensor",
+    "mode": "drivered",
+    "quarter": 2,
+    "reported_pilot_miles": 105.0,
+    "metric": "reported quarterly passenger-service VMT",
+    "source_member": "AV Pilot 2026Q2/Tensor/Tensor Auto Inc CPUC AV TCP Data Report (04012026 - 06302026) (1).xlsx",
+    "source_sheet": "Master",
+    "source_cell": "B2",
+    "sf_geography": "not supplied",
+    "note": ""
+  },
+  {
+    "operator": "WeRide",
+    "mode": "drivered",
+    "quarter": 2,
+    "reported_pilot_miles": 0.0,
+    "metric": "reported quarterly passenger-service VMT",
+    "source_member": "AV Pilot 2026Q2/WeRide/WeRideCorp_ Quarterly_07.27.2026.xlsx",
+    "source_sheet": "DriveredPilotProgramReport",
+    "source_cell": "B2",
+    "sf_geography": "not supplied",
+    "note": ""
+  },
+  {
+    "operator": "WeRide",
+    "mode": "driverless",
+    "quarter": 2,
+    "reported_pilot_miles": 121.9,
+    "metric": "reported quarterly passenger-service VMT",
+    "source_member": "AV Pilot 2026Q2/WeRide/WeRideCorp_ Quarterly_07.27.2026.xlsx",
+    "source_sheet": "DriverlessPilotProgramReport",
+    "source_cell": "B2",
+    "sf_geography": "not supplied",
+    "note": ""
+  },
+  {
+    "operator": "Zoox",
+    "mode": "drivered",
+    "quarter": 2,
+    "reported_pilot_miles": 16491.760000000002,
+    "metric": "sum VMT periods 1+2+3",
+    "source_member": "AV Pilot 2026Q2/Zoox/Drivered/Month-Level.csv",
+    "source_sheet": "Month-Level",
+    "sf_geography": "redacted"
+  },
+  {
+    "operator": "Zoox",
+    "mode": "driverless",
+    "quarter": 2,
+    "reported_pilot_miles": 180954.03999999998,
+    "metric": "sum VMT periods 1+2+3",
+    "source_member": "AV Pilot 2026Q2/Zoox/Driverless/Month-Level.csv",
+    "source_sheet": "Month-Level",
+    "sf_geography": "redacted"
+  }
+]

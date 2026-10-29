@@ -1,0 +1,20 @@
+{
+  "window_start": "2026-01-01",
+  "window_end": "2026-06-30",
+  "days": 181,
+  "zones": 65,
+  "variants": 4,
+  "reference_million_miles": 1713.4927731725888,
+  "waymo_ro_million_miles": 19.79041342422327,
+  "waymo_miles_before_zone_normalization": 19776482.4657687,
+  "segment_months_imputed": 101,
+  "waymo_source_rows": 158,
+  "waymo_unique_sgo_ids": 157,
+  "waymo_any_injury_events": 14,
+  "waymo_police_injury_intransport_events": 8,
+  "waymo_selected_with_point_zone": 8,
+  "reference_injury_cases": 1578,
+  "reference_injury_cases_assigned": 1559,
+  "reference_cases_unassigned": 19,
+  "status": "Matched-window Waymo/reference estimated-data handoff complete; all-operator DMV deployment coverage not obtained."
+}

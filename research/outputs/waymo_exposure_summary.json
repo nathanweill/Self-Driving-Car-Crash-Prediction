@@ -1,0 +1,16 @@
+{
+  "snapshots": 9,
+  "union_sf_cells": 134,
+  "zones": 65,
+  "2025_csv4_sum_difference_miles": 31903936.54356221,
+  "2025_csv1_total_difference_miles_rounded": 31874000.0,
+  "snapshots_with_total_discrepancies": [
+    "202412"
+  ],
+  "2025_cell_status_counts": {
+    "matched_nonnegative": 121,
+    "missing_end_snapshot": 2
+  },
+  "boundary_road_normalized_cells": 3,
+  "interpretation": "Spatial allocation is assumed. Human VMT is a 2022 benchmark in published cells, never a measured 2021-2025 series. Missing snapshot endpoints stay missing. 2025 year-end subtraction crosses an operational-location to county definition change and is diagnostic, NOT approved annual mileage."
+}

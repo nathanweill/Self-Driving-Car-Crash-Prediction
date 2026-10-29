@@ -1,0 +1,78 @@
+operator,mode,date,total_trips_ca,total_trips_raw,source_archive,source_member
+Cruise,deployment_mode_unspecified,2022-06,84,84,cpuc_historical/2022_06_08.zip,2022 AV Deployment - 0601 0831 (revised)/Cruise/PSG0039080_202210_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2022-07,224,224,cpuc_historical/2022_06_08.zip,2022 AV Deployment - 0601 0831 (revised)/Cruise/PSG0039080_202210_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2022-08,416,416,cpuc_historical/2022_06_08.zip,2022 AV Deployment - 0601 0831 (revised)/Cruise/PSG0039080_202210_AV_Month_Part0.csv
+Waymo,deployment_mode_unspecified,2022-06,2874,2874,cpuc_historical/2022_06_08.zip,2022 AV Deployment - 0601 0831 (revised)/Waymo (revised)/Resubmission_PSG0038152_2022_10_Month_Part0.csv
+Waymo,deployment_mode_unspecified,2022-07,2970,2970,cpuc_historical/2022_06_08.zip,2022 AV Deployment - 0601 0831 (revised)/Waymo (revised)/Resubmission_PSG0038152_2022_10_Month_Part0.csv
+Waymo,deployment_mode_unspecified,2022-08,2473,2473,cpuc_historical/2022_06_08.zip,2022 AV Deployment - 0601 0831 (revised)/Waymo (revised)/Resubmission_PSG0038152_2022_10_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2022-09,632,632,cpuc_historical/2022_09_11.zip,2022 AV Deployment - 0901 1130/Cruise/PSG0039080_202301_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2022-10,905,905,cpuc_historical/2022_09_11.zip,2022 AV Deployment - 0901 1130/Cruise/PSG0039080_202301_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2022-11,1246,1246,cpuc_historical/2022_09_11.zip,2022 AV Deployment - 0901 1130/Cruise/PSG0039080_202301_AV_Month_Part0.csv
+Waymo,deployment_mode_unspecified,2022-09,2122,2122,cpuc_historical/2022_09_11.zip,2022 AV Deployment - 0901 1130/Waymo/PSG0038152_2023_01_AV_Month_Part0.csv
+Waymo,deployment_mode_unspecified,2022-10,2251,2251,cpuc_historical/2022_09_11.zip,2022 AV Deployment - 0901 1130/Waymo/PSG0038152_2023_01_AV_Month_Part0.csv
+Waymo,deployment_mode_unspecified,2022-11,1940,1940,cpuc_historical/2022_09_11.zip,2022 AV Deployment - 0901 1130/Waymo/PSG0038152_2023_01_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2022-12,1755,1755,cpuc_historical/2022_12_2023_02.zip,2023 AV Deployment - 1201 0228/Cruise/PSG0039080_202304_AV_Month_Part0 - PSG0039080_202304_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2023-01,2562,2562,cpuc_historical/2022_12_2023_02.zip,2023 AV Deployment - 1201 0228/Cruise/PSG0039080_202304_AV_Month_Part0 - PSG0039080_202304_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2023-02,1680,1680,cpuc_historical/2022_12_2023_02.zip,2023 AV Deployment - 1201 0228/Cruise/PSG0039080_202304_AV_Month_Part0 - PSG0039080_202304_AV_Month_Part0.csv
+Waymo,deployment_mode_unspecified,2022-12,2125,2125,cpuc_historical/2022_12_2023_02.zip,2023 AV Deployment - 1201 0228/Waymo/PSG0032513_2023_04_AV_Month_Part0.csv
+Waymo,deployment_mode_unspecified,2023-01,1995,1995,cpuc_historical/2022_12_2023_02.zip,2023 AV Deployment - 1201 0228/Waymo/PSG0032513_2023_04_AV_Month_Part0.csv
+Waymo,deployment_mode_unspecified,2023-02,1356,1356,cpuc_historical/2022_12_2023_02.zip,2023 AV Deployment - 1201 0228/Waymo/PSG0032513_2023_04_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2023-03,2523,2523,cpuc_historical/2023_03_05.zip,2023 AV Deployment - 0301 0531/Cruise/PSG0039080_202307_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2023-04,2937,2937,cpuc_historical/2023_03_05.zip,2023 AV Deployment - 0301 0531/Cruise/PSG0039080_202307_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2023-05,3073,3073,cpuc_historical/2023_03_05.zip,2023 AV Deployment - 0301 0531/Cruise/PSG0039080_202307_AV_Month_Part0.csv
+Waymo,deployment_mode_unspecified,2023-03,960,960,cpuc_historical/2023_03_05.zip,2023 AV Deployment - 0301 0531/Waymo/PSG0038152_2023_07_AV_Month-Level_Part0.csv
+Waymo,deployment_mode_unspecified,2023-04,1267,1267,cpuc_historical/2023_03_05.zip,2023 AV Deployment - 0301 0531/Waymo/PSG0038152_2023_07_AV_Month-Level_Part0.csv
+Waymo,deployment_mode_unspecified,2023-05,1154,1154,cpuc_historical/2023_03_05.zip,2023 AV Deployment - 0301 0531/Waymo/PSG0038152_2023_07_AV_Month-Level_Part0.csv
+Cruise,deployment_mode_unspecified,2023-06,2294,2294,cpuc_historical/2023_06_08.zip,2023 AV Deployment - 0601 0831/Cruise/PSG0039080_202310_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2023-07,1865,1865,cpuc_historical/2023_06_08.zip,2023 AV Deployment - 0601 0831/Cruise/PSG0039080_202310_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2023-08,9853,9853,cpuc_historical/2023_06_08.zip,2023 AV Deployment - 0601 0831/Cruise/PSG0039080_202310_AV_Month_Part0.csv
+Waymo,driverless_deployment,2023-08,12617,12617,cpuc_historical/2023_06_08.zip,2023 AV Deployment - 0601 0831/Waymo/Driverless Deployment/PSG0038152_2023_10_AV_Month-Level_Part0.csv
+Cruise,deployment_mode_unspecified,2023-09,10680,10680,cpuc_historical/2023_09_11.zip,2023 AV Deployment - 0901 1130/Cruise/PSG0039080_202401_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2023-10,10378,10378,cpuc_historical/2023_09_11.zip,2023 AV Deployment - 0901 1130/Cruise/PSG0039080_202401_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2023-11,0,0,cpuc_historical/2023_09_11.zip,2023 AV Deployment - 0901 1130/Cruise/PSG0039080_202401_AV_Month_Part0.csv
+Waymo,driverless_deployment,2023-09,38473,38473,cpuc_historical/2023_09_11.zip,2023 AV Deployment - 0901 1130/Waymo/Driverless Deployment/PSG0038152_2024_01_AV_Month-Level_Part0.csv
+Waymo,driverless_deployment,2023-10,56499,56499,cpuc_historical/2023_09_11.zip,2023 AV Deployment - 0901 1130/Waymo/Driverless Deployment/PSG0038152_2024_01_AV_Month-Level_Part0.csv
+Waymo,driverless_deployment,2023-11,56905,56905,cpuc_historical/2023_09_11.zip,2023 AV Deployment - 0901 1130/Waymo/Driverless Deployment/PSG0038152_2024_01_AV_Month-Level_Part0.csv
+Cruise,driverless_deployment,2023-12,,,cpuc_historical/2023_12_2024_02.zip,2024 AV Deployment - 1201 0229/Cruise/Driverless Deployment/PSG0039080_202404_AV_Month_Part0.csv
+Cruise,driverless_deployment,2024-01,,,cpuc_historical/2023_12_2024_02.zip,2024 AV Deployment - 1201 0229/Cruise/Driverless Deployment/PSG0039080_202404_AV_Month_Part0.csv
+Cruise,driverless_deployment,2024-02,,,cpuc_historical/2023_12_2024_02.zip,2024 AV Deployment - 1201 0229/Cruise/Driverless Deployment/PSG0039080_202404_AV_Month_Part0.csv
+Waymo,driverless_deployment,2023-12,72595,"72,595",cpuc_historical/2023_12_2024_02.zip,2024 AV Deployment - 1201 0229/Waymo/Driverless Deployment/PSG0038152_2024_04_AV_Month-Level_Part0.csv
+Waymo,driverless_deployment,2024-01,77242,"77,242",cpuc_historical/2023_12_2024_02.zip,2024 AV Deployment - 1201 0229/Waymo/Driverless Deployment/PSG0038152_2024_04_AV_Month-Level_Part0.csv
+Waymo,driverless_deployment,2024-02,74233,"74,233",cpuc_historical/2023_12_2024_02.zip,2024 AV Deployment - 1201 0229/Waymo/Driverless Deployment/PSG0038152_2024_04_AV_Month-Level_Part0.csv
+Waymo,deployment_mode_unspecified,2022-03,3753,3753,cpuc_activity/2022_03_05.zip,2022 AV Deployment - 0301 0531 (revised)/Waymo (revised)/Resubmission_PSG0038152_2022_07_Month_Part0.csv
+Waymo,deployment_mode_unspecified,2022-04,3706,3706,cpuc_activity/2022_03_05.zip,2022 AV Deployment - 0301 0531 (revised)/Waymo (revised)/Resubmission_PSG0038152_2022_07_Month_Part0.csv
+Waymo,deployment_mode_unspecified,2022-05,4118,4118,cpuc_activity/2022_03_05.zip,2022 AV Deployment - 0301 0531 (revised)/Waymo (revised)/Resubmission_PSG0038152_2022_07_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2024-03,,,cpuc_activity/2024_03_05.zip,2024 AV Deployment - 0301 0531/Cruise/PSG0039080_202407_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2024-04,,,cpuc_activity/2024_03_05.zip,2024 AV Deployment - 0301 0531/Cruise/PSG0039080_202407_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2024-05,,,cpuc_activity/2024_03_05.zip,2024 AV Deployment - 0301 0531/Cruise/PSG0039080_202407_AV_Month_Part0.csv
+Waymo,driverless_deployment,2024-03,83851,"83,851",cpuc_activity/2024_03_05.zip,2024 AV Deployment - 0301 0531/Waymo/Driverless Deployment/PSG0038152_2024_07_Monthy-Level.csv
+Waymo,driverless_deployment,2024-04,92002,"92,002",cpuc_activity/2024_03_05.zip,2024 AV Deployment - 0301 0531/Waymo/Driverless Deployment/PSG0038152_2024_07_Monthy-Level.csv
+Waymo,driverless_deployment,2024-05,143621,"143,621",cpuc_activity/2024_03_05.zip,2024 AV Deployment - 0301 0531/Waymo/Driverless Deployment/PSG0038152_2024_07_Monthy-Level.csv
+Cruise,deployment_mode_unspecified,2024-06,,,cpuc_activity/2024_06_08.zip,Cruise-2024-10-01 Jun 24-Aug24-Public.zip::Cruise-2024-10-01 Jun 24-Aug24-Public/PSG0039080_202410_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2024-07,,,cpuc_activity/2024_06_08.zip,Cruise-2024-10-01 Jun 24-Aug24-Public.zip::Cruise-2024-10-01 Jun 24-Aug24-Public/PSG0039080_202410_AV_Month_Part0.csv
+Cruise,deployment_mode_unspecified,2024-08,,,cpuc_activity/2024_06_08.zip,Cruise-2024-10-01 Jun 24-Aug24-Public.zip::Cruise-2024-10-01 Jun 24-Aug24-Public/PSG0039080_202410_AV_Month_Part0.csv
+Waymo,driverless_deployment,2024-06,188847,188847,cpuc_activity/2024_06_08.zip,Waymo-2024-10-01 Jun 24-Aug24_Public.zip::Redacted/2024-10_Driverless-Deployment/PSG0038152_2024_10_AV_Month-Level.csv
+Waymo,driverless_deployment,2024-07,250752,250752,cpuc_activity/2024_06_08.zip,Waymo-2024-10-01 Jun 24-Aug24_Public.zip::Redacted/2024-10_Driverless-Deployment/PSG0038152_2024_10_AV_Month-Level.csv
+Waymo,driverless_deployment,2024-08,312245,312245,cpuc_activity/2024_06_08.zip,Waymo-2024-10-01 Jun 24-Aug24_Public.zip::Redacted/2024-10_Driverless-Deployment/PSG0038152_2024_10_AV_Month-Level.csv
+Waymo,driverless_deployment,2024-09,354124,"354,124",cpuc_activity/2024_09_11.zip,Waymo Dep Sep-Nov 2024 Public_2/Waymo Dep Sep_Nov Driverless 2024 Public/PSG0038152_2025_02_(Sep_1-Nov_30)_AV_Month-Level_Part0.csv
+Waymo,driverless_deployment,2024-10,453478,"453,478",cpuc_activity/2024_09_11.zip,Waymo Dep Sep-Nov 2024 Public_2/Waymo Dep Sep_Nov Driverless 2024 Public/PSG0038152_2025_02_(Sep_1-Nov_30)_AV_Month-Level_Part0.csv
+Waymo,driverless_deployment,2024-11,503634,"503,634",cpuc_activity/2024_09_11.zip,Waymo Dep Sep-Nov 2024 Public_2/Waymo Dep Sep_Nov Driverless 2024 Public/PSG0038152_2025_02_(Sep_1-Nov_30)_AV_Month-Level_Part0.csv
+Waymo,driverless_deployment,2024-12,541378,"541,378",cpuc_activity/2024_12.zip,Waymo Dep Dec 2024  Public_2/Waymo Dep Dec 2024 Driverless Public/PSG0038152_2025_02_(Dec_1-Dec_31)_AV_Month-Level_Part0.csv
+Waymo,driverless_deployment,2025-04,776058,"776,058",cpuc_activity/2025q2.zip,Waymo Deployment 2025Q2/Driverless Deployment/PSG0038152_2025_08_AV_ Month_Level-Deployment.csv
+Waymo,driverless_deployment,2025-05,875592,"875,592",cpuc_activity/2025q2.zip,Waymo Deployment 2025Q2/Driverless Deployment/PSG0038152_2025_08_AV_ Month_Level-Deployment.csv
+Waymo,driverless_deployment,2025-06,583262,"583,262",cpuc_activity/2025q2.zip,Waymo Deployment 2025Q2/Driverless Deployment/PSG0038152_2025_08_AV_ Month_Level-Deployment.csv
+Waymo,driverless_deployment,2025-07,778812,"778,812",cpuc_activity/2025q3.zip,Waymo Deployment 2025Q3/2025-11_Driverless-Deployment Public/PSG0038152_2025_11_AV_Month_Level-Deployment.csv
+Waymo,driverless_deployment,2025-08,880643,"880,643",cpuc_activity/2025q3.zip,Waymo Deployment 2025Q3/2025-11_Driverless-Deployment Public/PSG0038152_2025_11_AV_Month_Level-Deployment.csv
+Waymo,driverless_deployment,2025-09,1016546,"1,016,546",cpuc_activity/2025q3.zip,Waymo Deployment 2025Q3/2025-11_Driverless-Deployment Public/PSG0038152_2025_11_AV_Month_Level-Deployment.csv
+Waymo,driverless_deployment,2025-10,1217872,"1,217,872",cpuc_activity/2025q4.zip,Waymo Deployment 2025Q4/Driverless/PSG0038152_2026_02_AV_Month-Level_Part0-Deployment.csv
+Waymo,driverless_deployment,2025-11,1273473,"1,273,473",cpuc_activity/2025q4.zip,Waymo Deployment 2025Q4/Driverless/PSG0038152_2026_02_AV_Month-Level_Part0-Deployment.csv
+Waymo,driverless_deployment,2025-12,1257187,"1,257,187",cpuc_activity/2025q4.zip,Waymo Deployment 2025Q4/Driverless/PSG0038152_2026_02_AV_Month-Level_Part0-Deployment.csv
+Waymo,driverless_deployment,2026-01,1322645,"1,322,645",cpuc_activity/2026q1.zip,Waymo Deployment 2026Q1/Driverless/PSG0038152_2026_05_AV_Month_Part0-Deployment.csv
+Waymo,driverless_deployment,2026-02,1220222,"1,220,222",cpuc_activity/2026q1.zip,Waymo Deployment 2026Q1/Driverless/PSG0038152_2026_05_AV_Month_Part0-Deployment.csv
+Waymo,driverless_deployment,2026-03,1363067,"1,363,067",cpuc_activity/2026q1.zip,Waymo Deployment 2026Q1/Driverless/PSG0038152_2026_05_AV_Month_Part0-Deployment.csv
+Waymo,driverless_deployment,2025-01,550457,"550,457",cpuc/waymo_2025q1.zip,Waymo Driverless Deployment 2025 Q1/PSG0038152_2025_05_AV_Month-Level_Part0.csv
+Waymo,driverless_deployment,2025-02,559569,"559,569",cpuc/waymo_2025q1.zip,Waymo Driverless Deployment 2025 Q1/PSG0038152_2025_05_AV_Month-Level_Part0.csv
+Waymo,driverless_deployment,2025-03,708180,"708,180",cpuc/waymo_2025q1.zip,Waymo Driverless Deployment 2025 Q1/PSG0038152_2025_05_AV_Month-Level_Part0.csv
+Waymo,driverless_deployment,2026-04,1416158,"1,416,158",cpuc/waymo_2026q2.zip,Waymo Deployment 2026Q2/Driverless Deployment/PSG0038152_2026_08_AV_Month_Part0-Deployment.csv
+Waymo,driverless_deployment,2026-05,1454991,"1,454,991",cpuc/waymo_2026q2.zip,Waymo Deployment 2026Q2/Driverless Deployment/PSG0038152_2026_08_AV_Month_Part0-Deployment.csv
+Waymo,driverless_deployment,2026-06,1348926,"1,348,926",cpuc/waymo_2026q2.zip,Waymo Deployment 2026Q2/Driverless Deployment/PSG0038152_2026_08_AV_Month_Part0-Deployment.csv

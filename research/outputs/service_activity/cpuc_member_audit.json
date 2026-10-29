@@ -1,0 +1,762 @@
+[
+  {
+    "archive": "cpuc_historical/2022_06_08.zip",
+    "member": "2022 AV Deployment - 0601 0831 (revised)/Cruise/PSG0039080_202210_AV_Month_Part0.csv",
+    "member_sha256": "c2012a6df1f43845423ebeda89c2ee94e0af9b759d4b29ac89d77f048a743eda",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2022_06_08.zip",
+    "member": "2022 AV Deployment - 0601 0831 (revised)/Cruise/PSG0039080_202210_AV_Monthly_Tract_Part0.csv",
+    "member_sha256": "47afc160f86bfb5c546b7c9498e276cb5096975250363ebcf76748e25a0706a4",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 163,
+    "rows_without_valid_period": 0,
+    "sf_rows": 163,
+    "sf_start_numeric_rows": 163
+  },
+  {
+    "archive": "cpuc_historical/2022_06_08.zip",
+    "member": "2022 AV Deployment - 0601 0831 (revised)/Waymo (revised)/Resubmission_PSG0038152_2022_10_AV_Monthly_Tract_Part0.csv",
+    "member_sha256": "3fdc391238823d93e4e15dd4af66cc2bc57992cc67a2cec5a8c8c7e8134e9398",
+    "operator": "Waymo",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 753,
+    "rows_without_valid_period": 0,
+    "sf_rows": 732,
+    "sf_start_numeric_rows": 732
+  },
+  {
+    "archive": "cpuc_historical/2022_06_08.zip",
+    "member": "2022 AV Deployment - 0601 0831 (revised)/Waymo (revised)/Resubmission_PSG0038152_2022_10_Month_Part0.csv",
+    "member_sha256": "c7497333c7e2316321d424735937b5657b27ad2c6b246cac04f94748d0220881",
+    "operator": "Waymo",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2022_09_11.zip",
+    "member": "2022 AV Deployment - 0901 1130/Cruise/PSG0039080_202301_AV_Month_Part0.csv",
+    "member_sha256": "de79ff6de9b834a18201f55ddb4b5a633956922a837ad41e2b76e44016368f42",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2022_09_11.zip",
+    "member": "2022 AV Deployment - 0901 1130/Cruise/PSG0039080_202301_AV_Monthly_Tract_Part0.csv",
+    "member_sha256": "8f6b2edc47025acc51f23f5de488251dffe140cec617229927e3b5e4a1735253",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 302,
+    "rows_without_valid_period": 0,
+    "sf_rows": 302,
+    "sf_start_numeric_rows": 302
+  },
+  {
+    "archive": "cpuc_historical/2022_09_11.zip",
+    "member": "2022 AV Deployment - 0901 1130/Waymo/PSG0038152_2023_01_AV_Month_Part0.csv",
+    "member_sha256": "3e26b904c38b290d2536853284c17111fc5f44a5b31ca3b82abf9e044e748b1e",
+    "operator": "Waymo",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2022_09_11.zip",
+    "member": "2022 AV Deployment - 0901 1130/Waymo/PSG0038152_2023_01_AV_Monthly_Tract_Part0.csv",
+    "member_sha256": "9e71de08c7d6bbbe8cca24f424c642d02c550636f68454c2990095f4db5cf5b1",
+    "operator": "Waymo",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 753,
+    "rows_without_valid_period": 0,
+    "sf_rows": 732,
+    "sf_start_numeric_rows": 732
+  },
+  {
+    "archive": "cpuc_historical/2022_12_2023_02.zip",
+    "member": "2023 AV Deployment - 1201 0228/Cruise/PSG0039080_202304_AV_Month_Part0 - PSG0039080_202304_AV_Month_Part0.csv",
+    "member_sha256": "a87db73177b6b63430a93de25b771a4c5331aaa1f6fe922e38f831a5622d7866",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2022_12_2023_02.zip",
+    "member": "2023 AV Deployment - 1201 0228/Cruise/PSG0039080_202304_AV_Monthly_Tract_Part0 - PSG0039080_202304_AV_Monthly_Tract_Part0.csv",
+    "member_sha256": "6a51366fdccf8af58336d5e44e179018cadc540e7e365570ffa6a59e18061b00",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 301,
+    "rows_without_valid_period": 0,
+    "sf_rows": 301,
+    "sf_start_numeric_rows": 301
+  },
+  {
+    "archive": "cpuc_historical/2022_12_2023_02.zip",
+    "member": "2023 AV Deployment - 1201 0228/Waymo/PSG0032513_2023_04_AV_Month_Part0.csv",
+    "member_sha256": "a0c4a378963ffdad2909da16ebf422d68a97298bdf0f1bf8d887d83a2b21e27e",
+    "operator": "Waymo",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2022_12_2023_02.zip",
+    "member": "2023 AV Deployment - 1201 0228/Waymo/PSG0032513_2023_04_AV_Monthly_Tract_Part0.csv",
+    "member_sha256": "220c088cedb4a4887d806fe6b1fa17f38211a638741aaf9d891866192f061bb1",
+    "operator": "Waymo",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 609,
+    "rows_without_valid_period": 0,
+    "sf_rows": 585,
+    "sf_start_numeric_rows": 585
+  },
+  {
+    "archive": "cpuc_historical/2023_03_05.zip",
+    "member": "2023 AV Deployment - 0301 0531/Cruise/PSG0039080_202307_AV_Month_Part0.csv",
+    "member_sha256": "b6cef18bdbc1a5c32f9ae1c02f15184d3b22078bdc6942886fe8eb9b740848d5",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2023_03_05.zip",
+    "member": "2023 AV Deployment - 0301 0531/Cruise/PSG0039080_202307_AV_Monthly_Tract_Part0.csv",
+    "member_sha256": "1917b5af85102d51c17851bb3c0c6d26958763011de9f24382b9ae0a8f5c4181",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 308,
+    "rows_without_valid_period": 0,
+    "sf_rows": 308,
+    "sf_start_numeric_rows": 308
+  },
+  {
+    "archive": "cpuc_historical/2023_03_05.zip",
+    "member": "2023 AV Deployment - 0301 0531/Waymo/PSG0038152_2023_07_AV_Month-Level_Part0.csv",
+    "member_sha256": "6e95b53d7c051ebce3fed158231efbbef7bb5383d9c2cb945ae507a91ef0922d",
+    "operator": "Waymo",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2023_03_05.zip",
+    "member": "2023 AV Deployment - 0301 0531/Waymo/PSG0038152_2023_07_AV_Monthly Tract_Part0.csv",
+    "member_sha256": "14ed10f05a511e81c685a61a600d42ec30d611f589282c780dc255064beb5dbd",
+    "operator": "Waymo",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 609,
+    "rows_without_valid_period": 0,
+    "sf_rows": 585,
+    "sf_start_numeric_rows": 585
+  },
+  {
+    "archive": "cpuc_historical/2023_06_08.zip",
+    "member": "2023 AV Deployment - 0601 0831/Cruise/PSG0039080_202310_AV_Month_Part0.csv",
+    "member_sha256": "07f772097a9a91e19ac143448f94291941e6065b3d0a6893f297a734d2640764",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2023_06_08.zip",
+    "member": "2023 AV Deployment - 0601 0831/Cruise/PSG0039080_202310_AV_Monthly_Tract_Part0.csv",
+    "member_sha256": "17e24cc23f37b904308bb3201a0ecc2a266b451679c7a050e963fc6a28ba410d",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 442,
+    "rows_without_valid_period": 0,
+    "sf_rows": 442,
+    "sf_start_numeric_rows": 442
+  },
+  {
+    "archive": "cpuc_historical/2023_06_08.zip",
+    "member": "2023 AV Deployment - 0601 0831/Waymo/Drivered Deployment/PSG0038152_2023_10_AV_Month Level_Part0.csv",
+    "member_sha256": "7f2885b260306ec9004b6e91b17163039b70ad1be8bd82303aae1729f6f0f1f8",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2023_06_08.zip",
+    "member": "2023 AV Deployment - 0601 0831/Waymo/Drivered Deployment/PSG0038152_2023_10_AV_Monthly Tract_Part0.csv",
+    "member_sha256": "283a1c4cc388bfc96d69ce12d2b95c8cc64cdc7607d74881d598434fd5d09e06",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0,
+    "sf_rows": 0,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_historical/2023_06_08.zip",
+    "member": "2023 AV Deployment - 0601 0831/Waymo/Driverless Deployment/PSG0038152_2023_10_AV_Month-Level_Part0.csv",
+    "member_sha256": "22b19a8e6fde040a3c7db511d674fd1aa2ad8e22287783f5e028b25ae85aea3d",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 1,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2023_06_08.zip",
+    "member": "2023 AV Deployment - 0601 0831/Waymo/Driverless Deployment/PSG0038152_2023_10_AV_Monthly Tract_Part0.csv",
+    "member_sha256": "e59cb71e6450a7c68dd5c35b252cf207c76cc9d865471a9049b6f6b54b384593",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 203,
+    "rows_without_valid_period": 0,
+    "sf_rows": 195,
+    "sf_start_numeric_rows": 195
+  },
+  {
+    "archive": "cpuc_historical/2023_09_11.zip",
+    "member": "2023 AV Deployment - 0901 1130/Cruise/PSG0039080_202401_AV_Month_Part0.csv",
+    "member_sha256": "9c1a56a01c21e9edf79eee4189a9072eca16ea1843fbcedef8719325c99bc8a2",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2023_09_11.zip",
+    "member": "2023 AV Deployment - 0901 1130/Cruise/PSG0039080_202401_AV_Monthly_Tract_Part0.csv",
+    "member_sha256": "144a769a671a1213d5ac0c7b90c70c09671924a23abc6400a6dc833a17e41f19",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 469,
+    "rows_without_valid_period": 0,
+    "sf_rows": 469,
+    "sf_start_numeric_rows": 469
+  },
+  {
+    "archive": "cpuc_historical/2023_09_11.zip",
+    "member": "2023 AV Deployment - 0901 1130/Waymo/Drivered Deployment/PSG0038152_2024_01_AV_[Month-Level]_Part0.csv",
+    "member_sha256": "7f2885b260306ec9004b6e91b17163039b70ad1be8bd82303aae1729f6f0f1f8",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2023_09_11.zip",
+    "member": "2023 AV Deployment - 0901 1130/Waymo/Drivered Deployment/PSG0038152_2024_01_AV_[Monthly Tract]_Part0.csv",
+    "member_sha256": "283a1c4cc388bfc96d69ce12d2b95c8cc64cdc7607d74881d598434fd5d09e06",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0,
+    "sf_rows": 0,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_historical/2023_09_11.zip",
+    "member": "2023 AV Deployment - 0901 1130/Waymo/Driverless Deployment/PSG0038152_2024_01_AV_Month-Level_Part0.csv",
+    "member_sha256": "44fec7c3591e6ec6207dfe8c657bb804503e229629a805e754627b7440ab10cc",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2023_09_11.zip",
+    "member": "2023 AV Deployment - 0901 1130/Waymo/Driverless Deployment/PSG0038152_2024_01_AV_Monthly Tract_Part0.csv",
+    "member_sha256": "8f50f66cfd6c68c160d66ed67cb806da6e875620c0534ebd1ffa6df3c1404443",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 609,
+    "rows_without_valid_period": 0,
+    "sf_rows": 585,
+    "sf_start_numeric_rows": 585
+  },
+  {
+    "archive": "cpuc_historical/2023_12_2024_02.zip",
+    "member": "2024 AV Deployment - 1201 0229/Cruise/Driverless Deployment/PSG0039080_202404_AV_Month_Part0.csv",
+    "member_sha256": "1837e37eaf64fad9840183df9c79f4e1313c9ae267304678018cbab337048571",
+    "operator": "Cruise",
+    "mode": "driverless_deployment",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2023_12_2024_02.zip",
+    "member": "2024 AV Deployment - 1201 0229/Cruise/Driverless Deployment/PSG0039080_202404_AV_Monthly_Tract_Part0.csv",
+    "member_sha256": "7fb8af8b602789ec3e5d04569e4d76df655a7d9e100921d2e8c0503581a9343f",
+    "operator": "Cruise",
+    "mode": "driverless_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0,
+    "sf_rows": 0,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_historical/2023_12_2024_02.zip",
+    "member": "2024 AV Deployment - 1201 0229/Waymo/Drivered Deployment/PSG0038152_2024_04_AV_Month-Level_Part0.csv",
+    "member_sha256": "7f2885b260306ec9004b6e91b17163039b70ad1be8bd82303aae1729f6f0f1f8",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2023_12_2024_02.zip",
+    "member": "2024 AV Deployment - 1201 0229/Waymo/Drivered Deployment/PSG0038152_2024_04_AV_Monthly Tract_Part0.csv",
+    "member_sha256": "283a1c4cc388bfc96d69ce12d2b95c8cc64cdc7607d74881d598434fd5d09e06",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0,
+    "sf_rows": 0,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_historical/2023_12_2024_02.zip",
+    "member": "2024 AV Deployment - 1201 0229/Waymo/Driverless Deployment/PSG0038152_2024_04_AV_Month-Level_Part0.csv",
+    "member_sha256": "abf4c27c9b6b0b689f39bddead902c44166404576b0611a73d32ec6caf86cc05",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_historical/2023_12_2024_02.zip",
+    "member": "2024 AV Deployment - 1201 0229/Waymo/Driverless Deployment/PSG0038152_2024_04_AV_Monthly Tract_Part0.csv",
+    "member_sha256": "f808d164cce965a82ddb66a62972c7b2c4ae169076123760a3483167cc85d2cc",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 609,
+    "rows_without_valid_period": 0,
+    "sf_rows": 585,
+    "sf_start_numeric_rows": 585
+  },
+  {
+    "archive": "cpuc_activity/2022_03_05.zip",
+    "member": "2022 AV Deployment - 0301 0531 (revised)/Waymo (revised)/Resubmission_PSG0038152_2022_07_AV_Monthly_Tract_Part0.csv",
+    "member_sha256": "212d189d94f4da6811056f2ef52684e4eb93dbb386693a27df199d1b16559deb",
+    "operator": "Waymo",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 753,
+    "rows_without_valid_period": 0,
+    "sf_rows": 732,
+    "sf_start_numeric_rows": 732
+  },
+  {
+    "archive": "cpuc_activity/2022_03_05.zip",
+    "member": "2022 AV Deployment - 0301 0531 (revised)/Waymo (revised)/Resubmission_PSG0038152_2022_07_Month_Part0.csv",
+    "member_sha256": "de490b4b30d92175fbc3f3f1699083fa6f50a66fb1829ba32e496421d6ce862c",
+    "operator": "Waymo",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_03_05.zip",
+    "member": "2024 AV Deployment - 0301 0531/Cruise/PSG0039080_202407_AV_Month_Part0.csv",
+    "member_sha256": "68600100a164c16bc30a6174d9700606e424ee7c19a4669d722cd73e180ac40f",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_03_05.zip",
+    "member": "2024 AV Deployment - 0301 0531/Cruise/PSG0039080_202407_AV_Monthly_Tract_Part0.csv",
+    "member_sha256": "7fb8af8b602789ec3e5d04569e4d76df655a7d9e100921d2e8c0503581a9343f",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0,
+    "sf_rows": 0,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_03_05.zip",
+    "member": "2024 AV Deployment - 0301 0531/Waymo/Drivered Deployment/PSG0038152_2024_07_AV_Month-Level.csv",
+    "member_sha256": "7f2885b260306ec9004b6e91b17163039b70ad1be8bd82303aae1729f6f0f1f8",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_03_05.zip",
+    "member": "2024 AV Deployment - 0301 0531/Waymo/Drivered Deployment/PSG0038152_2024_07_AV_Monthly Tract .csv",
+    "member_sha256": "283a1c4cc388bfc96d69ce12d2b95c8cc64cdc7607d74881d598434fd5d09e06",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0,
+    "sf_rows": 0,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_03_05.zip",
+    "member": "2024 AV Deployment - 0301 0531/Waymo/Driverless Deployment/PSG0038152_2024_07_Monthly-Tract.csv",
+    "member_sha256": "973962d26140b22e68d0b105121e5599e24df3bb5f72fbb7a516446874315530",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 4053,
+    "rows_without_valid_period": 0,
+    "sf_rows": 585,
+    "sf_start_numeric_rows": 585
+  },
+  {
+    "archive": "cpuc_activity/2024_03_05.zip",
+    "member": "2024 AV Deployment - 0301 0531/Waymo/Driverless Deployment/PSG0038152_2024_07_Monthy-Level.csv",
+    "member_sha256": "49ee7157c996dc1692b4fa694531aaa117f6efbadfebb5b46a2a61c5eb445d5b",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_06_08.zip",
+    "member": "Cruise-2024-10-01 Jun 24-Aug24-Public.zip::Cruise-2024-10-01 Jun 24-Aug24-Public/PSG0039080_202410_AV_Monthly_Tract_Part0.csv",
+    "member_sha256": "7fb8af8b602789ec3e5d04569e4d76df655a7d9e100921d2e8c0503581a9343f",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0,
+    "sf_rows": 0,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_06_08.zip",
+    "member": "Cruise-2024-10-01 Jun 24-Aug24-Public.zip::Cruise-2024-10-01 Jun 24-Aug24-Public/PSG0039080_202410_AV_Month_Part0.csv",
+    "member_sha256": "e1f502615378a957a4bf0d4060e5ff3fdc8d7ecf62dd3fd959fa0565040a3fc1",
+    "operator": "Cruise",
+    "mode": "deployment_mode_unspecified",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_06_08.zip",
+    "member": "Waymo-2024-10-01 Jun 24-Aug24_Public.zip::Redacted/2024-10_Driverless-Deployment/PSG0038152_2024_10_AV_Month-Level.csv",
+    "member_sha256": "bf71b51444c556400d1ee07022f29c50f64178ab279e49e8e57a3940b413ceb3",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_06_08.zip",
+    "member": "Waymo-2024-10-01 Jun 24-Aug24_Public.zip::Redacted/2024-10_Driverless-Deployment/PSG0038152_2024_10_AV_Monthly-Tract.csv",
+    "member_sha256": "126edd1d9bf631d48a8f86ca724112a5621a1e237ade1c4159746009a56dd8e4",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 4053,
+    "rows_without_valid_period": 0,
+    "sf_rows": 585,
+    "sf_start_numeric_rows": 585
+  },
+  {
+    "archive": "cpuc_activity/2024_06_08.zip",
+    "member": "Waymo-2024-10-01 Jun 24-Aug24_Public.zip::Redacted/2024_10_Drivered-Deployment/PSG0038152_2024_10_AV_Month-Level.csv",
+    "member_sha256": "7f2885b260306ec9004b6e91b17163039b70ad1be8bd82303aae1729f6f0f1f8",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_06_08.zip",
+    "member": "Waymo-2024-10-01 Jun 24-Aug24_Public.zip::Redacted/2024_10_Drivered-Deployment/PSG0038152_2024_10_AV_Monthly-Tract.csv",
+    "member_sha256": "283a1c4cc388bfc96d69ce12d2b95c8cc64cdc7607d74881d598434fd5d09e06",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0,
+    "sf_rows": 0,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_09_11.zip",
+    "member": "Waymo Dep Sep-Nov 2024 Public_2/Waymo Dep Sep_Nov Driverless 2024 Public/PSG0038152_2025_02_(Sep_1-Nov_30)_AV_Month-Level_Part0.csv",
+    "member_sha256": "c9dfb2d2497a640009eb4889bbbed62e05e1411d026c749b16e41538ab3a9c0d",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_09_11.zip",
+    "member": "Waymo Dep Sep-Nov 2024 Public_2/Waymo Dep Sep_Nov Driverless 2024 Public/PSG0038152_2025_02_(Sep_1-Nov_30)_AV_Monthly Tract_Part0.csv",
+    "member_sha256": "42a2f4b91c5af5d67370a10834e00f5663f340f311472bfe76b346f1e83953e3",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 4053,
+    "rows_without_valid_period": 0,
+    "sf_rows": 585,
+    "sf_start_numeric_rows": 585
+  },
+  {
+    "archive": "cpuc_activity/2024_09_11.zip",
+    "member": "Waymo Dep Sep-Nov 2024 Public_2/Waymo Dep Sep-Nov 2024_Drivered Public/PSG0038152_2025_02_(Sep_1-Nov_30)_AV_Month-Level_Part0.csv",
+    "member_sha256": "7f2885b260306ec9004b6e91b17163039b70ad1be8bd82303aae1729f6f0f1f8",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_09_11.zip",
+    "member": "Waymo Dep Sep-Nov 2024 Public_2/Waymo Dep Sep-Nov 2024_Drivered Public/PSG0038152_2025_02_(Sep_1-Nov_30)_AV_Monthly Tract_Part0.csv",
+    "member_sha256": "283a1c4cc388bfc96d69ce12d2b95c8cc64cdc7607d74881d598434fd5d09e06",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0,
+    "sf_rows": 0,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_12.zip",
+    "member": "Waymo Dep Dec 2024  Public_2/Waymo Dep Dec 2024 Driverless Public/PSG0038152_2025_02_(Dec_1-Dec_31)_AV_Month-Level_Part0.csv",
+    "member_sha256": "6bcfc97ebb3e5ab4650ed36b159e428da7373f68a137456d46446ecd5e66a88f",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 1,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_12.zip",
+    "member": "Waymo Dep Dec 2024  Public_2/Waymo Dep Dec 2024 Driverless Public/PSG0038152_2025_02_(Dec_1-Dec_31)_AV_Monthly-Tract_Part0.csv",
+    "member_sha256": "b1f6109ee8f08497bf72ab89f0ad8b8a0e89d9be756cc1981056d9d850eaa4c1",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 1351,
+    "rows_without_valid_period": 0,
+    "sf_rows": 195,
+    "sf_start_numeric_rows": 195
+  },
+  {
+    "archive": "cpuc_activity/2024_12.zip",
+    "member": "Waymo Dep Dec 2024  Public_2/Waymo Dep Dec 2024_Drivered Public/PSG0038152_2025_02_(Dec_1-Dec_31)_AV_Month-Level_Part0.csv",
+    "member_sha256": "7f2885b260306ec9004b6e91b17163039b70ad1be8bd82303aae1729f6f0f1f8",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2024_12.zip",
+    "member": "Waymo Dep Dec 2024  Public_2/Waymo Dep Dec 2024_Drivered Public/PSG0038152_2025_02_(Dec_1-Dec_31)_AV_Monthly-Tract_Part0.csv",
+    "member_sha256": "283a1c4cc388bfc96d69ce12d2b95c8cc64cdc7607d74881d598434fd5d09e06",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0,
+    "sf_rows": 0,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_activity/2025q2.zip",
+    "member": "Waymo Deployment 2025Q2/Drivered Deployment/PSG0038152_2025_08_AV_Month_Level.csv",
+    "member_sha256": "7f2885b260306ec9004b6e91b17163039b70ad1be8bd82303aae1729f6f0f1f8",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2025q2.zip",
+    "member": "Waymo Deployment 2025Q2/Drivered Deployment/PSG0038152_2025_08_AV_Monthly Tract.csv",
+    "member_sha256": "283a1c4cc388bfc96d69ce12d2b95c8cc64cdc7607d74881d598434fd5d09e06",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0,
+    "sf_rows": 0,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_activity/2025q2.zip",
+    "member": "Waymo Deployment 2025Q2/Driverless Deployment/PSG0038152_2025_08_AV_ Month_Level-Deployment.csv",
+    "member_sha256": "1b9a66d20a3eab9816726ed4197b5739e3a12e862ecc31c8464ded5aa4141a2a",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2025q2.zip",
+    "member": "Waymo Deployment 2025Q2/Driverless Deployment/PSG0038152_2025_08_AV_ Monthly Tract-Deployment-Public.csv",
+    "member_sha256": "780b78e7855e4401a97024796cd5f1f1efdfd90634100ff6e46abc266bef8ceb",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 4488,
+    "rows_without_valid_period": 0,
+    "sf_rows": 723,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_activity/2025q3.zip",
+    "member": "Waymo Deployment 2025Q3/2025-11_Driverless-Deployment Public/PSG0038152_2025_11_AV_Monthly_Tract-Deployment-Public.csv",
+    "member_sha256": "8b2ec12a91c2920cf50b96e1f95c6af7b54bc2aa2fb449dc78a9254f144740f1",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 5388,
+    "rows_without_valid_period": 0,
+    "sf_rows": 723,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_activity/2025q3.zip",
+    "member": "Waymo Deployment 2025Q3/2025-11_Driverless-Deployment Public/PSG0038152_2025_11_AV_Month_Level-Deployment.csv",
+    "member_sha256": "5227764f52d5ea81ba08434da9c12e9d176771f54536764daeb25ddd15e76eab",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2025q3.zip",
+    "member": "Waymo Deployment 2025Q3/2025_11_Drivered-Deployment/PSG0038152_2025_11_AV_Monthly_Tract.csv",
+    "member_sha256": "283a1c4cc388bfc96d69ce12d2b95c8cc64cdc7607d74881d598434fd5d09e06",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0,
+    "sf_rows": 0,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_activity/2025q3.zip",
+    "member": "Waymo Deployment 2025Q3/2025_11_Drivered-Deployment/PSG0038152_2025_11_AV_Month_Level.csv",
+    "member_sha256": "7f2885b260306ec9004b6e91b17163039b70ad1be8bd82303aae1729f6f0f1f8",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2025q4.zip",
+    "member": "Waymo Deployment 2025Q4/Drivered/PSG0038152_2026_02_AV_Month-Level_Part0.csv",
+    "member_sha256": "7f2885b260306ec9004b6e91b17163039b70ad1be8bd82303aae1729f6f0f1f8",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2025q4.zip",
+    "member": "Waymo Deployment 2025Q4/Drivered/PSG0038152_2026_02_AV_Monthly Tract_Part0.csv",
+    "member_sha256": "283a1c4cc388bfc96d69ce12d2b95c8cc64cdc7607d74881d598434fd5d09e06",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0,
+    "sf_rows": 0,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_activity/2025q4.zip",
+    "member": "Waymo Deployment 2025Q4/Driverless/PSG0038152_2026_02_AV_Month-Level_Part0-Deployment.csv",
+    "member_sha256": "b75a5b8cbdf60e43c4ff267d8a7bc69ded5283f11cce5b8795246c335503eaa1",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2025q4.zip",
+    "member": "Waymo Deployment 2025Q4/Driverless/PSG0038152_2026_02_AV_Monthly-Tract_Part0-Deployment-Public.csv",
+    "member_sha256": "fb461d56dff29e1ff6279e9cc50970ca82642606e91ef90ef9a7e36467fb227e",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 5388,
+    "rows_without_valid_period": 0,
+    "sf_rows": 723,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_activity/2026q1.zip",
+    "member": "Waymo Deployment 2026Q1/Drivered/PSG0038152_2026_05_AV_Monthly_Tract_Part0.csv",
+    "member_sha256": "283a1c4cc388bfc96d69ce12d2b95c8cc64cdc7607d74881d598434fd5d09e06",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0,
+    "sf_rows": 0,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_activity/2026q1.zip",
+    "member": "Waymo Deployment 2026Q1/Drivered/PSG0038152_2026_05_AV_Month_Part0.csv",
+    "member_sha256": "7f2885b260306ec9004b6e91b17163039b70ad1be8bd82303aae1729f6f0f1f8",
+    "operator": "Waymo",
+    "mode": "drivered_deployment",
+    "rows_kept": 0,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc_activity/2026q1.zip",
+    "member": "Waymo Deployment 2026Q1/Driverless/PSG0038152_2026_05_AV_Monthly_Tract_Part0-Deployment-Public.csv",
+    "member_sha256": "f63526fc36c299ebdb9bb32ba8ec01aedaf2ce94b825858f89ee9d1a0e166d56",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 5388,
+    "rows_without_valid_period": 0,
+    "sf_rows": 723,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc_activity/2026q1.zip",
+    "member": "Waymo Deployment 2026Q1/Driverless/PSG0038152_2026_05_AV_Month_Part0-Deployment.csv",
+    "member_sha256": "dc8b2c23c540bdd0f59d22e41c9090e7225075655672c37dbb53ddc6e1f7b7c5",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc/waymo_2025q1.zip",
+    "member": "Waymo Driverless Deployment 2025 Q1/PSG0038152_2025_05_AV_Month-Level_Part0.csv",
+    "member_sha256": "b84e8f578bb216c85fb311c599e792fec6f3266f080cd8a67e7bc765812fb8d9",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  },
+  {
+    "archive": "cpuc/waymo_2025q1.zip",
+    "member": "Waymo Driverless Deployment 2025 Q1/PSG0038152_2025_05_AV_Monthly Tract_Part0-Public.csv",
+    "member_sha256": "b10400ab27704190c2a6d6456e9cd86ca4cdcd2ddd75e639e0dddd755eb84117",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 4488,
+    "rows_without_valid_period": 0,
+    "sf_rows": 723,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc/waymo_2026q2.zip",
+    "member": "Waymo Deployment 2026Q2/Driverless Deployment/PSG0038152_2026_08_AV_Monthly_Tract_Part0-Deployment-Public.csv",
+    "member_sha256": "8244b1f6991558c026be2fbbec828f914127c3a3d39f290b2bdb0c897bf6ec3e",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 5388,
+    "rows_without_valid_period": 0,
+    "sf_rows": 723,
+    "sf_start_numeric_rows": 0
+  },
+  {
+    "archive": "cpuc/waymo_2026q2.zip",
+    "member": "Waymo Deployment 2026Q2/Driverless Deployment/PSG0038152_2026_08_AV_Month_Part0-Deployment.csv",
+    "member_sha256": "644c76649e799509000f53a158a62190cff55ddf53e6cda005b1c277f2759c6f",
+    "operator": "Waymo",
+    "mode": "driverless_deployment",
+    "rows_kept": 3,
+    "rows_without_valid_period": 0
+  }
+]

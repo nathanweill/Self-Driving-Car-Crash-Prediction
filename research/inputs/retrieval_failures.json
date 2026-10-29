@@ -1,0 +1,10 @@
+[
+  {
+    "path": "raw/sf/census_tracts_2010.geojson",
+    "requested_url": "https://data.sf.gov/api/geospatial/rarb-5ahf?method=export&format=GeoJSON",
+    "bytes": 53,
+    "sha256": "d49331536118aa55a2d390247a5239873375a30369c436c3925f4b7ed145822e",
+    "status": "invalid non-GeoJSON response; not used",
+    "replacement": "raw/sf/census_tracts_2010_verified.geojson"
+  }
+]

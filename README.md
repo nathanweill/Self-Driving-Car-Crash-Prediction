@@ -35,6 +35,7 @@ config/sensitivity_*.yaml  the two N_A sensitivity runs (low, high)
 data/                  inputs (see "Data")
 data/mileage/          tables behind the AV mileage N_A (see "AV mileage")
 mileage/               scripts that compute N_A from the DMV and NHTSA files
+research/              additional mileage, crash-location and activity data
 avcrash/
   io.py                readers and parsing of the raw files
   zones.py             the zones: saved assignment, or Ward clustering and island removal
@@ -220,6 +221,16 @@ Paper tables and figures:
 | Zone map, spatial split | `figures/superzone_map.png`, `figures/geosplit.png` |
 | Prediction maps | `figures/heatmap24.png`, `heatmap25.png`, `geoheatmap24.png`, `geoheatmap25.png` |
 | Sparsity figures | `figures/sparsity/sparsity_<year>.png` |
+
+## Commercial-service data
+
+Additional data for the commercial-service analysis are in
+[`research/`](research/README.md): zone-level mileage estimates for 2021-2025,
+a Waymo/reference panel for January-June 2026, refined crash locations and
+monthly activity covariates. The derived tables, source records and reproduction
+instructions are included; the estimates and coverage limits are described in
+the method notes. These inputs have not been incorporated into the fitted results
+in `results/`.
 
 ## License
 
